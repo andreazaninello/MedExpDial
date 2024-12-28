@@ -1,0 +1,11 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Excellent enthusiasm! Here is the case:
+
+You are attending a call to the home of an oncology patient. The main concern is that lately, the patient's pain has not been well controlled. On physical examination, you observe no evidence of tumor progression, and no new insights come from their medical history or previous data. The primary caregiver informs you that the patient experiences pain 8 hours after receiving the prescribed basal dose of morphine, which is given every 12 hours. 
+
+Now, based on this information, can you tell me what this clinical situation is referred to as?
+STUDENT: This clinical situation is referred to as "breakthrough pain". Breakthrough pain is a flare of pain that "breaks through" the regular pain medication regimen. It is common in cancer patients and is typically characterized by a sudden onset and short duration, with severity varying from moderate to very severe. It often occurs spontaneously or can be associated with specific triggers. Only a fraction of the total daily opioid dose is usually required to manage it, however this specific patient might require adjustments to their current dose or schedule, or an additional medication for breakthrough pain relief.
+DOCTOR: Bravo! You've got it. As you astutely pointed out, this situation is indeed referred to as "breakthrough pain". It is a rapid-onset, severe pain that occurs despite treatment with long-acting pain medicines. Your understanding, including the management strategies, is correct. We might need to adjust the current regimen or add a different medication specifically targeted at managing breakthrough pain. I'm impressed with your comprehension. Keep up the good work!
+</END>
+STUDENT: Thank you doctor for your kind words, I'm aiming to keep improving. Looking forward to our next clinical case discussion.

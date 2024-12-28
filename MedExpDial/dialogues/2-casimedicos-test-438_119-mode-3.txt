@@ -1,0 +1,26 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Absolutely! A 38-year-old woman who works as a veterinarian, responsible for monitoring wild animals and assisting domestic livestock births, has come to the hospital. She's been experiencing a high fever with chills, headache, myalgia, and a non-productive cough that she initially thought was just the flu. However, the woman also has chest pain. Her chest X-ray showed bilateral pulmonary infiltrates in the lower fields, and serologic tests revealed elevated titers of antibodies against phase II antigens. Which of the following statements do you think is TRUE? 
+
+Is it number 1: The disease is transmitted by ticks. 
+Number 2: Both doxycycline and hydroxychloroquine are effective in treating acute forms of this disease. 
+Number 3: In the acute form, the patient usually has elevated antibodies to phase I antigens. 
+Or number 4: Mortality in acute cases is virtually nonexistent.
+What's your answer?
+STUDENT: Based on the symptoms, serology findings and the patient's occupational exposure, it's likely the patient has Q fever caused by Coxiella burnetii. This is one of the rare bacteria that have a unique antigenic variation system with phase I and phase II antigens.
+
+Option 4: "Mortality in acute cases is virtually nonexistent." is the true statement in this case. Acute cases of Q fever generally have a benign course and are self-limited in most cases. Deaths are rare.
+
+Option 1 is incorrect. Coxiella burnetii is usually not transmitted through ticks. It is an aerosol infection which you can contract by inhaling dust contaminated by birth products of livestock. 
+
+Option 2 is partially true. Doxycycline is indeed the first-line treatment for acute Q fever, but hydroxychloroquine is primarily used in treatment of chronic Q fever, not acute.
+
+Option 3 is also incorrect. In acute Q fever, there are elevated antibodies to phase II antigens, not phase I.
+DOCTOR: You’re absolutely correct! The patient, given her profession and the symptoms she's been experiencing, is likely suffering from Q fever caused by Coxiella burnetii.
+
+Option 4 is indeed the correct answer—the mortality rate for acute cases of Q fever is extremely low. While there can be severe complications in some cases, such as pneumonia or hepatitis, deaths are rare.
+
+Good job analyzing the given symptoms, the patient's occupation, and her serologic test results to arrive at the accurate conclusion. Keep up the good work! 
+
+Your study and analysis are going in the right direction. Let's proceed to the next case.</END>
+STUDENT: Thank you, Doctor, for the feedback and confirmation. The case was insightful. I appreciated the opportunity to apply my knowledge to a real-world scenario. Looking forward to analyzing the next case! </END>

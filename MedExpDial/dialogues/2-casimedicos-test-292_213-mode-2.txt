@@ -1,0 +1,44 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Absolutely. Let's begin.
+
+We have a patient, Gustavo, who came to the emergency room with skin lesions and general malaise which he has been experiencing for several days. He has psoriasiform lesions on his trunk, and these also involve his palms and soles. Additionally, Gustavo is presenting with asymmetric, non-suppurative joint inflammation and bilateral ocular redness. There are also erosions found on the glans penis. While taking his detailed history, Gustavo reveals that he had a risky sexual encounter approximately 20 days prior. 
+
+Based on these symptoms, what would you suspect his diagnosis might be?
+STUDENT: Given the symptoms and their onset after a risky sexual encounter, the primary concern would be a sexually transmitted infection. The overlapping dermatological and arthropathic symptoms, in addition to redness in the eyes (conjunctivitis or uveitis), suggest that this could be Reactive arthritis or Reiter's syndrome, which is typically a reaction to an infection caused by certain bacteria. 
+
+Reactive arthritis often involves the joints, eyes, and the urogenital tract, and lesions in the mouth and on the skin can also occur. Erosions on the glans penis may represent circinate balanitis, which is a typical feature of this syndrome too.
+
+This syndrome is often precipitated by sexually transmitted infections, particularly Chlamydia trachomatis, or gastrointestinal infections. Given the timeline, the risky sexual encounter could potentially have led to one of these infections.
+
+However, further information would be needed to confirm this diagnosis. This would include tests for Chlamydia trachomatis and possibly other sexually transmitted infections, considering the reported sexual history. Inquiring about any gastrointestinal symptoms might also be helpful in pointing towards a potential cause.
+
+Further laboratory tests such as full blood count, C-reactive protein, erythrocyte sedimentation rate, and potentially joint fluid analysis might be useful to support this diagnosis and rule out other causes.
+
+Can we proceed with these investigations?
+DOCTOR: That is a thorough analysis, however, in the context of the USMLE exam, we often need to make a presumptive diagnosis based upon the information present in the case scenario, without ordering additional investigations. 
+
+Indeed, the combination of arthritis, conjunctivitis/iritis, and urethritis is commonly called "Reiter's Syndrome", and it often follows infections, particularly sexually transmitted ones. His rash is likely keratoderma blenorrhagicum, which along with circinate balanitis, are classic cutaneous findings in Reiter syndrome. Psoriasiform skin lesions also may be seen with it.
+
+So, based on the information given, which of these choices are you inclined towards?
+1. HIV infection.
+2. Secondary syphilis.
+3. Reiter's syndrome.
+4. Erythema multiforme.
+STUDENT: The symptoms presented in this case can be indicative of a sexually transmitted disease, given the history of a risky sexual encounter. The choice among the options provided that aligns best with the patient's symptoms, including psoriasiform skin lesions, non-suppurative joint inflammation in an asymmetric pattern, ocular redness, and erosions on the glans penis, is Reiter's syndrome or reactive arthritis. 
+
+Reactive arthritis is an immune-mediated reaction that occurs after certain genitourinary or gastrointestinal infections, typically presenting with the triad of urethritis, conjunctivitis, and arthritis. Cutaneous features such as keratoderma blenorrhagicum and circinate balanitis are also commonly seen.
+
+While syphilis and HIV should be considered given the history of risky sexual behavior, these diagnoses do not align as well with this patient's full set of symptoms. Erythema multiforme is typically associated with drug hypersensitivity or viral infection, and it isn't classically associated with joint pain or urethritis, so it also seems unlikely here.
+
+Therefore, based on the patient's symptoms, my presumptive diagnosis would lean towards option 3: Reiter's syndrome. Further investigations will help to identify the triggering infection, which will guide the treatment plan.
+DOCTOR: You're correct, well done! Based on the symptoms presented in the scenario, the most suitable diagnosis is indeed Reiter's syndrome or Reactive Arthritis. This syndrome often follows infections, and especially sexually transmitted ones. 
+
+The patient's concurrent signs and symptoms - psoriasiform lesions, joint inflammation, ocular redness, and lesions on the penis - are consistent with the typical clinical manifestations of this syndrome. 
+
+In practice, you would certainly want to support this with additional tests to identify the triggering infection, as well as rule out other potential diagnoses. However, for the purpose of your exam, your understanding and diagnostic reasoning are certainly on track.
+
+Keep practicing and applying your knowledge to various clinical scenarios in this way. It will strengthen both your clinical reasoning and understanding of how diseases can present differently in different patients. 
+
+Good luck with your USMLE preparation!</END>
+STUDENT: Thank you, doctor! This case was insightful and helped me understand how to apply my knowledge to real-life scenarios. I appreciate your guidance and will continue to study and practice for my USMLE exam. I look forward to learning more from future cases.

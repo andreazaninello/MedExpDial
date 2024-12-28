@@ -1,0 +1,48 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Absolutely!
+
+We have a 42-year-old female patient who has been reporting symptoms consistent with inflammatory pain and swelling in various joints, including both wrists, the second and third metacarpophalangeal joints, the proximal interphalangeal joints bilaterally, and her left ankle. These symptoms have been persisting for 4 months now. In the mornings, she notices stiffness that lasts for more than an hour.
+
+A hand X-ray revealed an erosion in the styloid process of the ulna in her right carpus. Her blood tests show a hemoglobin level of 10 g/dL and elevated ESR and CRP values of 45 mm in the first hour and 16 mg/L, respectively. Her rheumatoid factor is 160 IU/ML. 
+
+She was initially treated with indomethacin and methotrexate, but unfortunately, after 6 months, her symptoms are persisting. Her morning stiffness has improved somewhat and now lasts for only 30 minutes, and follow up bloodwork show that her ESR and CRP levels have come down to 30 mm in the first hour and 9 mg/dL, respectively.
+
+Given these findings and trends, what would you think is the next best step in managing her treatment?
+STUDENT: Understood. The patient still has persisting symptoms of rheumatoid arthritis, including pain and inflammation in multiple joints, characteristic of that disease. The rheumatoid factor is found to be high, in line with the diagnosis of rheumatoid arthritis. She has been on indomethacin and methotrexate but still experiences symptoms. 
+
+The recent reduction in morning stiffness duration and decrease in ESR and CRP levels suggest some sort of response to the treatment but it is still not substantial.
+
+Understanding the chronicity and sometimes refractory nature of rheumatoid arthritis, we need a measured approach. Adding a biologic agent like a TNF inhibitor might be a reasonable next step, given the persistent disease activity despite the use of methotrexate, but I would like to see the available options before making the final call.
+DOCTOR: Excellent critical thinking! Here are the available options that we have:
+
+1. Suspend the prescribed treatment due to lack of response and initiate prednisone at high doses for symptom control only.
+2. Maintain the therapeutic attitude taken since we have only been on it for 6 months and it would be necessary to wait a minimum of 9 months to evaluate therapeutic response.
+3. If there is no medical contraindication, consider adding an anti-TNF alpha to the treatment.
+4. Start a second disease-modifying drug as soon as possible, since it would not be possible to start treatment with biologic therapy alone after methotrexate.
+5. Consider starting treatment with anti-CD20 therapy associated with methotrexate.
+
+What is your best choice keeping in mind the patient’s condition, the nature of the disease, and the time required for different treatments to take effect?
+STUDENT: Option 3, adding an anti-TNF alpha to the current treatment, seems to be the most appropriate choice in this scenario. 
+
+Given the persisting moderate-to-high disease activity despite being on methotrexate, adhering to the standard approach of adding a biologic agent (such as an anti-TNF alpha) to the regimen if there's no contraindication, seems to be the best way forward. Anti-TNF medications have proven their efficacy in controlling the disease activity in patients with rheumatoid arthritis and could potentially provide the relief that our patient needs. 
+
+While continuing the current therapy is also an option as per the guideline, given the bone erosion and thus potential severity of the disease coupled with the patient's ongoing discomfort, more aggressive management seems warranted. Therapies such as high-dose prednisone (Option 1) or anti-CD20 therapy (Option 5) could have substantial side effects and might not be the first choices given that we have other viable options to try first. 
+
+Also, starting a second DMARD (Option 4) might also potentially be considered later on, but given the bone erosion and symptomatology, adding a fast-acting biologic agent like anti-TNF alpha first could be beneficial.
+
+So, my decision would be Option 3, adding an anti-TNF alpha if there's no contraindication.
+DOCTOR: Your decision-making process is sound, and in many cases, your choice of action might indeed be the best course of action. However, in this specific case, it would be more appropriate to continue with the current course of therapy for a little while longer. 
+
+Rheumatoid arthritis is indeed a chronic and progressive disease, and response to treatment is generally slow. Six months can seem like a long time, but many disease-modifying anti-rheumatic drugs, including methotrexate, can take up to six months or more to show full effects. Although the patient hasn't attained full remission of symptoms, there has been some improvement noted in her morning stiffness and inflammatory markers like ESR and CRP.
+
+While the presence of erosions indicate aggressive disease, her overall disease activity has improved as evidenced by decreased inflammation markers and certain symptoms, suggesting that the treatment has had some impact. Therefore, under these circumstances, it would be appropriate to continue with methotrexate therapy and reassess response in a few more months. 
+
+Therefore, contrary to expectations, the correct answer in this case would be Option 2, maintain the therapeutic attitude taken since we have only been on it for 6 months and it would be necessary to wait a minimum of 9 months to evaluate therapeutic response.
+
+Do keep in mind that deciding the next step in therapy is a complex process that involves considering the specific clinical condition and progression, patient preferences and values, efficacy and safety profile of therapies, and individual response to therapy.
+STUDENT: Thank you, doctor. That's a valuable lesson. Sometimes observing patience and waiting for the full effects of the treatment to manifest is the right approach, even if improvements are slow and gradual in chronic conditions like rheumatoid arthritis. It is indeed crucial to avoid rushing into next steps especially when there are signs pointing to some degree of positive response. The risk-benefit ratio, patient preference and comfort, progression of disease, all must be taken into consideration before stepping up treatment. I will definitely bear this in mind for my future clinical decision making.
+DOCTOR: Exactly, sometimes observation and patience are key, especially in chronic diseases like rheumatoid arthritis. And remember, management also includes optimizing pain control and function through non-pharmacological measures and promoting overall health through lifestyle modifications.
+
+You're getting the idea very well. Keep studying and asking great questions! You're doing excellent work. </END>
+STUDENT: Thank you for your guidance and encouragement, doctor! I truly appreciate the learning opportunity and the insights you provided. I'm looking forward to the next clinical case for further honing my clinical reasoning skills.

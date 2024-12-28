@@ -1,0 +1,20 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Of course! Here it is:
+
+We have a 25-year-old woman. She wants to become pregnant and is seeking advice on what treatment she should be on during her eventual pregnancy. Importantly, she is a heterozygous carrier of Factor V Leiden, but has never had any thrombotic events. This determination was made during familial study after one of her siblings had an episode of pulmonary embolism. What would you advise for her treatment plan during pregnancy?
+STUDENT: Factor V Leiden mutation increases the risk of developing abnormal blood clots in veins, a condition known as venous thromboembolism. However, heterozygous carriers who have never experienced a thrombotic event generally do not require anticoagulant therapy. 
+
+In pregnancy, physiological changes increase the risk of thrombosis, but in the absence of any personal history of thromboembolic events, this patient's risk, although elevated compared to those without the mutation, is still not considered high enough to warrant prophylactic anticoagulation. 
+
+That being said, it's recommended to individualize the decision for thromboprophylaxis. For example, during periods of high risk such as in the immediate postpartum period or if she needs to be bedridden for any reason at any point of time during pregnancy, she might benefit from prophylactic anticoagulation. 
+
+So, to summarize, I do not advise routine anticoagulant therapy for the patient, but recommend close monitoring for any signs or symptoms of thrombosis, and consideration of anticoagulation during times of elevated risk. 
+
+Does she have any other medical conditions? Any personal history suggestive of excessive clotting like recurrent miscarriages, deep vein thrombosis, stroke, etc.?
+DOCTOR: No, there's no history of any excessive clotting like recurrent miscarriages, deep vein thrombosis, or stroke, and no other medical conditions. And everything you've said is right. Now, let's piece it all together.
+
+The patient being a heterozygous carrier of Factor V Leiden implies that the risk of thrombophilia is low - hence, there's typically no need to place her on anticoagulant therapy during her pregnancy or postpartum. The treatment plan would be as you suggest - mostly consisting of careful monitoring for any symptoms of thrombosis, without the routine use of anticoagulants. And yes, as you've thoughtfully considered, there may be certain high-risk situations where temporary prophylactic treatment could be beneficial.  
+
+Thus, the response to the question "What treatment should be advised?" given the patient's circumstances would be: "With Factor V Leiden in heterozygosity being a low-risk thrombophilia, there is no need for any treatment during pregnancy and puerperium." </END>
+STUDENT: Thank you, doctor. I appreciate your comprehensive explanation, which has reinforced my understanding of the management of patients who are Factor V Leiden carriers and choose to become pregnant. It's important to consider the individual's risk as well as potential high-risk situations that may warrant temporary prophylactic treatment. I will make sure to remember these key principles in my practice as a future physician and for my USMLE exam.

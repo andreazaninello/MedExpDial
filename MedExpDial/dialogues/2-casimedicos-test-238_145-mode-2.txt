@@ -1,0 +1,44 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Of course, let's go!
+
+We have a 40-year-old woman who experiences around 20 episodes daily of severe left periocular pain, each lasting for around 15 minutes. Accompanying this pain, she's also having intense tearing and rhinorrhea. Her examination shows no abnormalities, and her MRI also came out normal. Let's consider what her treatment of choice would be. Can you suggest a potential treatment based on her symptoms?
+STUDENT: Based on the patient's symptoms - episodes of severe pain, periocular localization, autonomic symptoms such as tearing and rhinorrhea - she seems to be suffering from cluster headaches. 
+
+One of the most effective treatments for a cluster headache is the administration of high-flow oxygen. Subcutaneous sumatriptan is also often used. Preventative treatments might include verapamil or steroids.
+
+However, if the options are the following:
+
+A) Topiramate
+B) Gabapentin
+C) Verapamil
+D) Valproic acid
+E) Carbamazepine
+
+I would say verapamil (option C) is the best answer given the information available.
+DOCTOR: Great reasoning indeed. It looks like the patient may be suffering from cluster headache. However, seeing your proposed answers and considering these differentiated symptoms with intense left periocular pain, the best treatment might not be Verapamil. 
+
+Remember, another type of severe and repetitive headache condition is trigeminal autonomic cephalgias (TACs) subgroup. This includes cluster headaches (CH) and another important one called paroxysmal hemicrania (PH) which is commonly mistaken.
+
+While indomethacin is not usually considered a first-line treatment for many headache disorders, it is exceptionally effective in treating a condition called paroxysmal hemicrania. Its almost magic-like benefit is considered to be part of its diagnostic criteria. 
+
+Now consider these options:
+
+1) Indomethacin
+2) Lamotrigine
+3) Verapamil
+4) Prednisone
+5) Lithium carbonate
+
+Which treatment could fit the presented case better? Would you reconsider your choice?
+STUDENT: Based on your input and the new set of options, I would suggest Indomethacin (option 1) as the best choice for treatment. The presentation of episodic, intense left periocular pain could indeed be indicative of paroxysmal hemicrania as evidentially, they share similar characteristics with cluster headaches, but with key differences that lead to different treatment options. 
+
+As you noted, the near-magical effectiveness of Indomethacin for treating paroxysmal hemicranias almost forms part of the diagnostic criteria. This certainly fits better with the case at hand, and I appreciate you for your clarification, and expanding the differential to include other TACs.
+DOCTOR: Excellent job, you got it! Your understanding of the complexity of headache disorders and their manifestations is commendable.
+
+Indeed, while headaches can have overlapping symptoms, subtle differences like frequency, duration and lack of response to conventional treatments can suggest a different diagnosis. This patient's symptoms suggest paroxysmal hemicrania, which responds extraordinarily well to Indomethacin. Your clinical reasoning process was very good and you arrived at the correct answer, well done!
+
+Please remember this and continue your good work on your journey in medicine! </END>
+STUDENT: Thank you very much, doctor! This case was quite challenging but provided a lot of insightful learning. I appreciate your guidance and the opportunity to understand these distinct headache disorders better. I'll certainly remember this for future cases.
+
+Thank you once again and looking forward to our next discussion. </END>

@@ -1,0 +1,14 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Of course. Here is a case for you to review:
+
+You have been asked to visit the home of an oncology patient. This patient's pain has been poorly controlled recently. On physical examination, there seems to be no evidence of tumor progression, and no significant past data is evident during your clinical evaluation. As per the information provided by the primary caregiver, the patient experiences pain about 8 hours after receiving his prescribed basal dose of morphine, which is due every 12 hours. 
+
+Now, considering this scenario, how would you describe this clinical situation?
+STUDENT: Considering this scenario, the clinical situation you're describing sounds like a case of breakthrough pain, as the patient experiences an increase in pain before it's time for the next dose of their prescribed analgesia. However, if this phenomenon occurs regularly and the same dose of morphine becomes less effective over time, the patient may also be developing tolerance to the medication. Tolerance refers to a condition where higher doses of a drug are needed to achieve the same effect. It's common in long-term use of medications like opioids.
+DOCTOR: Absolutely correct. Tolerance to opioids like morphine can develop with prolonged use. The body becomes habituated to the drug, requiring more of the substance to achieve the same pain-relieving effect. The situation described here, where the patient is experiencing pain before it's time for the next dose of their medication, is highly indicative of drug tolerance. 
+
+Other options mentioned in the question like hyperalgesia, dependency, and ineffectiveness are not relevant in this case. Hyperalgesia is a state of increased sensitivity to pain, which is not suggested in the scenario. Dependency refers to a compulsive and maladaptive dependence on a substance, which is not implied in the details given. Ineffectiveness simply means the drug is not working, which is not exactly the case here. The drug is working, but not for as long as it should, which again points to tolerance.
+
+Therefore, the correct answer to this question would be option 1 - Tolerance. </END>
+STUDENT: Thank you for the detailed explanation and clarification, doctor. This has been a valuable lesson in understanding the development of tolerance in long-term opioid use, like morphine in this case. I'm ready to move on to the next clinical case when you are.

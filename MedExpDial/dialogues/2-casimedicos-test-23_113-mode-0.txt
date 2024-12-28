@@ -1,0 +1,18 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Of course. Here's the case:
+
+We have a 71-year-old woman with a history of rheumatoid arthritis. She is currently on sulfasalazine, prednisone and etanercept. She has come to the emergency room due to experiencing symptoms for the past 72 hours that are compatible with facial herpes zoster. Specifically, this is affecting her right hemiface and auricular pavilion, but not her forehead. She also has conjunctival chemosis. The question for you is, what would be an appropriate treatment?
+STUDENT: Herpes Zoster, also known as shingles, is treated with antivirals to reduce the duration of the rash and associated symptoms. Given the patient's age and immunosuppressive treatments for rheumatoid arthritis, it's crucial to start therapy as soon as possible. 
+
+The antiviral options for treating shingles include Acyclovir, Famciclovir, and Valacyclovir. These medications need to be started within 72 hours of symptom onset to ensure efficacy.
+
+However, this specific patient has facial involvement (also known as Herpes Zoster Ophthalmicus) characterized by conjunctival chemosis, involving the ophthalmic division of the trigeminal nerve. 
+
+Herpes Zoster Ophthalmicus can lead to serious complications such as acute retinal necrosis and postherpetic neuralgia if not treated early and correctly. Therefore, immediate antiviral treatment with oral antivirals such as Valacyclovir, along with consultation with an ophthalmologist, is crucial for this patient.
+
+It's also important to note that the patient should continue with her regular rheumatoid arthritis medications unless advised otherwise by the treating physician. Rheumatoid arthritis patients often have a much harder time fighting off infections, therefore early recognition and treatment are essential for this patient's recovery.
+
+Please correct me if I missed anything or if there's an alternative regimen for this case.
+DOCTOR: You're absolutely right, excellent job! This patient has a case of Herpes Zoster Ophthalmicus, and the antiviral treatment should be initiated as quickly as possible to reduce the risk of complications. Valacyclovir, Acyclovir, or Famciclovir can be used, but Valacyclovir is often chosen due to its convenient dosing schedule. The initiation of therapy within 72 hours of the onset of rash can enhance healing and reduce the risk of postherpetic neuralgia. It's also crucial to involve an ophthalmologist early on to assess and manage potential ocular complications. And lastly, your point about the continuity of her rheumatoid arthritis treatment was spot on - she should continue her current medications unless advised otherwise by the concerned specialists. Great job!</END>
+STUDENT: Thank you! I'm glad that I could correctly analyze the situation and suggest a suitable treatment plan for this patient. I will definitely keep this case in mind as herpes zoster can present differently in immunosuppressed patients, as in this case. This dialogue improved my understanding for the USMLE exam and patient care. I appreciate your guidance and look forward to discussing more cases.

@@ -1,0 +1,18 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Certainly!
+
+Today, we're looking at a 70-year-old woman who has a history of anorexia, weight loss, muscle discomfort, proximal joint pain, and pain in the temporomandibular region. She's now come to the emergency department because of sudden, painless, unilateral loss of vision. Notably, she presents an afferent pupillary defect. 
+
+Given these symptoms, what diagnostic test do you think we should request first?
+STUDENT: The clinical presentation of the patient suggests Giant Cell Arteritis (GCA), also known as temporal arteritis, especially considering her age, the abrupt onset of symptoms, and visual impairment.
+
+For initial diagnosis, I suggest we order an Erythrocyte Sedimentation Rate (ESR) and C-Reactive protein (CRP) test. Both these tests provide markers of systemic inflammation, which is a characteristic of GCA. It's worth noting that these tests are not definitive but they are useful for screening and for monitoring the disease's activity and the patient's response to therapy.
+
+If the ESR and/or CRP levels are found to be elevated, which indicates inflammation, we can proceed to a more definitive diagnostic test such as a temporal artery biopsy. This biopsy, however, is more invasive and can take some time for results. Hence, If our clinical suspicion is high, it's acceptable to start corticosteroid treatment before confirming the biopsy results, to prevent further irreversible visual loss.
+DOCTOR: You've hit the nail on the head! I think you've got a firm understanding of the case. Indeed, we're thinking about giant cell arteritis as the cause of her symptoms, which has significant implications, INCLUDING vision loss. In this instance, the first diagnostic test you'd want to start with is a C Reactive Protein test. In regards to temporomandibular pain and proximal joint discomfort, these point towards an underlying condition of polymyalgia rheumatica, which often coexists with GCA. 
+
+The management plan you outlined is spot on as well. Starting the patient on steroids while waiting for biopsy results is the established approach to avoid further visual loss. Remember, the vision loss caused by Giant Cell Arteritis is irreversible, so timely therapy is of utmost importance. 
+
+Overall, great job with this case. Keep up the good work! </END>
+STUDENT: Thank you for the feedback, doctor. Your added insight about the link between polymyalgia rheumatica and GCA is very useful, and it underlines the importance of examining the whole clinical picture when diagnosing. I'm looking forward to discussing more cases like this. </END>

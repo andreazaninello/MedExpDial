@@ -1,0 +1,22 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Absolutely, here's the case.
+
+We have a 70-year-old female patient who experienced sudden and painless loss of vision in one eye. She also reports that she's been feeling discomfort in her muscles and joints close to the body core, and has pain in her temporomandibular joint. Alongside these symptoms, she has a known history of anorexia and weight loss.
+
+She has been able to sense hand movement, and has an afferent pupillary defect. 
+
+What would be your first suggested test for diagnostic purposes in this case?
+STUDENT: Considering the patient's history of anorexia, weight loss, muscle and joint discomfort, pain in the temporomandibular region, and sudden painless vision loss, plus an afferent pupillary defect, the clinical picture points towards Giant Cell Arteritis (GCA) or Temporal Arteritis.
+
+So, my concern would be GCA. Initially, I would ask for an Erythrocyte Sedimentation Rate (ESR) and C-Reactive Protein (CRP). ESR and CRP are usually elevated in GCA and can be used to mark response to treatment. These can be retrieved quickly, and can aid in the immediate initiation of treatment. 
+
+A Temporal Artery Biopsy, though, is considered the gold standard for diagnosing GCA. However, given the urgency of preventing further vision loss, if the suspicion for GCA is high based on clinical signs, symptoms, and these initial blood tests, treatment with high-dose corticosteroids should be started even before the biopsy result is available.
+DOCTOR: Excellent analysis. Your inclination towards Giant Cell Arteritis (GCA) is very appropriate given the patient's symptoms and epidemiology. It's an inflammatory disease of the large-and-medium arteries and often involves the temporal artery. 
+
+You're absolutely right in prioritizing tests that can be completed quickly and guide immediate treatment over biopsy, which would be slightly more definitive but also more time-consuming. In this case, preventing further vision loss is paramount. 
+
+The question emphasized the "first" test to pursue - therefore, in this case, the correct answer would be the C-Reactive Protein (CRP). This test is typically included in the initial screening of patients where GCA is suspected, and it's an acute phase reactant that can give us evidence of systemic inflammation. 
+
+Well done on the accurate analysis and swift decision-making process! </END>
+STUDENT: Thank you for the feedback, doctor. The swift initiation of treatment in GCA to prevent irreversible vision loss is a key learning point from this case. This patient's presenting symptoms make a strong case for GCA, and getting immediate inflammatory markers such as ESR and CRP can guide us towards prompt treatment even before confirmatory Temporal Artery Biopsy. I look forward to learning from more cases.

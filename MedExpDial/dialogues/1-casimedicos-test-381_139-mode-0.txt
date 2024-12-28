@@ -1,0 +1,14 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Absolutely! Here's the scenario: A 70-year-old woman with a history of anorexia, weight loss, muscle discomfort, pain in the proximal joints and in the temporomandibular region has come into the emergency department. She's experiencing sudden, painless unilateral vision loss, which is limited to hand movement; there's also an afferent pupillary defect. With these symptoms in mind, what do you think would be the most appropriate first step for a diagnostic test?
+STUDENT: Sudden, painless vision loss along with afferent pupillary defect and temporal symptoms point toward a diagnosis of temporal arteritis, otherwise known as giant cell arteritis (GCA). This is a medical emergency because it can lead to irreversible blindness.
+
+Also taking into account her age and other symptoms she's been experiencing like muscle discomfort, weight loss, and her joint pains, these are common systemic symptoms of GCA.
+
+The most appropriate first step in diagnostic testing for suspected GCA would thus be to obtain an Erythrocyte Sedimentation Rate (ESR) and C-reactive protein (CRP), which are nonspecific tests of systemic inflammation. 
+
+If these results are indicative of Giant cell arteritis (elevated), temporal artery biopsy would be the gold standard diagnostic test. However, high dose glucocorticoids should be started immediately even before biopsy confirmation to prevent further vision loss. To answer your question explicitly, the first diagnostic test would be blood tests for ESR and CRP.
+
+Could you confirm if this is along the lines of what you were hoping for, doctor?
+DOCTOR: Yes, you're absolutely correct! The appropriate first diagnostic step for suspected temporal arteritis, given the clinical context of this case, is indeed to perform an Erythrocyte Sedimentation Rate (ESR) and C-reactive protein (CRP) blood tests. These tests reflect the level of systemic inflammation present and can be elevated in conditions like Giant Cell Arteritis. As you correctly mentioned, if these tests are positive, then a temporal artery biopsy should be confirmed but high-dose glucocorticoids should be initiated immediately to prevent further loss of vision. You handled this case very well. Good job! </END>
+STUDENT: Thank you for your confirmation and kind words, doctor! I'm trying to make every effort to make the best decisions with the information provided. In clinical practice, prompt treatment can sometimes make all the difference in patient outcomes, especially in cases like Giant Cell Arteritis where delay can have such serious consequences. I will keep all this in mind as I continue my education.

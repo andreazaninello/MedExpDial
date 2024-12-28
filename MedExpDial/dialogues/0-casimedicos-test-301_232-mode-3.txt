@@ -1,0 +1,19 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Of course. Today's case is about a 24-year-old woman who has noticed inguinal lymphadenopathy. There's no evidence of any local discomfort or indications of a sexually transmitted infection from her information. On examination, two lymphadenopathies were found, one in each groin, measuring 1 cm in diameter. They are soft, mobile, and non-painful. No skin lesions could be observed on her lower limbs, anus, or perineum. Considering this information, what do you think would be an essential test to perform?
+STUDENT: Given the patient's age and presentation, it could be necessary to consider sexually transmitted infections as a potential cause even in the absence of symptoms. Therefore, it would be beneficial to conduct tests for sexually transmitted infections, particularly syphilis, which can often present with lymphadenopathy. Other potential causes of generalized lymphadenopathy that could be tested for include HIV, and lymphomas. 
+
+However, since the lymphadenopathies are mobile, soft, non-painful, and only 1 cm in size, and there are no other indicative symptoms or signs from the physical exam or her medical history, it might suggest that the lymphadenopathies are reactive in nature, possibly due to benign causes or even normal variants. 
+
+Is there a particular diagnostic test you are referring to?
+DOCTOR: Yes, you're correct. There are various possible causes for the lymphadenopathy. However, based on the details we have, choosing a targeted diagnostic test can be challenging. Can I guide you by providing some possible options for next steps and you identify which one you think could be the most appropriate?
+
+1- Perform a lues serology since it is most likely a Treponema pallidum infection.
+2- Carry out a gynecological examination to rule out ovarian cancer.
+3- Assess the characteristics, it seems to be normal lymph nodes and further explorations should not be done.
+4- Perform a Paul-Bunnell test in order to rule out infectious mononucleosis.
+STUDENT: From the options you've given, the third option seems to be the most appropriate. This corresponds to the clinical presentation of the patient. Her lymph nodes are only mildly enlarged at 1 cm and are soft, mobile and non-tender - these characteristics typically indicate benign or reactive lymphadenopathy. Given the absence of symptoms associated with the other conditions in the options or any other alarming signs, it seems reasonable to consider this a normal finding for this patient. Of course, we would still advise her to return if the lymph nodes significantly enlarge or other symptoms occur.
+DOCTOR: Perfect! You've critically analyzed the patient's symptoms and arrived at the correct conclusion. It's absolutely essential to consider the size of the lymphadenopathy - in healthy adults, palpable inguinal nodes of up to 2 centimeters can be considered normal. In this case, any further study or explorations are not recommended unless there are any changes or additional symptoms. Great job! </END>
+STUDENT: Thank you very much, doctor, for this challenging and educational case. I truly appreciate your guidance and I'm learning a lot from these case-based discussions. It certainly will help me not only in my USMLE exam preparation but also in my future practice. Looking forward to more case discussions!
+
+</END>

@@ -1,0 +1,18 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Of course. We have a 24-year-old woman who came in after noticing inguinal lymphadenopathy. When asked, she denied experiencing any local discomfort or symptoms indicating a sexually transmitted infection. Physical examination revealed two lymph nodes, about 1 cm in diameter, one in each groin. They were soft, mobile, and didn't cause her any pain. No skin lesions were noted on her lower limbs, anus or perineum. Can you suggest a test that you think would be essential in this case?
+STUDENT: Based on the clinical features presented by the patient, she has asymptomatic, bilateral inguinal lymphadenopathy without any skin lesions or symptoms of sexually transmitted infection. This picture makes it crucial to establish where the potential source of infection or malignancy could be coming from. 
+
+Although this patient denies symptoms of sexually transmitted diseases, asymptomatic infections are quite common. Therefore, I think the crucial next step would be to perform a pelvic examination and cervical cancer screening tests (if she's not up to date) to exclude gynecologic malignancies or infections. Additionally, we should also consider blood tests, including complete blood count and specific tests for sexually transmitted diseases such as HIV, syphilis, chlamydia, and gonorrhea. Lastly, ultrasound or a computed tomography (CT) scan of the pelvis may also be helpful if these tests don't provide the answer. 
+
+Am I on the right track, doctor?
+DOCTOR: Yes, you're on the right track. A thorough pelvic examination and cervical cancer screening are important since asymptomatic sexually transmitted infections can lead to lymphadenopathy. Screening for sexually transmitted diseases like HIV, syphilis, chlamydia, and gonorrhea is also crucial, and blood tests will give a broader picture regarding her systemic health condition. 
+
+The use of imaging studies will be determined by the results of these tests, but they can indeed be beneficial to identify potential underlying causes not detected by the initial evaluation. Inguinal lymphadenopathy can also be linked to malignancies or infections in the lower extremities, pelvis, or abdomen. 
+
+However, it is vital to remember that significant inguinal lymphadenopathy in young adults can be normal. In general, if the nodes are small (<1-2 cm), non-tender, and mobile, they may be normal. But it's always important to further evaluate persisting, progressive, or symptomatic lymphadenopathy to ensure we're not missing anything. 
+
+You're doing great. Keep going! </END>
+STUDENT: Thank you, doctor! That makes sense. Given the information you've shared, I would definitely recommend this patient to undergo the mentioned screenings and tests. It's better to rule out any potential underlying diseases or infections early on. 
+
+Just to clarify, would you recommend biopsying one of the lymph nodes if the initial tests don't reveal anything or if the lymphadenopathy doesn't resolve within a specified timeline? This might help us to further understand the cause of lymphadenopathy, particularly if there's a concern for malignant causes.

@@ -1,0 +1,33 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Of course! 
+
+Here is the case: We have a 2-year-old boy. His personal history includes 3 episodes of acute otitis media, 1 meningococcal meningitis, and 2 pneumonias (one middle lobe and one left upper lobe). He has been admitted to the hospital on 3 occasions for thrombopenic purpura. On all these occasions, antiplatelet antibodies were negative and bone marrow showed normal megakaryocytes. 
+
+In addition to this, several males of the maternal family had died in childhood due to infectious processes. The physical examination of our patient revealed lesions typical of atopic dermatitis. The immunological study showed a slight decrease in T-lymphocyte subpopulations, elevated levels of IgA and IgE, decreased IgM and IgG at the lower limit of normal.
+
+Given these observations, can you identify the most likely diagnosis?
+STUDENT: The patient's history of recurrent infections, thrombocytopenic purpura, and evidence of atopic dermatitis (eczema), along with the immunological picture of increased IgA and IgE levels and reduced IgM, suggests a possibility of an immunodeficiency disorder. 
+
+In light of the fact that the affected individuals in the family are all male and considering the X-linked pattern of inheritance suggested by deaths in several males of the mother's family, the most likely diagnosis is Wiskott-Aldrich Syndrome (WAS). 
+
+WAS is characterized by mutations in the WAS gene that lead to microthrombocytopenia, eczema, and immunodeficiency. 
+
+Do you think further investigations like genetic testing for WAS gene mutations should be carried out to confirm the diagnosis?
+DOCTOR: I understand your reasoning, but Wiskott-Aldrich syndrome usually presents with heavy bleeding after circumcision or bloody diarrhea, which is not mentioned in this case. Also, the number of T-lymphocyte subpopulations in Wiskott-Aldrich syndrome are usually decreased significantly, but this patient only shows a slight decrease. 
+
+Taking into account the symptomatology that is exposed we find: - 2-year-old child. - ENT infections. - Pulmonary infections. - Hospital admissions. - PTI. - Family history of infections with deaths due to infections in males (maternal family). - Atopic Dermatitis. All these data, in addition to the analytical data, are describing an immunodeficiency that by the family-maternal history, seems to be X-linked, as several males have died of a similar clinical condition (the father of the patient contributed the Y chromosome, the mother the X).
+
+The correct answer in this case is 4- X-linked severe combined immunodeficiency.
+
+Severe combined immunodeficiency (SCID) is a group of rare disorders caused by mutations in different genes involved in the development and function of infection-fighting immune cells. Infants with SCID appear healthy at birth but are highly susceptible to severe infections.
+
+The diagnosis of SCID is suggested by a complete blood count with differential, lymphocyte subset enumeration by flow cytometry, and in vitro lymphocyte response to mitogens. The diagnosis of SCID is confirmed by identifying biallelic pathogenic variants in one of the many genes known to cause SCID or a markedly reduced or absent number of T cells on flow cytometry combined with a reduced proliferation response to mitogens. 
+
+One thing to definitely rule out is other X-linked diseases - common variable immune deficiency and Hyper-IgM syndrome, but decreased IgM suggests against the latter diagnosis and common variable immune deficiency presents later in life, usually in the twenties or thirties.
+
+STUDENT: Thank you, doctor. You are right. Your explanation is very clear. The clinical features and the immunological profile of the patient indeed direct towards X-linked severe combined immunodeficiency (SCID). Even though some symptoms may align with Wiskott-Aldrich Syndrome, the lack of significantly decreased T cells and other specific symptoms such as heavy bleeding cast doubt on it. I have learnt from this case the importance of considering all aspects and being guided by every individual's unique presentation. I am going to look more into X-linked SCID to further understand this condition better.
+DOCTOR: You're welcome! I'm glad you found the explanation helpful. Indeed, medicine is a complex field and every case is unique. Your understanding and curiosity will take you a long way. Keep up the good work and keep exploring. 
+
+Ajay you have any other questions on the subject, or if there's anything else you want to discuss, don't hesitate to ask. </END>
+STUDENT: Thank you, doctor. I will keep your advice in mind while preparing for my exams and beyond. Your help is very much appreciated. If I have more questions, I will surely reach out. Your guidance makes complex concepts easier to understand. Thanks once again.

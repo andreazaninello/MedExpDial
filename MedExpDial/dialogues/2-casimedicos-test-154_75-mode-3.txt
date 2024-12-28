@@ -1,0 +1,40 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Absolutely, let's get started.
+
+A 42-year-old female patient has come to you with pain that has inflammatory features and swelling in both wrists, the 2nd and 3rd metacarpophalangeal and proximal interphalangeal joints bilaterally, and left ankle which has been there for 4 months. She also has morning stiffness that lasts for more than one hour. X-ray of her hand shows an erosion in the styloid process of the ulna in the right carpus. Her lab results show Hb: 10 g/dL, ESR: 45 mm in the first hour, CRP: 16 mg/dL, and rheumatoid factor: 160 IU/ML.
+
+After being treated with indomethacin and methotrexate for 6 months, she still experiences pain and swelling in both carpals, and morning stiffness lasting 30 minutes. Her latest labs show ESR 30 mm in the first hour and CRP 9 mg/dl.
+
+What approach should be taken for this patient given the following options: 
+
+1- Should we suspend the prescribed treatment due to lack of response and initiate prednisone at high doses for symptom control only?
+2- Should we maintain the therapeutic approach since we have only been on it for 6 months and it would be necessary to wait a minimum of 9 months to evaluate therapeutic response?
+3- If there is no medical contraindication, should we consider adding an anti-TNF alpha to the treatment?
+4- Should we start a second disease-modifying drug as soon as possible, since it would not be possible to start treatment with biologic therapy alone after methotrexate?
+5- Or should we consider starting treatment with anti-CD20 therapy associated with methotrexate?
+STUDENT: This patient's symptoms, physical findings, and lab results highly suggest Rheumatoid Arthritis. The patient has been treated with methotrexate, a disease-modifying antirheumatic drug (DMARD) and indomethacin, a nonsteroidal anti-inflammatory drug (NSAID). However, because she still experiences symptoms and her lab results indicate ongoing inflammation, her condition has not fully resolved.
+
+Given the provided options, I have some considerations:
+
+1- Prednisone is a glucocorticoid that can have substantial side effects with long-term use, thus it's not an ideal choice for the consistent symptom management of Rheumatoid Arthritis.
+
+2- The patient's inflammatory markers (ESR and CRP) have shown some decrease and the duration of morning stiffness has also shortened, indicating some response to methotrexate. It has been stated that methotrexate can often require several months (up to 9 or even 12 months) to achieve its full therapeutic effect.
+
+3- Although introducing an anti-TNF alpha drug could improve the patient's symptoms, we typically reserve these therapies for patients who do not respond to the first-line DMARDs.
+
+4- A second DMARD is usually considered when there's an inadequate response to the initial DMARDs, but there seems to be some response so far in the patient's case, it might be premature to say that the response has been inadequate.
+
+5- Starting treatment with anti-CD20 therapy along with methotrexate is also an option for patients unresponsive to other treatments, but again, it might not be the best choice given that the patient seems to be showing some response to methotrexate.
+
+In this case, the most reasonable approach could be option 2 - maintaining the therapeutic approach since we have only been on it for 6 months and it would be necessary to wait a minimum of 9 months to evaluate therapeutic response. We should closely monitor the patient's symptoms and inflammatory markers, and reassess her medication regimen if the symptoms don't continue to improve or if she develops significant adverse effects.
+
+Does that reasoning seem accurate?
+DOCTOR: You're absolutely right! This is a patient with rheumatoid arthritis, and although she's still experiencing some symptoms, there's clearly been improvement over the past six months, both clinically and biologically. Her ESR and CRP have both decreased, which are good signs that the therapy is working. 
+
+While option 3 could also be potentially valid based on some doctors' preferences for faster disease remission, the traditional therapeutic approach has been to allow sufficient time for the methotrexate to take effect fully. This can typically take up to 9 months or longer as you've mentioned. 
+
+Another minor benefit of option 2 is that it avoids prematurely intensifying treatment with all the associated additional costs and potential side effects that can come with stronger drugs like anti-TNF alpha.
+
+So well done! You've chosen the most appropriate therapeutic approach for this patient. </END>
+STUDENT: Thank you, Doctor. Your guidance and confirmation mean a lot. It’s helpful to navigate through the complexities of managing conditions like rheumatoid arthritis. I’m looking forward to more learning experiences such as this one.

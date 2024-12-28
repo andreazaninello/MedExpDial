@@ -1,0 +1,20 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Of course, here it is:
+
+We have a 70-year-old woman with a history of anorexia, weight loss, discomfort in the muscles and proximal joints, and pain in the temporomandibular region. She presents to the emergency department complaining of sudden, painless unilateral vision loss, only noting hand movement. She also exhibits an afferent pupillary defect.
+
+The question is: what test would you request first for diagnostic purposes?
+STUDENT: Given this patient's advanced age, along with her presenting symptoms of muscle discomfort, proximal joint pain, temporomandibular pain, and particularly her sudden unilateral vision loss with an afferent pupillary defect, my primary suspicion would be Temporal (Giant Cell) Arteritis. 
+
+To support this diagnosis, the first tests I would request would be inflammatory markers, specifically Erythrocyte Sedimentation Rate (ESR) and C-reactive protein (CRP). These are nonspecific markers of inflammation and if elevated, they could indicate an active inflammatory process such as Temporal Arteritis.
+
+However, for final confirmation of the diagnosis, a temporal artery biopsy would be needed. But it's crucial to start high-dose glucocorticoid therapy as soon as the suspicion arises, even before firm confirmation via biopsy, in order to prevent irreversible vision loss.
+DOCTOR: Exactly right, well done! You've connected her symptoms, particularly the severe sudden unilateral vision loss with afferent pupillary defect, and correctly identified her anorexia and weight loss as potential systemic signs of an underlying inflammatory condition like Giant Cell Arteritis (GCA). The role of CRP as a first test is indeed to show whether an underlying inflammatory process is occurring.
+
+I'll also reinforce that despite biopsy being the definitive diagnostic method for GCA, we cannot delay treatment to preserve her vision, as the loss can become permanent within days without intervention. Therefore, we commence steroid treatment without waiting for biopsy results, under the presumption of GCA. Your understanding of this urgency is crucial.
+
+From the options provided, the correct choice is indeed: 2- C Reactive Protein.
+
+Keep up the good work! </END>
+STUDENT: Thank you, doctor, for confirming and reinforcing the importance of prompt treatment in cases like these. I appreciate your guidance and will continue to study diligently for the USMLE exam.

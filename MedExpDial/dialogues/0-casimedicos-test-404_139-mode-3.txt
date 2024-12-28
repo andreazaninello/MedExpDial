@@ -1,0 +1,18 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Sure, here it is:
+
+We have a 70-year-old woman with a history of anorexia, weight loss, discomfort in the muscles and proximal joints plus pain in the temporomandibular region. She has come to the emergency department for unilateral loss of vision (hand movement), sudden and painless onset with an afferent pupillary defect. 
+
+Our task is to figure out what test we should request first for diagnostic purposes. Are you ready to start?
+STUDENT: Yes, ready to start. Considering her age, systemic symptoms, and most importantly, the sudden unilateral loss of vision, one of the conditions that immediately come to mind is Giant Cell Arteritis (GCA) or Temporal Arteritis. 
+
+In GCA, inflammation of the arterial wall can lead to ischemia of the tissues supplied by the artery. In this case, inflammation of the ophthalmic artery could lead to acute vision loss.
+
+Since GCA is a systemic inflammatory disease, we would expect markers of inflammation to be high. Therefore, <student_answer correct="YES>the first diagnostic test to request in this case would be blood tests for Erythrocyte Sedimentation Rate (ESR) and/or C-reactive Protein (CRP)</student_answer> which are markers for inflammation. If these tests return high, it could point towards a diagnosis of GCA and further investigations like a temporal artery biopsy may be warranted.
+DOCTOR: Absolutely, you're spot on! For the purposes of this case, we had defined C-reactive protein as the first diagnostic test to request. Increased levels of CRP are usually a strong indication of inflammation, and in this case, it would point towards giant cell arteritis. For the treatment, high-dose corticosteroids are started immediately even before obtaining biopsy confirmation. This is due to the urgency of preventing potential vision loss in the other eye. 
+
+Remember, the clinical presentation of polymyalgia rheumatica and giant cell arteritis have significant overlap. Both conditions are likely two manifestations of the same disease process. So, the presence of proximal joint pain, weight loss, and elevated inflammatory markers in an elderly person should raise suspicion for both conditions, and vision changes tip the scale strongly towards GCA.
+
+Well done! </END>
+STUDENT: Thank you, Doctor! Your detailed feedback is very helpful. I will keep in mind the important points about Giant Cell Arteritis and its overlap with polymyalgia rheumatica. This case was a great learning opportunity. Looking forward to more clinical cases.

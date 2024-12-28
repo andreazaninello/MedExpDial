@@ -1,0 +1,24 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Of course. Here is your patient's case. Gustavo has recent onset of some skin lesions - they are psoriasis-like and distributed on the trunk, including the palms and soles. He also reports feeling generally unwell for several days now. Other symptoms include asymmetric joint inflammation that doesn't show signs of suppuration, and bilateral red eyes. To add to the puzzle, Gustavo also has some erosions on the glans penis. There's a potential clue in his social history though - he admits to having had a sexual encounter categorised as 'high risk' about 20 days ago.
+
+Based on the information at hand, we need to come up with a diagnosis. Do you have any initial thoughts?
+STUDENT: The presentation of psoriasiform skin lesions, particularly involving the palms and soles, along with non-suppurative joint inflammation, bilateral ocular redness (likely conjunctivitis), and erosions on the glans penis in a patient with a history of recent high-risk sexual behavior is suggestive of Reactive Arthritis, formerly known as Reiter's Syndrome.
+
+Reactive arthritis is an inflammatory condition that occurs in response to infection elsewhere in the body. This type of arthritis primarily affects men, and the typical age of onset is between 20 and 40 years. It classically presents as a triad of conjunctivitis, urethritis, and arthritis. The psoriasiform lesions Gustavo has are characteristic dermatological manifestations of this condition, and they are known as keratoderma blennorrhagicum. The erosions on the glans penis, known as circinate balanitis, are also a typical finding.
+
+It's important to note that the causative infection, typically a sexually transmitted or enteropathic infection, occurs a few weeks before the onset of symptoms. The reference to a recent high-risk sexual encounter is therefore integral to unlocking this diagnosis.
+
+If I'm correct in my thinking, we should send out tests to identify the causative organism. Chlamydia trachomatis is a common culprit in sexually transmitted cases, so a nucleic acid amplification test (NAAT) of urine or urethral swab could be done. Stool cultures could be done to rule out enteropathic causes like Salmonella, Shigella, Campylobacter, or Yersinia. While serologic testing isn't typically useful in diagnosis, HLA-B27 may be positively identified in some cases, although it's not necessary for diagnosis. 
+
+Do you agree with my assessment, or are there different considerations I should make?
+DOCTOR: I'm impressed, your analysis is on point! The diagnosis is indeed Reactive Arthritis or Reiter's syndrome. Great job noting the clinical triad, the distinguishing skin findings, and the relevance of the recent risky sexual encounter.
+
+You are correct in highlighting Chlamydia trachomatis as the common causative agent of sexually transmitted Reactive Arthritis. It's mentioned in the textbooks that around 70-80% of patients with Reactive Arthritis are HLA-B27 positive, but it's indeed not diagnostic and its absence doesn't exclude the diagnosis.
+
+Therefore, your clinical reasoning based on symptomology, skin findings, ocular involvement, joint symptoms, and Gustavo's history of recent high-risk sexual behavior is solid in leading to this diagnosis. Always remember though that in clinical practice, we usually would need lab verification as you have correctly outlined.
+
+Well done! Keep up the great work. Are there any other questions on this case or shall we move on to the next case?
+STUDENT: Thank you for your feedback. I'm confident now with the management and diagnosis of Reactive Arthritis. I don't have any other questions on this case. I'm ready for the next case.
+DOCTOR: Excellent to hear! I'm proud of your clear understanding, and I'm sure you're ready to take on any challenges that come your way. Let's move on to the next clinical case. </END>
+STUDENT: Thank you, doctor. I'm ready for the next case, let's proceed!

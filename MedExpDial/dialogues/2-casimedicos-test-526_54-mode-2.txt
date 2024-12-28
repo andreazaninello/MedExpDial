@@ -1,0 +1,36 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Of course. So, we have an 86-year-old woman in whom nonvalvular atrial fibrillation has been diagnosed. The CHADS2 score is used to estimate the risk of stroke in patients with atrial fibrillation; this patient has a score of 3, indicating that she has moderate to high stroke risk. In similar cases, it has been observed that the stroke risk in patients on warfarin therapy is 2.2%, whereas the risk in patients without warfarin treatment is 5.2%. 
+
+Now, here comes your question: What would be the number needed to treat (NNT) to prevent embolic stroke with anticoagulation therapy in this patient's scenario?
+STUDENT: To calculate the number needed to treat (NNT), we first need to find the absolute risk reduction (ARR), which is the difference between the baseline risk of the event and the risk of the event after an intervention or treatment.
+
+In this scenario, we need to find the ARR in stroke risk between patients with atrial fibrillation not on warfarin therapy, and those on warfarin.
+
+So, ARR = Risk without treatment - Risk with treatment
+Which means, ARR = 5.2% - 2.2%
+
+The NNT is then calculated as the inverse of the ARR. 
+
+May I ask you to help with the exact calculations?
+DOCTOR: Your approach is absolutely correct. Let's do the math together.
+
+First, calculate the absolute risk reduction (ARR):
+ARR = Risk without treatment - Risk with treatment
+ARR = 5.2% - 2.2%
+ARR = 3.0%
+
+Then, we need to calculate the inverse of the ARR to find the NNT:
+NNT = 1 / ARR
+But remember to do these calculations, we'll need to convert the percentage to a fraction. Let's do this:
+
+ARR = 3.0%, or 3.0/100 = 0.03
+
+Thus:
+NNT = 1 / 0.03
+NNT ≈ 33.3
+
+So, to prevent one additional bad outcome (embolic stroke), around 33 patients with atrial fibrillation and a CHADS2 score of 3 should receive warfarin therapy.
+STUDENT: Thank you for your guidance on this, doctor. Since we can't treat a fraction of a patient, we round up to the nearest whole number for practical purposes in calculating the number needed to treat (NNT). Therefore, we can conclude that we would need to treat 34 patients with similar characteristics to our case patient to prevent one embolic stroke. This calculation really helps illustrate the effectiveness of anticoagulation therapy in the management of atrial fibrillation.
+DOCTOR: You're exactly right, we do typically round this number up because, as you pointed out, you cannot treat a fraction of a patient. I'm glad you were able to understand the significance of these calculations in the context of real-world clinical scenarios. It's an essential part of assessing the effectiveness of treatments and interventions, and it can often help guide decisions about care. Well done! </END>
+STUDENT: Thank you for your guidance and the positive feedback, doctor! These kind of analytical skills are definitely important for a future medical professional to have. Understanding how to calculate and interpret statistics such as the NNT will surely be beneficial in my career. I'm looking forward to our next session!

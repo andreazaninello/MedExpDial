@@ -1,0 +1,30 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Absolutely! 
+
+So here's the case. We have a 32-year-old diabetic patient who is on insulin therapy. His blood glucose levels are well managed. He comes to the office with a sensation of tingling in both hands. The sensation is like his hands have been corked or are thermally insensate. This issue has been gradually getting worse over the last two weeks. 
+
+He hasn't mentioned any visual issues, any loss of strength, clumsiness, or any other symptoms. On examination, you find that he doesn't respond to pain or temperature in both hands and his distal forearms; however, his positional and vibratory sensitivities were normal. You also observe that his muscles appear perfectly normal, with no signs of atrophy or strength deficits. Symmetrically normal muscle reflexes are found. He doesn't display any signs of dysmetria, dysdiadochokinesia, or intention tremors. The rest of his neurological examination is also normal.
+
+What do you think could be the most likely diagnosis in this case?
+STUDENT: The patient's symptoms suggest some sort of peripheral neuropathy, given the sensory symptoms of tingling, thermal insensitivity, preserved muscular function, and positional/vibratory sensitivity. He's also afflicted with diabetes, which makes me think of diabetic neuropathy, frequently associated with this disease.
+
+However, this usually presents as a polyneuropathy and initially affects the longer nerves in a glove-and-stocking distribution, which means the feet are usually affected before the hands. Given this information, we should also consider the distribution of the sensory loss and the specific types of sensations that are affected. The loss of pain and temperature sensation in a person with preserved proprioception and vibratory sensation could suggest a lesion in the spinothalamic tract but sparing the dorsal columns. 
+
+This pattern of selective sensory loss is found in syringomyelia, a condition where a cyst or cavity forms within the spinal cord. It typically destroys the pain and temperature sensory fibers that cross within the anterior white commissure but spares those that carry proprioception and vibratory sensation in the dorsal columns.
+
+Is my deduction correct, or should I consider some other differential diagnoses?
+DOCTOR: Excellent analysis, student! You're correct to think in terms of peripheral neuropathy given the patient's diabetic status. However, your insight into the unusual symptom distribution and the presence of selective sensory loss is very astute.
+
+Yes, this patient's symptoms are consistent with a lesion in the spinothalamic tract which is responsible for pain and temperature, as opposed to the dorsal column, which transmits proprioception and vibratory sensation. And that is the hallmark of conditions like syringomyelia. However, the relatively rapid onset over two weeks suggests an active and acute process, which is not typical for syringomyelia, a chronic condition.
+
+So, with these consideration, a differential to highly consider is a central cervical spinal cord injury, which could present with similar selective sensory deficits and needs immediate attention. This means that urgent neuroimaging would be indicated to look for potentially reversible causes.  
+
+Your thought process was very excellent and showed good understanding of the neuroanatomy involved, you just needed a little tweak considering the time frame of the symptoms.  
+
+Does this make sense?
+STUDENT: Yes, doctor, it certainly does. I see now the importance of considering the time frame of symptom development when developing a differential diagnosis. Although diabetic neuropathy and syringomyelia could explain the patient's symptoms, the rapid onset suggests something more acute, such as a central cervical spinal cord injury. In this case, I understand that urgent neuroimaging is needed to potentially identify and reverse the cause. 
+
+This will definitely be a valuable lesson for me going forward. Thank you for your guidance.
+DOCTOR: You're very welcome! You're learning quickly, and your approach to this case was very commendable. Remember, always align the clinical findings with the patient's history - the onset, course, and context of the symptoms are often key to making the correct diagnosis. Keep up the good work! </END>
+STUDENT: Thank you again, doctor, for your guidance and for sharing your expertise. I will certainly take these lessons to heart as I continue my studies and prepare for the USMLE. I'm eager to learn more from future cases and further improve my diagnostic skills. </END>

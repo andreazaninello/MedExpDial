@@ -1,0 +1,24 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Absolutely, let's get started.
+
+We have a 24-year-old woman who consulted after noticing inguinal lymphadenopathy. During the interrogation, none of her answers revealed local discomfort or data that could suggest sexually transmitted infection. Upon examination, two lymphadenopathies were discovered, one in each groin. They measure approximately 1 cm in diameter, are soft and mobile, and notably non-painful. There are no skin lesions present on the her lower limbs, anus or perineum. 
+
+Given her clinical presentation, which test or examination do you believe is most essential to perform next?
+STUDENT: The patient's presentation of asymptomatic, bilateral inguinal lymphadenopathy without any visible skin lesions or symptoms suggestive of sexually transmitted infections is a bit challenging. It's unclear where the potential source of infection or malignancy, causing the lymphadenopathy, might be coming from.
+
+As the first line of investigation, I would recommend ordering a complete blood count (CBC) with differential to get an overview of her systemic health and to identify any potential underlying issues such as infection or malignancy. If there's any evidence of infection, then I would suggest ordering specific tests for sexually transmitted diseases such as HIV, syphilis, chlamydia, and gonorrhea.
+
+Furthermore, a thorough pelvic examination is necessary to rule out any underlying gynecologic malignancies or infections. Depending upon the results of these tests, imaging studies (like an ultrasound or CT scan) may also be helpful in identifying the source, particularly involving the lower extremities or pelvis, which are typically drained by the inguinal nodes.
+
+This approach, starting with non-invasive tests to more invasive ones, provides a progressive and rational plan to track down the source of this patient's lymphadenopathy. However, I'm interested to know if I'm missing anything or not considering something important.
+DOCTOR: That's great reasoning, however, we need to recognize there are situations in which small and mobile nodes are perfectly normal. In healthy adults, palpable inguinal nodes up to 2 cm that are soft, mobile and not causing any discomfort can be considered normal. Considering that there is no associated pain or any other symptoms, this may be the case for our patient. It may not be necessary to put her through further investigation in this case. What do you think?
+STUDENT: True, Doctor, the lymphadenopathy presented by the patient is bilateral, and the nodes are small and mobile, which could indeed indicate a benign or normal etiology. Given the absence of any systemic symptoms or physical signs that would suggest otherwise, adopting a "watch and wait" approach, i.e., monitoring her condition over time without immediate further testing, could be more appropriate. 
+
+If the lymph nodes significantly increase in size, become tender, if other nodes become enlarged, or if she develops systemic symptoms, further investigation would then be warranted.
+
+Thank you for pointing that out. This underlines the importance of considering the broad picture and taking a patient-centered approach where unnecessary investigations are avoided when possible.
+DOCTOR: Exactly, you've got it! Your initial thought process is quite valuable, and it is always important to rule out serious conditions. But in this case, the findings are within the normal range and no additional signs or symptoms point towards a disease. Therefore, any complementary study of these lymph nodes is not warranted based on the current available information. Good job, keep this up!
+
+</END>
+STUDENT: Thank you for your clear explanation and guidance, doctor! I now understand the importance of a conservative approach where we can avoid unnecessary investigations, especially when findings are within normal range and systemic signs are absent. I will certainly carry this lesson throughout my medical education and future practice. Looking forward to more such enlightening discussions! </END>

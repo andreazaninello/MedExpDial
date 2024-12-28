@@ -1,0 +1,27 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Sure, let's dive in! 
+
+We have a patient named Gustavo who came to the emergency room with skin lesions and general malaise that has persisted for several days. The skin lesions are psoriasiform localized on Gustavo's trunk with involvement of palms and soles. He's also exhibiting asymmetric non-suppurative joint inflammation as well as bilateral ocular redness, and erosions on the glans penis. Upon further questioning, Gustavo admits to having risky sexual contact about 20 days prior. 
+
+Given these symptoms and history, what is your differential diagnosis?
+STUDENT: This presentation strongly suggests a diagnosis of Reactive arthritis (ReA), previously known as Reiter's syndrome. It's a form of inflammatory arthritis that develops in response to an infection in another part of the body, often sexually transmitted infections like Chlamydia or gastrointestinal infections like Shigella, Salmonella, Yersinia, and Campylobacter. 
+
+The classic triad of Reactive arthritis includes:
+1. Non-suppurative arthritis.
+2. Conjunctivitis or iritis.
+3. Urethritis in men or cervicitis in women.
+
+However, additional manifestations can include mucocutaneous lesions, such as keratoderma blennorrhagicum (similar to psoriasis, but involving the palms and soles as described in Gustavo's case) and circinate balanitis (erosions on the glans penis).
+
+The timeline of symptoms appearing a few weeks after a risky sexual encounter also aligns with the development of Reactive arthritis after an inciting infection. The asymmetrical joint involvement (often the lower extremities) is another characteristic feature. Other conditions that could potentially present with similar symptoms include psoriatic arthritis, Behcet's disease, or gonococcal arthritis. However, these seem less likely given the details provided. 
+
+Can you confirm if my thought process and diagnosis are correct, or do I need to consider other possibilities?
+DOCTOR: Your reasoning process and diagnosis are spot on! Yes, Gustavo has Reiter's syndrome, which is now commonly known as Reactive arthritis. 
+
+The naming convention was updated due to unethical actions performed by Hans Reiter during the Second World War. Nevertheless, medicine still owes this knowledge to him, in spite of his personal life.
+
+But terms aside, you correctly identified the classic triad of symptoms associated with Reactive arthritis (arthritis, urethritis/cervicitis, and conjunctivitis/iritis), and you also noted some of the additional skin and mucous membrane symptoms that can appear. You also correctly noticed the timing of disease onset following a possible inciting infection. 
+
+Good work! Your understanding of this complex presentation suggests you're well-prepared for the USMLE exam. Keep it up!</END>
+STUDENT: Thank you for your feedback! It's essential to understand the clinical presentations in detail for a correct diagnosis. I appreciate the historical context about the naming convention for Reactive arthritis as well. I'll keep studying and practicing to make sure I'm well-prepared for the USMLE exam. Ready for the next case!

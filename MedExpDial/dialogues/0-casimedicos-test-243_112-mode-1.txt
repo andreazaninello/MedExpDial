@@ -1,0 +1,18 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Absolutely, let's begin.
+
+We have a 20-year-old girl who presents with acute fever, cervical lymphadenopathy and a skin rash. She reports a sexual encounter 3 weeks prior that may have put her at risk of contracting the HIV virus. Now, I want you to answer the following question:
+
+If the ELISA test to diagnose HIV in the patient was negative, could we determine the viral load in blood by PCR technique? 
+
+What do you think?
+STUDENT: Given the scenario, it's important to clarify that a negative ELISA (Enzyme-Linked Immunosorbent Assay) test result suggests the potential lack of HIV antibodies in your patient's blood. That being said, we might be dealing with a "window period"—the interval between HIV infection and the appearance of detectable antibodies.
+
+In this case, the PCR test, which detects the viral RNA, could be useful because it can detect the virus quickly after exposure, before antibodies develop. So, yes, even if the ELISA test was negative, HIV viral load can theoretically be determined through a PCR technique.
+
+However, it is also important to know that all these tests should always be interpreted carefully and a negative result does not definitively rule out HIV infection, especially if the risk exposure occurred recently. The patient should be advised to retest after the window period of the specific test used to ensure accuracy.
+DOCTOR: Excellent! You've covered all the vital points. It's true that PCR tests can detect the HIV virus before antibodies are produced and are thus very useful during the window period. It's also very important to retest after the window period and ensure that the patient is educated about what this means. Your comprehensive understanding of HIV testing will certainly be a boon to your patients in the future. Great job! </END>
+STUDENT: Thank you, Doctor! I appreciate your feedback and guidance. Looking forward to our next session. 
+
+</END>

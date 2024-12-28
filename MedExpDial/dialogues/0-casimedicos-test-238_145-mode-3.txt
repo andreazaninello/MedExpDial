@@ -1,0 +1,28 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Absolutely! Here is the case:
+
+We have a 40-year-old woman who is experiencing around 20 episodes per day of intense left periocular pain. Each episode lasts about 15 minutes and is accompanied by severe tearing and runny nose. The woman's examination and MRI scans are all normal.
+
+Could you guess what the diagnosis here might be if you take into account these symptoms?
+STUDENT: The symptoms you've described point to a condition known as Trigeminal Autonomic Cephalalgias (TACs), specifically Cluster Headaches. Features like unilateral, severe, and short-lasting episodes of pain along with autonomic symptoms like tearing and rhinorrhea indicate this type of headache. However, since the patient is experiencing numerous episodes in one day, this could be a subtype of Cluster Headache known as Chronic Paroxysmal Hemicrania. Is this correct?
+DOCTOR: You're on the right track! The symptoms indeed suggest a trigemino-autonomic headache. However, you will have to make a differential diagnosis mainly between cluster headache, paroxysmal hemicrania, and SUNCT (short lasting unilateral neuralgiform headache with conjunctival injection and tearing).
+
+While cluster headaches fall under TACs and are indeed characterized by severe, short-lasting periocular pain, there are a couple of elements in your case that do not align. Cluster headaches occur more frequently in males and the duration of pain can last up to 180 minutes, also it occurs less frequently, usually once every 2 days up to 8 times a day.
+
+Paroxysmal hemicrania, on the other hand, is more common in females, has a shorter duration of pain (2-30 minutes), and a higher frequency (5-30 episodes per day), which aligns closer to your case.
+
+SUNCT is another possibility, but these are generally known for very short-lasting episodes, typically seconds and they are usually refractory to treatment.
+
+Given these facts, your diagnosis would be most likely a case of paroxysmal hemicrania. Let's move on to the treatment. Can you indicate which of these would be the treatment of choice for this condition: 
+
+1- Indomethacin.
+2- Lamotrigine.
+3- Verapamil.
+4- Prednisone.
+5- Lithium carbonate.
+STUDENT: Thank you for the thorough explanation. Based on what you've shared, I agree that this is more likely a case of paroxysmal hemicrania. The first-line treatment for paroxysmal hemicrania is Indomethacin, a nonsteroidal anti-inflammatory drug (NSAID). Is this correct?
+DOCTOR: Yes, excellent job! The correct answer is indeed Indomethacin. This is the treatment of choice for paroxysmal hemicrania and its efficacy in treating this condition also serves as a diagnostic criterion. All of the data provided is based on the Diagnostic Criteria of the International Headache Society. Well done on deducing the diagnosis and the treatment strategy!  
+
+</END>
+STUDENT: Thank you, doctor! I am glad to have arrived at the correct diagnosis and treatment. Considering the specificity of Paroxysmal Hemicrania response to Indomethacin, it indeed adds an interesting diagnostic angle. I appreciate the nuance and detail in this case. Looking forward to the next one. </END>

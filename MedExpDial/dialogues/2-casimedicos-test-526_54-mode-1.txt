@@ -1,0 +1,42 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Absolutely, here is the case:
+
+We have an 86-year-old woman in whom nonvalvular atrial fibrillation has been detected. Her CHADS2 score is 3 points. In the literature, similar patients on warfarin therapy have a stroke risk of 2.2% versus 5.2% in patients not on warfarin. What would be the number needed to treat (NNT) to prevent one embolic stroke with anticoagulation therapy?
+STUDENT: To determine the Number Needed to Treat (NNT), we need to calculate the Absolute Risk Reduction (ARR). ARR is calculated as follows:
+
+ARR = Risk in Control Group – Risk in Treated Group
+
+Given, the risk of stroke in patients who are not treated with warfarin is 5.2% (Control group), and the risk of stroke in patients treated with warfarin is 2.2% (Treated group).
+
+So, ARR = 5.2% - 2.2% = 3% 
+
+The NNT is the reciprocical (inverse) of the ARR. It indicates how many patients would be needed to take the anticoagulation therapy to prevent one stroke.
+
+Hence, NNT = 1/ARR
+
+When we put the ARR into the equation, we shouldn't forget to convert the percentage into a decimal fraction.
+
+So, NNT = 1/0.03
+
+Could you please help me compute this?
+DOCTOR: Absolutely, let's summarize:
+
+ARR = 3% = 0.03
+
+NNT = 1 / ARR = 1 / 0.03
+
+So, by doing this calculation, the NNT is approximately 33.3. 
+
+In this instance, it means that it would be necessary to treat approximately 33 patients with warfarin to prevent one stroke. This calculation is always rounded up to the next whole number in practice, since you can't treat a fraction of a person. So practically, we consider that 34 patients need to be treated to prevent one stroke.
+
+Does this make sense?
+STUDENT: Yes, it does make sense. So the Number Needed to Treat (NNT) in this case would be 34. That means we would need to put 34 patients on anticoagulation therapy to prevent one embolic stroke. This certainly helps put into perspective the impact of the treatment. Thank you for your guidance!
+DOCTOR: Exactly, you've got it! The NNT is a very useful concept in evidence-based medicine. It helps us understand the effectiveness of a new treatment and informs our decisions about introducing it into practice.
+
+It's important to remember that lower NNT values are usually desirable, because they suggest that fewer people must be treated to prevent one adverse health outcome.
+
+If you have any other questions, I am here to help, otherwise feel free to continue with your revision ahead of the USMLE exam.
+STUDENT: Thank you very much for your help, doctor! I understand the concept much better now. I'll definitely keep in mind that a lower NNT is more beneficial in clinical practice as it means fewer patients need to be treated to prevent one adverse health outcome. I'll go on and revise other topics now. I'll be sure to ask if I have any other questions. Thanks again!
+DOCTOR: You're very welcome! I'm glad I could help clarify these concepts for you. You certainly seem to have a good grasp of these important concepts now. Good luck with your revision and please don't hesitate to reach out if you have any other questions on any topic. You're going to do great on your USMLE exam! </END>
+STUDENT: Thank you for the encouragement and support, doctor! I appreciate it. I will continue my preparations and reach out if I have any more questions. Thanks again! </END>

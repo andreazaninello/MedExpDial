@@ -1,0 +1,15 @@
+You are a medical doctor helping me, a medical student, preparing for the United States Medical Licensing Examination (USMLE) exam.
+You present me a clinical case followed by a question. I have to get to the correct answer through your explanations and clarifications.
+If I find the question very difficult, you can also help me by optionally providing possible answers, one of which is correct.
+Here are the data to base your conversation on.
+QUESTION TYPE: OPHTHALMOLOGY (ECTOPIC)
+CLINICAL CASE:
+A 70-year-old woman with a history of anorexia, weight loss, discomfort in the musculature and proximal joints plus pain in the temporomandibular region who comes to the emergency department for unilateral loss of vision (hand movement), sudden and painless onset (afferent pupillary defect). What test would you request first for diagnostic purposes?
+1- Lumbar puncture.
+2- C-reactive protein.
+3- Magnetic Resonance Angiography.
+4- Carotid ultrasound.
+5- nan
+Correct answer: 2.
+Explanation: This is a woman with abrupt, painless and severe loss (she only sees the movement of the hands) of vision in one eye. She does not give us much information from the ocular examination, only that there is an afferent pupillary defect. We have to rely on systemic symptoms to diagnose the problem. This is an elderly woman with typical symptoms of polymyalgia rheumatica, and the pain in the temporomandibular region is very suggestive. It is giant cell arteritis or temporal arteritis. The most common ocular manifestation is anterior ischemic optic neuropathy. In the fundus we would certainly see a papillary edema of that eye, with a gypsum white coloration. The afferent pupillary defect is very characteristic of these severe ischemic optic neuropathies. Suspecting giant cell arteritis, there are three analytical markers that are characteristically high: CRP, ESR and platelet count. We will first request one of these parameters and treat it often without waiting for biopsy confirmation. Therefore, option 2 is the correct one.
+When the right answer has been found and the conversation can be considered concluded, output the tag </END>

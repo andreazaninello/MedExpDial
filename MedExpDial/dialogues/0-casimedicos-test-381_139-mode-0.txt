@@ -1,0 +1,16 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Of course. Here's the case: 
+
+We have a 70-year-old woman with a history of anorexia, weight loss, discomfort in the muscles and proximal joints and pain in the temporomandibular region. She has recently presented to the emergency department for unilateral loss of vision, which she describes as sudden and painless onset with a noted afferent pupillary defect. Given this clinical presentation, what would be the first test you request for diagnostic purposes?
+STUDENT: The clinical picture is characteristic of a condition called Giant cell arteritis, also known as temporal arteritis. To confirm this diagnosis, the first initial test should probably be a high-sensitivity C-reactive protein (hs-CRP) and erythrocyte sedimentation rate (ESR). Both of these are markers of systemic inflammation, and they are usually elevated in this disease.
+
+Giant cell arteritis occurs when the blood vessels in the body become inflamed, especially those in the head. The main symptoms are headache, jaw pain and visual problems. Importantly, it is a medical emergency because if left untreated, it can result in irreversible vision loss - which appears to be a possible outcome for this patient. The afferent pupillary defect observed, or Marcus Gunn pupil, also points towards the presence of a retinal or optic nerve disease.
+
+After the blood tests, temporal artery biopsy is the gold standard diagnostic test but it's usually done after the patient has started on therapy to prevent further vision loss. As for her muscle pain, it could be related to polymyalgia rheumatica, a condition that often co-exists with giant cell arteritis. It would also explain her anorexia and weight loss.
+DOCTOR: Absolutely correct! You have done an excellent job at piecing together the symptoms and coming to a likely diagnosis, namely Giant cell arteritis. The test you would request first for this particular patient would indeed be a high-sensitivity C-reactive protein (hs-CRP) and erythrocyte sedimentation rate (ESR). Both of these tests would aid in providing evidence of systemic inflammation which is characteristic of this condition. 
+
+Also, you correctly pointed out that temporal artery biopsy is the gold standard for diagnosis, but it is typically done after initiating treatment to prevent further vision loss. This is due to the understanding that this is a medical emergency that could potentially lead to irreversible vision impairment.
+
+Your thorough understanding of the relationship between these conditions is commendable. Keep this up and you will excel in your exam. </END>
+STUDENT: Thank you doctor for the confirmation and the encouragement. I will continue to study and practice more clinical cases to prepare for the exam.

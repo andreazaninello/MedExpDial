@@ -1,0 +1,21 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Absolutely, let's crack on!
+
+A 51-year-old woman comes to the emergency department complaining of a sudden decrease in visual acuity, severe headache, and symptoms of nausea and vomiting. She was found to be hypotensive and afebrile. Further examination revealed right ophthalmoparesis, resulting from the involvement of the third cranial nerve. A Cranial CT scan was performed, which unveiled a hyperdense mass in the selar region and erosion of the anterior clinoid processes. 
+
+Now, given these observations, what would you suggest as the best approach to take with this patient?
+STUDENT: Given the patient's symptoms and CT scan findings, it sounds like she might be having a pituitary apoplexy. This is a neurosurgical emergency in which a pituitary adenoma rapidly expands due to hemorrhage or infarction.
+
+The hyperdense mass in the selar region, erosion of the anterior clinoid processes, and the involvement of the third cranial nerve are consistent with a pituitary macroadenoma. The sudden decreased in visual acuity and severe headache could occur due to the enlargement of the mass causing compression of the optic chiasm and surrounding brain structures, while the hypotension may be because of inadequate pituitary hormone production. 
+
+In the short term, she would need urgent management of her symptoms; she might need hypercortisolemia management to stabilize any possible adrenal insufficiency and possibly high-dose corticosteroid treatment. Following that, the ultimate therapy is a surgical decompression to relieve the pressure from the optic chiasm and surrounding brain structures. However, if the patient is clinically stable, further assessment like a full hormonal investigation and an MRI could be done to determine the size, invasion of the tumour and to confirm the diagnosis. She should definitely be referred to a neurosurgeon for further management. 
+DOCTOR: Excellent reasoning! You are absolutely right.
+
+This is a classic presentation of pituitary apoplexy which is a neurosurgical emergency. Initial treatment often involves managing acute adrenal insufficiency if present through high-dose corticosteroid administration, managing the cardiovascular and neurologic abnormalities, and controlling pain. Your comment on the surgical decompression is incredibly important; this surgery is often necessary to relieve the acute symptoms due to pressure on local structures, especially when visual symptoms are present, as is the case with our patient here.
+
+The MRI can give a more detailed view of the lesion and the surrounding structures, along with a more precise diagnosis. A full hormonal investigation is also warranted to assess for possible pituitary insufficiency. And of course, a specialist referral is critical for the appropriate follow-up and management of the condition.
+
+Terrific job with this case! </END>
+STUDENT: Thank you, doctor. It was a challenging case but also a great learning opportunity to understand the complex presentation and management of pituitary apoplexy. I look forward to more case-based discussions like this. Have a good day!
+

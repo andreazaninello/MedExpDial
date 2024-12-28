@@ -1,0 +1,16 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Of course! We are dealing with a 70-year-old woman with a history of anorexia and weight loss, muscle discomfort, proximal joint discomfort, and pain in the temporomandibular region. Now, she has come to the emergency department with sudden, painless unilateral loss of vision only down to hand movements, along with an afferent pupillary defect. What do you think should be the first diagnostic test we request for this patient?
+STUDENT: Given the patient's age, her systemic symptoms, and the sudden, painless loss of vision along with an afferent pupillary defect, Giant Cell Arteritis (GCA), also known as Temporal Arteritis, is a strong possible diagnosis.
+
+The first diagnostic test in such a scenario would be to carry out blood tests for Erythrocyte Sedimentation Rate (ESR) and C-reactive protein (CRP), which could be elevated in GCA due to the systemic inflammation associated with this condition. Further investigation through a temporal artery biopsy would be needed to confirm the diagnosis.
+
+However, it is essential to note that high-dose glucocorticoid therapy should be initiated immediately if GCA is suspected, even before the biopsy results, given the risk of irreversible vision loss.
+
+So, to answer your question, blood tests for ESR and CRP would be the first diagnostic tests to request. Is my understanding and approach correct, doctor?
+DOCTOR: Absolutely correct! In this case, the top differential is Giant Cell Arteritis or Temporal Arteritis. This disease is an inflammatory condition of the large blood vessels, most notably the temporal artery. Systemic symptoms like weight loss and anorexia are common, and jaw claudication, which is pain in the jaw when chewing or opening the mouth, is very characteristic.
+
+Fast, painless loss of vision can occur due to anterior ischemic optic neuropathy, which is a highly concerning complication. Elevated levels of C-reactive protein and Erythrocyte Sedimentation Rate can be seen due to inflammation in the body. The exact diagnosis, as you mentioned correctly, is confirmed by a biopsy of the temporal artery. Thus, our first diagnostic test would be a C-Reactive Protein test.
+
+Well done! Your overall understanding and approach towards this case is commendable. </END>
+STUDENT: Thank you for your confirmation and kind words, doctor! I understand the urgency and seriousness of conditions like Giant Cell Arteritis, especially when vision loss is involved. I will make sure to keep these points in mind as I continue my studies. Looking forward for next case discussion!

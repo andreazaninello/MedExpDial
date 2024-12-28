@@ -1,0 +1,20 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Of course! We have a 42-year-old female patient. She's been experiencing pain with inflammatory characteristics and swelling in both wrists, as well as the 2nd and 3rd metacarpophalangeal and proximal interphalangeal joints bilaterally. She's also had pain in her left ankle. All of this has been happening for about 4 months and she's noted that she has morning stiffness that lasts more than one hour. An X-ray of her hand revealed erosions in the styloid process of the ulna in her right carpus. Looking at her lab tests, her hemoglobin level is 10 g/dL, ESR is elevated at 45 mm in the first hour, C-reactive protein (CRP) is also elevated at 16 mg/L, and rheumatoid factor is 160 IU/ML. 
+
+Following 6 months of treatment with indomethacin and methotrexate, she's still experiencing pain and swelling of both carpals, and morning stiffness all though less, at 30 minutes. Follow-up lab tests show an erythrocyte sedimentation rate (ESR) of 30 mm in the first hour and a CRP of 9 mg/dL.
+
+Considering this, what do you think should be the next step in managing this patient's case?
+STUDENT: The patient's symptoms, particularly bilateral involvement of the small joints of the hand (metacarpophalangeal and proximal interphalangeal joints), morning stiffness that lasts more than one hour, elevated ESR and CRP, and the presence of rheumatoid factor are all consistent with a diagnosis of Rheumatoid Arthritis (RA).
+
+She has been on an anti-inflammatory drug (Indomethacin) and a disease-modifying anti-rheumatic drug (DMARD), specifically methotrexate, for 6 months. However, she still has significant symptoms and elevated markers of inflammation suggesting active disease.
+
+The American College of Rheumatology recommends using biological DMARDs, such as tumor necrosis factor inhibitors, in patients with RA who have not improved sufficiently with methotrexate therapy. Biologics like Etanercept, Infliximab, or Adalimumab can be used. Alternatively, non-TNF biologic DMARDs like Abatacept, Rituximab, or Tocilizumab, or a small-molecule JAK inhibitor, such as Tofacitinib, could be considered.
+
+So the next step in managing this patient would be to add a biological DMARD to her treatment regimen, and then to continue close monitoring of her symptoms and inflammatory markers. Is there any other information regarding her current prescription medications or underlying health conditions?
+DOCTOR: That's a well-reasoned answer. However, it's important to remember that methotrexate, the cornerstone treatment for rheumatoid arthritis, exhibits a quite slow onset of action. It typically takes about 3 to 6 months to start seeing therapeutic effects. For optimum efficacy, a minimum of 9 months is usually required. Given this, and the fact that there is an observed decrease in her ESR, CRP levels and the duration of morning stiffness, albeit not complete resolution, it isn't necessarily time to add a biologic DMARD to this patient's treatment plan just yet.
+
+The course of action to take in this situation is to maintain the current therapy since we have only been on it for 6 months. The patient should be reassessed after 9 months of therapy with methotrexate. 
+
+Now then, let's proceed to the end of this clinical case. Shall we?</END>
+STUDENT: Thank you for your feedback and the clarification, Doctor. I understand the importance of giving methotrexate enough time to exhibit its full therapeutic effect before considering the addition of a biologic DMARD. I appreciate your guidance on this case.

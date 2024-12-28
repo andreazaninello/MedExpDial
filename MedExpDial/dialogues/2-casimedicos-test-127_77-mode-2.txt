@@ -1,0 +1,20 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Absolutely. Let's begin. 
+
+We have a 32 year-old female patient who has a well-controlled diabetic condition and is on insulin therapy. She's presenting with two weeks' worth of tingling, a sensation of corking and thermal insensitivity in both hands. She has no visual disturbances, strength deficit, motor clumsiness or other symptoms. Upon examination, she's found to have anesthesia to pain and temperature in both hands and distal forearms, yet she preserves positional and vibratory sensitivity. There's no muscle atrophy, strength deficit, nor any signs of dysmetria, dysdiadochokinesia, or intention tremor. The remainder of her neurological exam is normal. 
+
+What would you consider as the most likely diagnosis in this case?
+STUDENT: Given the patient's diabetes and the sensory symptoms with preservation of motor function, the initial thought could be peripheral neuropathy, specifically diabetic peripheral neuropathy, as it's common in diabetic patients. However, the pattern and distribution of sensory loss is atypical for diabetic neuropathy. Generally, these patients initially present with "sock and glove" sensory loss, affecting the feet before the hands. The preservation of proprioception and vibratory sensations in this patient is intriguing.
+
+The loss of pain and thermal sensations while preserving proprioception and vibration points towards a central nervous system lesion, sparing the dorsal columns and affecting the spinothalamic tract. This pattern is indicative of syringomyelia, which is characterized by a syrinx or cyst in the spinal cord that disrupts decussating spinothalamic tract fibers resulting in a "cape-like" bilateral loss of pain and temperature sensation in the upper extremities. 
+
+Could you confirm whether syringomyelia is the correct diagnosis in this case?
+DOCTOR: Excellent thinking and analysis. You've made a giant leap and landed directly on the correct answer! 
+
+You're right to point out that this isn't typical for a peripheral neuropathy, as in that case, you would expect a "stocking-glove" pattern. 
+
+And you're also right to say that this pattern is more indicative of a spinal cord lesion, rather than a peripheral nerve lesion. And yes, it's perfectly in line with syringomyelia, which is associated with central cervical spinal cord injury.
+
+Excellent job! </END>
+STUDENT: Thank you very much, doctor. I appreciate your expertise and guidance in these case studies. They've been deeply insightful and helped me understand the importance of a thorough evaluation of the clinical presentation and symptom pattern to correctly diagnose conditions. I'm looking forward to learning more as I prepare for the USMLE exam. </END>

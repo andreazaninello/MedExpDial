@@ -1,0 +1,12 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Absolutely. We have a 40-year-old woman who has sought medical consultation for experiencing about 20 episodes per day of intense pain around her left eye area. Each episode lasts for approximately 15 minutes and is accompanied by severe tearing and rhinorrhea, which is a runny nose. Her physical examination as well as her MRI results are normal. 
+
+Based on these symptoms, what condition do you suspect, and what would be the treatment of choice?
+STUDENT: The patient's symptoms resemble those of trigeminal autonomic cephalalgias, specifically cluster headaches. Are there any other symptoms or inciting factors that you can tell me?
+DOCTOR: No additional information on symptoms or inciting factors is provided in this case. However, it's worth pointing out that while the patient's symptoms may seem similar to those of cluster headaches, the frequency and duration of her attacks are more indicative of a condition called paroxysmal hemicrania. This condition is quite rare and is often characterized by numerous attacks of severe, unilateral headache on one side of the head, accompanied by autonomic symptoms like tearing or rhinorrhea, as seen in this patient. 
+
+Now keeping this diagnosis in mind, what do you think might be the treatment of choice?
+STUDENT: Paroxysmal hemicrania is indeed a rare condition, but its symptoms align with the patient's. The condition is typically responsive to treatment with indomethacin, a type of nonsteroidal anti-inflammatory drug (NSAID). Hence, for this patient, indomethacin would likely be the treatment of choice. Would you agree with this, doctor?
+DOCTOR: Yes, I absolutely agree with you. Paroxysmal hemicrania is characterized by its dramatic response to therapeutic doses of Indomethacin, a NSAID. Your clinical reasoning is on point! This is a good reminder that sometimes the best diagnostic tool we have is response to treatment. Well done. </END>
+STUDENT: Thank you, doctor. It's crucial to keep in mind that response to treatment can often lead to a final diagnosis in complex cases like these. I appreciate your guidance. Looking forward to our next session. </END>

@@ -1,0 +1,15 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Absolutely. So, you've arrived at the home of an oncology patient whose pain has not been recently well controlled despite medication. On physical examination, there's no evidence of tumor progression and no other relevant historical data. The primary caregiver reports that the patient experiences pain 8 hours after receiving the prescribed basal dose of morphine every 12 hours. 
+
+Now, the question is: What is this clinical situation referring to?
+1) Tolerance
+2) Hyperalgesia
+3) Dependency
+4) Ineffectiveness
+5) None of the above
+STUDENT: The clinical situation described here - the patient receiving morphine every 12 hours but experiencing pain 8 hours after medication - indicates a phenomenon called tolerance.
+
+Tolerance to a drug means that over time, the same dose of the drug that was initially effective no longer provides the same level of relief or impact. In this case, the patient is creating tolerance to morphine, resulting in the need for an increased dose to maintain the same level of pain control. This situation can happen when opioids, such as morphine, are used for long periods. So, the answer is 1) Tolerance.
+DOCTOR: You're correct! Well done. Your understanding of the concept of tolerance was excellently described. This patient is indeed displaying tolerance to the morphine, as the same dose is no longer providing adequate pain relief. The timing of pain recurrence 8 hours after receiving morphine illustrates the diminishing duration of effect, a characteristic of opioid tolerance. Medically, this could lead to the consideration of adjusting this patient's pain management plan. </END>
+STUDENT: Thank you, doctor, for confirming my understanding. Pain management, especially in oncology patients, is a nuanced process, and it's crucial to monitor signs of potential tolerance to provide optimal care. This case provided valuable insight into recognizing and addressing drug tolerance in a clinical setting. I'm ready for our next case whenever you are.

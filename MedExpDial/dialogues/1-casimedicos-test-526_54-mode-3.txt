@@ -1,0 +1,28 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Of course! 
+
+We have an 86-year-old woman who has been diagnosed with nonvalvular atrial fibrillation. She has a CHADS2 score of 3 points. We know from the literature that similar patients on warfarin therapy have a stroke risk of 2.2% versus 5.2% in patients not on warfarin.
+
+So, the question for you is: What would be the number needed to treat (NNT) in order to prevent an embolic stroke with anticoagulation therapy?
+STUDENT: Sure, I remember that the Number Needed to Treat (NNT) represents the estimated number of patients who need to be treated with a specific therapy instead of a control for one additional patient to benefit. It is typically calculated from the difference in event rates between control and treatment groups, which we also know as the Absolute Risk Reduction (ARR).
+
+In this case, the ARR can be calculated as the stroke risk of patients not on warfarin (5.2%) minus the stroke risk of those on warfarin (2.2%), which equals 3.0%.
+
+Percentage wise these would be 0.052 and 0.022 respectively:
+
+ARR = 0.052 - 0.022 = 0.03
+
+Then to find the NNT, we calculate the inverse of the ARR, which is 1/ARR = 1/0.03 = 33.33. Since we can't treat a fraction of a patient, it is usual to consider the nearest higher whole number of patients. 
+
+So, you would need to treat approximately 34 patients with atrial fibrillation with anticoagulation therapy to prevent one additional stroke. 
+
+Am I doing this correctly?
+DOCTOR: Almost perfect! You are correct in stating that the NNT is the inverse of the absolute risk reduction (ARR). So NNT= 1/ARR. Here, ARR is 3% which is 0.03 in decimal form. So NNT= 1/0.03= 33.3. But when it comes to NNT we don't usually round it up to the nearest whole number. Your calculation and understanding of the concept is perfect, but in clinical practice, we just simply express the NNT as a decimal. So the answer would be more accurately presented as 33.3.
+STUDENT: Thank you for the clarification, Doctor. I understand now - I should not round up the NNT to 34 but rather express it as 33.3, even though ideally we can't treat a fraction of a patient. I will keep this in mind for the future. It's good to know the complexities of applying these concepts in real-world clinical practice.
+DOCTOR: You're welcome! I'm pleased to see you're understanding and applying these important concepts. It's key to understand the data thoroughly but also understand its limitations when applying it clinically. You're doing a fantastic job. Keep it up!
+
+And also, remember not to be confused between relative and absolute risk reduction. Absolute risk reduction refers to the absolute difference in outcome rates between the control and treatment groups, whereas relative risk reduction refers to the percentage reduction in outcomes in the treatment group compared to the control group. Both are important concepts and can significantly influence treatment decisions.
+
+Do you have any other concepts or cases you want to discuss or clarify further? </END>
+STUDENT: I appreciate your encouragement and further clarification, Doctor. The distinction you provided between absolute and relative risk reduction is indeed vital, and I will ensure to maintain clarity on both concepts. For now, I don't have any other concepts or cases to clarify. I look forward to discussing and learning more clinical cases in our next session.

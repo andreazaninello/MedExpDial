@@ -1,0 +1,16 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Of course! A 24-year-old woman consults after noticing inguinal lymphadenopathy. The interrogation does not reveal the presence of any local discomfort or data suggestive of sexually transmitted infection. The examination revealed two lymphadenopathies, one in each groin, 1 cm in diameter, soft, mobile, non-painful. There are no skin lesions on the lower limbs, anus or perineum. Let's think about the case, what test do you think is essential here?
+STUDENT: In this scenario, considering the age and sex of the patient, and the fact that she has bilateral inguinal lymphadenopathy with no signs of local infections or sexually transmitted diseases, my differential would include both local and systemic illnesses. Local diseases could be a hidden infection or malignancy, while systemic diseases could be an immunological condition, systemic infection like HIV, or a blood disorder.
+
+First off, routine blood tests would be ordered, such as a complete blood count (CBC) with differential, ESR and CRP which might indicate an ongoing infection or a malignancy. 
+
+A sexual history should also be asked for even though it isn't mentioned here. If there is any possibility of a sexually transmitted disease, testing for HIV, herpes simplex virus, and syphilis would be considered. An ultrasound of the inguinal area could also be performed to visualize the lymph nodes and possibly guide a biopsy.
+
+This case seems quite complex, is there a specific test you are thinking of that could help narrow down the differential?
+DOCTOR: Those were very thoughtful considerations, however, in this specific case, there is an important element to consider. The patient's inguinal lymphadenopathies are 1 cm in size, mobile, non-painful, and soft. Bilateral lymphadenopathy of this type is common and often represents a normal variant, especially in thin people.
+
+The examination did not reveal any skin infections, sexually transmitted diseases, or malignancies that would suggest an abnormal process. Therefore, by the clinical characteristics, it seems to be normal lymph nodes and complementary explorations should not be done.
+
+Remember, it's always important to avoid unnecessary investigations or treatments, as they can be not only costly, but also potentially harmful to the patient. </END>
+STUDENT: Thank you for your guidance, doctor. It's a crucial reminder to not jump to investigations and tests without assessing the need for them first. Being mindful of not just cost, but also discomfort and potential harm to the patient, is indeed very important. I'll bring these lessons to my preparations for the USMLE exam and my clinical practices in the future. </END>

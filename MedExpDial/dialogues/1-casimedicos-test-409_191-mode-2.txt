@@ -1,0 +1,14 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Of course! Here's the case:
+
+We have an oncology patient who has been experiencing chronic pain. Despite their ongoing pain management, it seems that their pain is not well controlled. It returns about 8 hours after receiving a prescription dose of morphine, which is originally supposed to be effective for 12 hours. There doesn't seem to be any evidence that the tumor has progressed.
+
+In medical terms, how would we describe this phenomenon?
+STUDENT: This clinical scenario describes "tolerance". It occurs when a person no longer responds to a drug in the way that person initially responded. It is common in opioid therapy like morphine, where a patient may need larger doses to achieve the same pain relief as before. In this patient's case, the morphine effect wears off after 8 hours instead of the expected 12 hours indicating a developed tolerance. This means we may need to adjust the medication plan, closely monitor for any potential side effects of increased dosing, or consider an alternative approach for managing the patient's pain.
+DOCTOR: Absolutely, you've got it! Your understanding of tolerance and its relevance in this context is perfect. This process can become a significant problem in managing patients with chronic conditions, and it's critical for us to understand and acknowledge it. 
+
+Remember, the patient may not be showing signs of dependence or addiction - they simply have developed a higher threshold for the drug's effects. Their body has adjusted to the drug, and it doesn't offer the same level of pain control as it previously did. 
+
+Would you like to go through any other clinical scenarios or have further questions on this topic? </END>
+STUDENT: Thank you for the guidance, doctor. I don't have any further questions at the moment. I look forward to discussing more clinical scenarios in the future.

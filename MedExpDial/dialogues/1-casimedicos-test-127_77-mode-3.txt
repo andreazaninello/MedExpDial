@@ -1,0 +1,22 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Absolutely, let's dive right in.
+
+We have a 32-year-old patient with diabetes, who manages her condition well with insulin therapy. She came to the office reporting a tingling sensation in her hands that has been worsening over the past 2 weeks. She described it as feelings of corking and thermal insensitivity. She has not reported any visual disturbances, loss of strength, clumsiness, or any other symptoms. 
+
+During the examination, we noticed that she couldn't feel pain or temperature changes in both her hands and forearms, but she was still aware of her hand and forearm positions and could feel vibrations. Her muscle strength and size were normal, and her reflexes were symmetrical and again, normal. Her neurological examination didn't show any signs of dysmetria, dysdiadochokinesia, or intention tremor. 
+
+I'd like you to try and make a diagnosis based on this information.
+STUDENT: The exhibited symptoms point to a selective impairment of her sensory nervous system. She seems to have lost her sensations for pain, temperature, and light touch but still has preserved sensations of vibration and joint position. This distribution of sensory loss suggests a possible lesion involving the spinothalamic tract while sparing the dorsal columns.
+
+Given the combination of these symptoms, the most likely diagnosis could be Syringomyelia - a progressive disorder in which a cyst or cavity forms within the spinal cord. This cyst, termed a syrinx, may expand and elongate over time, damaging the spinal cord and causing such selective sensory loss. 
+
+Can you confirm if my diagnosis is correct?
+DOCTOR: Excellent analysis, you're correct! The patient in this case is suffering from a condition called Syringomyelia or in more general terms, central cervical spinal cord injury, which is characterized by a formation of a cavity in the spinal cord. 
+
+Your understanding of the dissociation of sensation is spot-on. In Syringomyelia, the spinothalamic tract carrying pain and temperature sensations is more commonly affected while the dorsal columns that carry positional and vibrational sensations are preserved, leading to the kind of selective sensory impairment as noticed in this patient.
+
+A couple of things to remember: Demyelinating diseases like Multiple Sclerosis would've more likely been accompanied by other signs like heightened reflexes; Carpal tunnel syndrome would've affected just the area distal to the carpal bones; and while "pseudosyringomyelic" peripheral polyneuropathies do exist, they generally originate from the lumbar region.
+
+Fantastic job diagnosing this complex case! Keep up the good work.</END>
+STUDENT: Thank you for the detailed explanation and the additional pointers, doctor. I appreciate your clear distinction among the similar presenting conditions, and the elaboration on the sensory dissociation occurring in Syringomyelia. The quality and depth of your feedback has deepened my understanding of these neurological conditions. I'm looking forward to the next case! </END>

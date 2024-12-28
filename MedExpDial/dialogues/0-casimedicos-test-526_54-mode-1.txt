@@ -1,0 +1,29 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Sure, here it is:
+
+We have an 86-year-old female patient with nonvalvular atrial fibrillation. Her CHADS2 score is 3 points. For patients in similar situations, the current literature shows that the stroke risk is 2.2% with warfarin therapy as opposed to 5.2% in patients not taking warfarin. Our question: What is the number needed to treat (NNT) with anticoagulation therapy to prevent one instance of embolic stroke?
+STUDENT: The Number Needed to Treat (NNT) is a way of measuring the impact of a medicine by estimating the number of people who need to be treated with a specific intervention for one of them to either benefit from the treatment or avoid one adverse event.
+
+In this case, to calculate the Number Needed to Treat (NNT) for anticoagulation therapy to prevent one instance of embolic stroke, we can use the formula:
+
+NNT = 1 / (Risk untreated - Risk treated)
+
+The "Risk untreated" value would be 5.2% or 0.052 (which is the stroke risk in patients not taking warfarin), and the "Risk treated" would be 2.2% or 0.022 (which is the stroke risk with warfarin therapy). 
+
+Thus NNT = 1 / (0.052 - 0.022)
+
+Before I proceed, please let me know if you follow along or if you would like more information on a specific part of the calculation.
+DOCTOR: Yes, you're correct about the formula for NNT. Now, substituting your data into the formula, you should be able to calculate the NNT. Would you like to proceed with the calculation?
+STUDENT: Sure, doctor. 
+
+Let's go ahead and calculate:
+
+NNT= 1 / (0.052 - 0.022)
+NNT= 1 / 0.03 
+
+So the NNT equals approximately 33.33, however, since we cannot treat a fraction of a patient, so we should round it to the nearest whole number which would be 34.
+
+So does this mean we would need to treat 34 patients with anticoagulation therapy to prevent one stroke, doctor?
+DOCTOR: While your math is absolutely correct and your understanding of NNT is sound, when it comes to rounding in the context of NNT, it's accepted to leave decimals because the NNT represents an average over a large population. So the correct answer is 33.33. Meaning, on average, we'd need to treat around 33 patients with anticoagulation therapy to prevent one stroke. Remember, this is a statistical concept that aids in the understanding of treatment effects and doesn't translate to an exact patient number in a real-world setting. But you're very close, and the concept is certainly understood! </END>
+STUDENT: Thank you for the clarification and feedback, doctor. I appreciate your time and the learning opportunity. I will keep the point about rounding in mind for future cases. Your explanation about the NNT being a statistical concept and not translating to an exact patient number in a real-world setting helps deepen my understanding of it. I look forward to our next learning session. </END>

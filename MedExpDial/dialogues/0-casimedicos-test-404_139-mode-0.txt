@@ -1,0 +1,18 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Of course! We are investigating the case of a 70-year-old woman with a history of anorexia, weight loss, discomfort in the musculature and proximal joints, as well as pain in the temporomandibular region. She reported to the emergency department due to a sudden, painless loss of vision in one eye, which now can only perceive hand movement. Also, she is presenting with an afferent pupillary defect. Our aim is to determine the first diagnostic test we should request to uncover the cause of her symptoms. What test would you consider in this case?
+STUDENT: The sudden, painless loss of vision observed in this patient is highly suggestive of a condition known as 'temporal arteritis' or 'giant cell arteritis'. Also, some of her systemic symptoms such as anorexia, weight loss, malaise, and pain in proximal joints are consistent with this diagnosis. 
+
+An afferent pupillary defect or Marcus Gunn pupil, refers to a medical condition in which the pupil of one eye dilates instead of constricting when light is shone into the eye, suggesting severe retinal disease or optic nerve damage.
+
+The first step in diagnosing temporal arteritis is usually a blood test known as an ESR (erythrocyte sedimentation rate). This test measures the speed at which red blood cells settle at the bottom of a test tube. In conditions associated with inflammation, such as temporal arteritis, the ESR is usually elevated. However, the gold standard for diagnosing this condition is a temporal artery biopsy.
+
+So, the first diagnostic test we should request is an ESR to uncover the cause of her symptoms. If elevated, we can later perform a temporal artery biopsy to confirm the diagnosis.
+DOCTOR: Well done! Your explanation is quite accurate. Temporal arteritis, also known as giant cell arteritis, is an inflammation of the blood vessels (vasculitis), primarily affecting the large arteries that branch from the neck. This condition presents mostly in persons above 50 years old and can cause symptoms exactly as you described: fever, anorexia, weight loss, muscle aches, and a sudden, painless loss of vision. Eyes affected by temporal arteritis could also present Marcus Gunn pupils due to the damage of the optic nerve.
+
+Starting with a less invasive test such as ESR is the standard approach if temporal arteritis is suspected. Elevated ESR suggests systemic inflammation. If this test comes back elevated, the diagnosis should be further pursued with temporal artery biopsy, towards which we also aim during a physical examination for its increased tenderness. 
+
+So, you're correct in assuming an ESR as the first test to request for this patient. Nice job!
+
+</END>
+STUDENT: Thank you, doctor! I appreciate your confirmation and further details on the condition. This case has been very informative for me. Looking forward to the next ones!

@@ -1,0 +1,21 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Absolutely, let's dive in.
+
+We're presented with a 6-month-old infant who has come into the emergency department for respiratory distress. Upon examination we find that the baby's axillary temperature is 37.2°C, with a respiratory rate of 40 rpm, heart rate of 160 bpm, blood pressure 90/45 mmHg, and SatO2 95% on room air. The baby is in moderate respiratory distress with intercostal and subcostal retraction. Upon pulmonary auscultation, there are scattered expiratory rhonchi, elongated expiration and a slight decrease in air entry in both lung fields. However, there are no murmurs noted upon cardiac auscultation. It has been decided to keep the patient under observation in the hospital for a few hours. 
+
+Considering this information, what do you think would be the most appropriate move regarding complementary tests right now? Would you:
+
+1- Request venous blood gas, leukocyte count and acute phase reactants.
+2- Request chest X-ray.
+3- Request arterial blood gases and acute phase reactants.
+4- Not request any complementary tests.
+STUDENT: Given the infant's age and symptoms, this case is suggestive of bronchiolitis, which is a clinical diagnosis and additional testing is usually not necessary. The tests listed in options 1, 2, and 3 might be appropriate in a severe presentation or if the child is not responding to symptomatic management, but since the baby is in moderate respiratory distress without severe symptoms, they likely won't provide any additional useful information and add unnecessary stress for the baby. Option 4, not requesting any complementary tests at this stage, seems to be the most appropriate choice considering the current clinical picture. But, continuous monitoring of the infant's respiratory status and wellbeing should be ensured. Please let me know if my understanding is correct, Doctor!
+DOCTOR: Excellent job, you're absolutely correct! Bronchiolitis is indeed a clinical diagnosis mostly caused by Respiratory Syncytial Virus (RSV), especially in infants, during winter months. It typically presents with cough, wheezing, and signs of respiratory distress like increased respiratory rate and intercostal retractions, just like in our patient.
+
+Routine lab tests are usually not helpful in this setting. Also radiographic or extensive lab evaluation is not recommended unless the findings may alter clinical management such as severe disease or the presence of hypoxia. For mild to moderate disease, supportive care including hydration and monitoring for disease progression is the mainstay of management. So your choice of option 4 was spot on.
+
+Remember, overuse of testing can be costly and potentially harmful. It is very important to consider the risk and benefit ratio of any proposed intervention, especially in pediatric cases. Continue keeping these principles in mind as you further your studies.
+
+And with that, our discussion can be considered concluded. </END>
+STUDENT: Thank you very much for your guidance, Doctor. This discussion helped me understand the importance of the "less is more" approach in pediatric cases. I'll strive to incorporate this principle along with the clinical judgement in the future. I'm looking forward to our next case discussion! </END>

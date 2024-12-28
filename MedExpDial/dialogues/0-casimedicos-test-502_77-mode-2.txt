@@ -1,0 +1,14 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Absolutely!
+
+We have a 6-month-old infant who has been brought to the emergency department due to respiratory distress. The physical examination findings are an axillary temperature of 37.2°C, respiratory rate 40 rpm, heart rate 160 bpm, and blood pressure 90/45 mmHg. The infant's oxygen saturation is 95% on room air. The infant is showing moderate respiratory distress with intercostal and subcostal retraction. On auscultation, there are scattered expiratory rhonchi, elongated expiration and a slight decrease in air entry in both lung fields. No murmurs were heard during the cardiac auscultation. The doctors decided to keep the patient under observation in the hospital for a few hours. The question for you is: What are the most appropriate steps to take at this moment regarding the complementary tests?
+STUDENT: Based on the infant's symptoms and examination, it sounds like a typical case of bronchiolitis. The American Academy of Pediatrics advises that in most cases of bronchiolitis, additional testing is usually not required. This includes blood tests, imaging (such as a chest X-ray) or microbiologic studies, which are not routinely recommended due to the high costs, potential for causing further distress, and unlikely changes in management they would bring. Therefore, the best course of action seems to be providing supportive care for the patient, closely monitor symptoms, and consider additional testing only if symptoms worsen or evolve in a way that suggests another diagnosis. Could you confirm if that's correct, doctor?
+DOCTOR: You're exactly right, great job! 
+
+Your understanding of bronchiolitis is fundamentally sound. This condition, often caused by a viral infection, usually does not require extensive testing unless the patient does not improve with supportive care or there are other complicating factors involved. As such, in this case, it is most appropriate to closely monitor the patient rather than subject them to invasive procedures or diagnostics, which are unlikely to change management strategy in the immediate term.
+
+So, the correct answer is Option 4 - do not request complementary tests. Keep up the good work, and keep remembering to prioritize patient comfort and effective treatment over unnecessary testing.
+
+</END>
+STUDENT: Thank you for confirming my thoughts, doctor. It's crucial to keep patient comfort and non-invasive procedures as primary consideration, while effectively diagnosing and treating conditions, especially in infants. Looking forward to our next case discussion.

@@ -1,0 +1,28 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Absolutely. Let's get started.
+
+Here's the case: A 25-year-old woman who wishes to become pregnant comes to you for advice. She is a heterozygous factor V Leiden carrier and wants to know what treatment she should take if she is pregnant. She's never had any thrombotic phenomena, but her factor V Leiden determination was performed as a result of a family study after her sibling had an episode of pulmonary embolism. 
+
+The question at hand is - What should the treatment be?
+STUDENT: Individuals with heterozygous factor V Leiden are at an increased risk of venous thrombosis, and this risk is even further increased during pregnancy and the postpartum period. However, the absolute risk of a thrombosis event is still relatively low in these patients, especially if there are no other risk factors.
+
+In this case, the patient has factor V Leiden, but she has no personal history of thrombosis. Current recommendations would suggest that we only start anticoagulation during pregnancy in patients who have had a past thrombotic event.
+
+I would advise the patient that we can monitor her closely through-out the pregnancy but will not start her on any prophylactic anticoagulation unless she presents with symptoms of a thrombotic event.
+
+Postpartum, the risk of thrombosis slightly increases due to the hypercoagulable state following delivery. Depending on her overall risk, such as if she has a caesarean section or is immobilized for an extended period, we might consider prophylactic anticoagulation treatment.
+
+Does this line of management align with your thinking, or would there be a different approach that we should consider?
+DOCTOR: Your thought process is spot on! Excellent reasoning. 
+
+Given her finding of heterozygous factor V Leiden but no personal history of thrombosis, the absolute risk of a venous thromboembolism event remains relatively low. 
+
+Potential advantages of prophylactic anticoagulation would need to be weighed against its associated risks, particularly the risk of excessive bleeding during delivery or following invasive procedures. For this reason, over-usage of prophylactic anticoagulation is generally discouraged among low-risk patients.
+
+Your proposed approach is advisable in this scenario and concurs with the third option that says, "Factor V Leiden in heterozygosis is a low-risk thrombophilia and there is no need for any treatment in pregnancy and puerperium."
+
+Keep up this kind of thorough thinking in your studies, and you'll make a fine doctor one day. 
+
+</END>
+STUDENT: Thank you doctor for your confirmation on the management plan and for the encouraging words. It's clear that the prophylactic anticoagulation might carry more risk than benefit for this patient without a personal history of thrombosis, despite the heterozygous Factor V Leiden mutation. I'll remember to always weigh the benefits and risks for each patient individually. I appreciate your guidance. </END>

@@ -1,0 +1,34 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Of course! 
+
+Here's the case: A 42-year-old female patient reports pain with inflammatory features and swelling in both wrists, the 2nd and 3rd metacarpophalangeal and proximal interphalangeal joints bilaterally, and left ankle that's been ongoing for 4 months. She's also experiencing morning stiffness lasting more than an hour. A hand X-ray shows an erosion in the styloid process of the ulna in the right carpus. Some lab tests were done and the following were her results: Hemoglobin count is 10 g/dL, ESR of 45 mm in the first hour, CRP 16 mg/L, and rheumatoid factor 160 IU/ML. Despite 6 months of treatment with indomethacin and methotrexate, the patient still experiences pain and swelling in both carpals and morning stiffness lasting 30 minutes. Additionally, a CBC showed an ESR 30 mm in the first hour and a CRP 9 mg/dL.
+
+The question now is: Regarding the attitude to take, which of the following is true: 
+
+It's quite a broad question but considering the clinical case and the patient's response to treatment - or lack thereof - what do you think should be the correct attitude or approach to take?
+STUDENT: This patient's symptoms and lab results are very indicative of rheumatoid arthritis (RA), considering the multiple joint involvements, the morning stiffness, and high levels of ESR, CRP, and rheumatoid factor.
+
+Given that her symptoms persist despite the use of indomethacin and methotrexate, I suspect that her RA is not well controlled with the current treatment regimen.
+
+As per the question "Regarding the attitude to take" - it might be beneficial to consider possible modifications to the patient's treatment plan in order to better manage her condition.
+
+However, without a list of specific options, I'm unable to provide a concrete answer. Could you provide me with potential strategies to change this patient's course of management?
+DOCTOR: Yes, your understanding of the case is correct. In fact, a change in the management approach might be needed. Here are some possible strategies:
+
+1. Increase the dose of methotrexate.
+2. Stop methotrexate and start a new disease-modifying anti-rheumatic drug (DMARD).
+3. Add a biologic DMARD to the current therapeutic regimen.
+4. Refer the patient to a pain management clinic for symptomatic relief.
+5. Stop all current drugs saying they are not working.
+
+What do you think would be the right course of action, based on the principles of management of rheumatoid arthritis?
+STUDENT: Based on guidelines of Rheumatoid Arthritis treatment, the mainstay of therapy are disease-modifying antirheumatic drugs (DMARDs), such as methotrexate. However, in the case of unresponsiveness, which seems to be the situation here, a biologic-augmented therapy can be considered. 
+
+Therefore, the addition of a biologic DMARD, such as a TNF inhibitor, to the current methotrexate regimen would be a good course of action. This is because these types of drugs directly target the aspects of the immune system that trigger inflammation that causes joint and organ damage. 
+
+Hence, the answer would be: Add a biologic DMARD to the current therapeutic regimen.
+DOCTOR: Your reasoning is absolutely correct! In fact, the addition of a biologic DMARD to the current treatment regimen is indeed the recommended step in patients with Rheumatoid Arthritis who do not respond adequately to initial therapies such as methotrexate. This is crucial in order to prevent further joint damage and to improve the patient's quality of life. 
+
+Great job, your understanding of the case and the appropriate management steps exhibits a good grasp of rheumatologic diseases and therapeutics. </END>
+STUDENT: Thank you, doctor. I appreciate your feedback. I'm glad I could come to the correct answer. Looking forward to our next case. </END>

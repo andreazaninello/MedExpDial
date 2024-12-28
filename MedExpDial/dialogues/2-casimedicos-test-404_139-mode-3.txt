@@ -1,0 +1,25 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Of course, let's go over the case.
+
+We have a 70-year-old woman who has a history of anorexia, weight loss, discomfort in her musculature and proximal joints plus pain in the temporomandibular region. She has come to the emergency department for a unilateral loss of vision, which she describes as seeing only hand movements. This vision loss is sudden, painless and presenting with an afferent pupillary defect. 
+
+Considering her symptoms, can you tell me what kind of diagnostic test you would request first?
+STUDENT: From the patient's symptoms and presentation, I suspect temporal arteritis or Giant Cell Arteritis (GCA), as it commonly presents with these symptoms in elderly women. 
+
+To confirm this diagnosis, the gold standard is Temporal Artery Biopsy. However, due to the urgency from a high risk of irreversible vision loss associated with GCA, I would actually first request a blood test for Erythrocyte Sedimentation Rate (ESR) and C-Reactive Protein (CRP). These tests are non-specific markers for inflammation and they tend to be elevated in GCA. The results for these inflammatory markers can be returned quickly, which allows for swift initiation of high-dose corticosteroids therapy to prevent further vision loss while waiting for the confirmatory temporal artery biopsy.
+DOCTOR: Excellent reasoning! Yes, the first diagnostic step in suspecting giant cell arteritis would typically be checking for elevation in markers of systemic inflammation like the ESR and CRP. 
+
+Although these tests are not specific for giant cell arteritis and can be elevated in many other conditions, they are highly sensitive. Hence, a normal ESR & CRP can essentially rule out giant cell arteritis. 
+
+Correct! The correct answer in this context would be to request a C-reactive protein test first, and indeed, if these tests show high levels, high-dose glucocorticoids should be started right away even before biopsy confirmation given the high risk of irreversible vision loss. 
+
+Well done.
+STUDENT: Thanks for the feedback, doctor. This case further emphasizes the importance of immediate treatment to prevent irreversible vision loss in high suspicion of GCA. A low threshold to initiate treatment in such cases seems to be key, with definitive diagnosis from Temporal Artery Biopsy following initial treatment. It's crucial to interpret clinical findings in conjunction with lab tests for optimal patient care. I look forward to our next case discussion.
+
+DOCTOR: Absolutely, you've understood it well. In clinical practice, the immediate objective in managing suspected GCA cases is to prevent irreversible complications such as vision loss, while the definitive diagnosis can be confirmed later with temporal artery biopsy. Your observations and conclusions are perfect for this case. 
+
+I'm glad you found this case useful. Remember always to keep the patient's best interest in mind and ensure clinical findings are corroborated with proper diagnostic testing for the best patient management. Good job! 
+
+</END>
+STUDENT: Thank you for your guidance, doctor. Yes, the key takeaway is the urgency of treatment in cases like GCA, where delay can lead to serious irreversible consequences. I appreciate these case discussions as they help solidify these important treatment principles. I am ready for our next case now.

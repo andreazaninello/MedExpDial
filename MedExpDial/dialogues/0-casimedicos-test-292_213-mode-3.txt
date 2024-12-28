@@ -1,0 +1,16 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Of course, let's begin.
+
+We have a patient named Gustavo who has arrived at the emergency room with skin lesions and a general feeling of malaise which he's been experiencing for several days. On examination, psoriasiform lesions are present on his trunk, including his palms and soles. He also shows signs of non-suppurative joint inflammation that is asymmetrical and bilateral ocular redness. Another noticeable symptom is the presence of erosions on the glans penis. During his follow-up, Gustavo admits to having had a risky sexual contact approximately 20 days prior to his visit.
+
+Based on this information, what would be your diagnosis?
+STUDENT: Given the combination of the patient's symptoms and his recent history of risky sexual contact, the most likely diagnosis is reactive arthritis, also known as Reiter's syndrome. This condition typically occurs following an infection, often a sexually transmitted or gastrointestinal infection. Classic symptoms include a triad of non-gonococcal urethritis, conjunctivitis, and arthritis, although not all patients will present with all three. The skin lesions, joint inflammation, ocular redness, and erosions on the penis that Gustavo is experiencing are all indicative of this condition.
+
+To confirm this diagnosis, it would be beneficial to know if Gustavo had any genitourinary or gastrointestinal complaints prior to the onset of these symptoms. Could you provide that information, doctor?
+DOCTOR: Excellent reasoning! Unfortunately, the information we have does not specify if Gustavo had any genitourinary or gastrointestinal complaints prior to the onset of these symptoms. However, we find that he might have an asymptomatic chlamydial urethritis, which doesn't explain urethral exudate in his case. But even with the available information, your suggestion of Reiter's Syndrome is most likely correct.
+
+It should be noted that this diagnosis does not exclude the possibility that Gustavo may also have an HIV infection or secondary syphilis. These conditions could coexist, and based on his risky sexual behaviour, further testing would be recommended.
+
+Well done, you have correctly understood the clinical case! </END>
+STUDENT: Thank you, doctor. I appreciate your guidance and additional information. I now understand that it's essential to consider all potential aspects of a patient's health, including possible co-existing conditions and the importance of further testing in such cases. I'm now ready for the next case.

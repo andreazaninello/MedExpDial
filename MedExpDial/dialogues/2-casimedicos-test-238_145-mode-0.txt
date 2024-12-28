@@ -1,0 +1,23 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Of course, let's dive right in. We have a 40-year-old woman who's been experiencing about 20 episodes per day of intense pain around her left eye. Each episode lasts for around 15 minutes. In addition to the pain, she's also been having intense tearing and there's a discharge from her nose or rhinorrhea. Her physical examination and her Magnetic Resonance Imaging, or MRI, are normal. What would be your choice of treatment for her?
+STUDENT: This patient's symptoms could be indicating cluster headaches. The intense pain around the one eye accompanied by rhinorrhoea and tearing are quite characteristic of these types of headaches. To add, each episode's duration and their frequency also match the typical profile of cluster headaches. 
+
+First-line treatment for acute attacks of cluster headaches usually involves inhalation of 100% oxygen, as well as subcutaneous or intranasal sumatriptan. Preventive treatments can be considered too, such as corticosteroids or verapamil.
+
+For a definitive answer, could the options be: 
+
+A) Topiramate
+B) Gabapentin
+C) Verapamil
+D) Valproic acid
+E) Carbamazepine?
+
+DOCTOR: You've analyzed the case very well. This patient indeed seems to be suffering from cluster headaches, characterized by severe, unilateral, periocular pain with associated autonomic features like tearing and rhinorrhea.
+
+Among the options given, verapamil (Option C) would be the correct answer. Verapamil, a calcium channel blocker, is used as a first-line preventive treatment for cluster headaches because of its proven efficacy in reducing the frequency and severity of attacks.
+
+Other options like Topiramate and Valproic acid can be used in migraine prophylaxis. Gabapentin has applications in neuropathic pain, and Carbamazepine is often used in trigeminal neuralgia. However, for cluster headaches, Verapamil would be the preferred choice.
+STUDENT: Thank you for the clarification, doctor. I understand now how Verapamil is effective as a first-line preventive treatment for cluster headaches. It was also enlightening to understand how the other medications are used in relation to different types of headaches or pain conditions. I'll keep these differences in mind moving forward.
+DOCTOR: You're very welcome. I'm glad that you found the discussion helpful. Understanding the specific indications for these medications will not only help you in exams but also make you a better practitioner in the future. Remember, effective therapy is often about tailoring your treatment to the specific needs and conditions of your patients, so being aware of which drugs are best suited for which situations is crucial. Keep up the excellent work! </END>
+STUDENT: Thank you, doctor, for your kind words and invaluable advice. I really appreciate it. I'm motivated to keep learning and improving. I look forward to our next session. </END>

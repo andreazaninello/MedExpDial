@@ -1,0 +1,15 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Of course, I'd be happy to help you prepare for your USMLE. Let's begin with a neurology case.
+
+This case involves a 70-year-old woman with a history of anorexia, weight loss, muscle discomfort, proximal joint pain, and pain in the temporomandibular region. She has presented to the emergency department due to sudden, painless, unilateral loss of vision - which could only be perceived as hand movement but not much detail beyond that. This vision loss was noted to have an afferent pupillary defect. 
+
+Based on this clinical presentation, what test would you first request for diagnostic purposes?
+STUDENT: Given these symptoms, I suspect that this patient might have temporal arteritis, also known as giant cell arteritis. It's an inflammatory disease of blood vessels, most commonly involving large and medium arteries of the head. The test I would first request would be a blood test to evaluate Erythrocyte Sedimentation Rate (ESR) and C-Reactive Protein (CRP), since these are markers of systemic inflammation and they can be elevated in this condition. If these results come back raising high suspicion of temporal arteritis, then a temporal artery biopsy would be the definitive diagnostic test. 
+
+This condition would require immediate treatment with corticosteroids to prevent complications such as complete loss of vision. The temporal pain, jaw claudication, and vision changes especially with the noted afferent pupillary defect are classical presentations of this serious condition. Her other symptoms of malaise, weight loss, and muscle discomfort also fit within the clinical picture.
+DOCTOR: You have made a good interpretation of the symptoms given. This patient's clinical features indeed suggest Giant Cell Arteritis, and the first test you would request should be a C-Reactive Protein (CRP) test, since it's a more sensitive marker than ESR in detecting systemic inflammation associated with this condition. The ESR can be elevated, but not as frequently or prominently as the CRP in these cases. With an extremely elevated CRP, consideration of a biopsy of the temporal artery would then be warranted. But, immediate high-dose corticosteroid therapy should be initiated upon suspicion to prevent irreversible vision loss.
+You have correctly identified the condition and the first step in diagnostic testing, job well done!
+
+</END>
+STUDENT: Thank you, doctor, for your guidance and confirmation. I appreciate your time and the knowledge shared. I will continue to study to further refine my diagnostic abilities ahead of the USMLE.

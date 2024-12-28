@@ -1,0 +1,24 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Absolutely, here it is:
+
+We are considering an 86-year-old woman who has been diagnosed with nonvalvular atrial fibrillation. She has a CHADS2 score of 3 points. According to research, similar patients who are on warfarin therapy have a stroke risk of 2.2%, compared to patients not using warfarin where the stroke risk is 5.2%.
+
+The question is: What would be the number needed to treat (NNT) to prevent embolic stroke with anticoagulation therapy?
+
+Do you know how to calculate the number needed to treat using this information?
+STUDENT: Yes, I understand the concept of Number Needed to Treat (NNT). It's a measure that tells us how many patients need to be treated with an intervention to prevent one additional bad outcome.
+
+The calculate the NNT, we need to know the absolute risk reduction (ARR). ARR is calculated as the difference between the risk in the control group and the risk in the treated (or experimental) group.
+
+So, in this case, the risk in the control group (patients not using warfarin) is 5.2%, or 0.052. The risk in the treated group (patients on warfarin therapy) is 2.2%, or 0.022.
+
+Subtracting the two gives us the ARR = 0.052 - 0.022 = 0.03.
+
+The formula for NNT is 1/ARR.
+
+So the NNT would be 1/0.03, which equals approximately 33.
+
+Therefore, we would need to treat approximately 33 patients with atrial fibrillation with anticoagulation therapy to prevent one embolic stroke. This, of course, is a simplified calculation and doesn't take into account other factors that might influence stroke risk. But I believe I've interpreted the data correctly - is that correct?
+DOCTOR: Yes, you're exactly right! Excellent work on deriving that Number Needed to Treat (NNT) is approximately 33. This means that for every 33 patients with a similar profile to the one in the scenario who are treated with warfarin, one stroke will be prevented. While there are indeed other factors to consider in making treatment decisions, your understanding of the NNT concept and how it's used in clinical decision-making is spot-on. </END>
+STUDENT: Thank you for the feedback doctor! I'm glad my calculations were correct. The understanding of measures like NNT definitely adds an extra layer of depth to our decision-making process in clinical practice. I will keep practicing similar cases to strengthen my understanding further.

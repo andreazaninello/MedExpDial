@@ -1,0 +1,34 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Of course, here's the case:
+
+A 40-year-old woman is consulting for approximately 20 episodes per day of intense, left-sided periocular pain that lasts about 15 minutes each. She also experiences intense tearing and rhinorrhea along with the pain episodes. Her general examination and an MRI have returned normal results. 
+
+What would you say her treatment of choice is from the following options?
+
+1. Indomethacin.
+2. Lamotrigine.
+3. Verapamil.
+4. Prednisone.
+5. Lithium carbonate.
+STUDENT: The description of her symptoms is consistent with a diagnosis of a cluster headache. Cluster headaches are relatively rare and are quite distinctive in their presentation, manifesting as sharp, severe pain around one eye. They also differ from migraines and other headaches by their distinct characteristics - they typically occur in cyclical patterns or clusters, which gives the condition its name. Alongside the pain, there can also be autonomic symptoms, such as tearing and rhinorrhea.
+
+For acute treatment, options like high-flow oxygen and triptans (such as sumatriptan) are typically used. For preventive therapy, calcium channel blockers such as Verapamil (option 3) can be used to reduce the frequency of attacks. The effectiveness of the other options, lithium carbonate, Indomethacin, and Prednisone might vary and may be considered in resistant cases or other individual circumstances. 
+
+Lamotrigine is an antiepileptic drug that is sometimes used off-label for some headache syndromes but it isn't considered first line.
+
+Therefore, given the options, Verapamil would likely be the first pharmacologic preventive strategy to manage this patient's cluster headache episodes.
+DOCTOR: You're absolutely right about cluster headaches and their acute and preventative treatments! However, there's a fine point in the case presentation: the frequency of the pain episodes - around 20 times per day with duration of 15 minutes each. This is unusual for a cluster headache. 
+
+Keep in mind cluster headache predominates in males, and can vary between 15-180 minutes, between once every other day, up to 8 times a day. On the other hand, there's another condition called Paroxysmal Hemicrania that predominates in women. This presents with pain similar to cluster headache, but episodes are of shorter duration (2-30 minutes), and occur much more frequently (5-30 episodes per day).
+
+Taking into account these details, do you want to reconsider your approach?
+STUDENT: Thank you for the additional information doctor, I appreciate the insight. You're correct; it's crucial to consider the patient's gender, and the high frequency and short duration of the attacks also point more towards Paroxysmal Hemicrania than cluster headache.
+
+In this case, Paroxysmal Hemicrania is known to respond remarkably well to treatment with Indomethacin (option 1), which is considered the medication of choice for this condition. So, based on this revision, my answer would rather be Indomethacin.
+DOCTOR: Absolutely correct, well done! Paroxysmal hemicrania, which is predominant in females, is characterized by recurrent, brief but extremely severe headaches usually around the ocular or the temporal regions. The episodes are indeed shorter and more frequent than cluster headaches. Furthermore, it's quite distinctive in that it responds extremely well to indomethacin, almost like a diagnostic criterion for this condition. Your revised diagnosis and treatment choice of Indomethacin is indeed the perfect match for our patient's symptoms. 
+
+This is the key message here: Not all trigemino-autonomic headaches are cluster headaches. It's essential to keep our differential broad and consider other possibilities as well. Good job!
+
+</END>
+STUDENT: Thank you, doctor, for the case and your guidance. Distinguishing among different headache disorders can be challenging, but considering the unique characteristics of each helps in arriving at a correct diagnosis and appropriate treatment plan. I'll keep these lessons in mind for my future practice. I'm looking forward to discussing more cases with you.

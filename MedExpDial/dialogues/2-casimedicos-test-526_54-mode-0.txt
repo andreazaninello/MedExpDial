@@ -1,0 +1,44 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Sure. Here's the case: 
+
+We have an 86-year-old woman with diagnosed nonvalvular atrial fibrillation. The patient's CHADS2 score is calculated to be 3 points. In various studies, it is known that patients with a similar background and on warfarin therapy have a stroke risk of 2.2% compared to a 5.2% risk in patients not on warfarin. 
+
+The question we're trying to answer here is: What would be the number needed to treat (NNT) to prevent one embolic stroke with anticoagulation therapy?
+
+Do you know how to calculate the NNT, or would you like an explanation on how to do it?
+STUDENT: Good morning, doctor. I am aware of the concept of number needed to treat (NNT). It's essentially the number of patients who need to be treated in order for one to benefit. In this case, we would calculate it as the inverse of the absolute risk reduction (ARR). But I'm unsure about calculating the ARR itself. Could you guide me on this?
+DOCTOR: Absolutely, your understanding of the number needed to treat (NNT) is correct. The NNT is indeed the inverse of the absolute risk reduction (ARR).
+
+As for calculating the ARR, it's the difference in risk between the control group and the treatment group. In this case, the control group would be similar patients not on warfarin therapy (risk of 5.2%) and the treatment group would be similar patients on warfarin therapy (risk of 2.2%).
+
+So, the ARR would be calculated as: 
+
+ARR = Risk in Control Group - Risk in Treatment Group
+
+Could you go ahead and calculate the ARR using the provided numbers?
+STUDENT: Sure, using the given risks, the Absolute Risk Reduction (ARR) would be:
+
+ARR = Risk in Control Group - Risk in Treatment Group
+ARR = 5.2 - 2.2
+ARR = 3.0
+
+So, the ARR would be 3.0%.
+DOCTOR: Perfect! The Absolute Risk Reduction (ARR) in this case is indeed 3.0%.
+
+Just a quick note, since this is a percentage, you may want to convert it to a proportion before calculating the NNT. Let's express the ARR of 3.0% as 0.03.
+
+Now, we calculate the Number Needed to Treat (NNT), like you said before, as the inverse of the ARR.
+
+Could you calculate the NNT using the ARR in its proportion form (0.03)?
+STUDENT: Of course. The NNT should be calculated as:
+
+NNT = 1 / ARR
+NNT = 1 / 0.03 
+NNT = approximately 33.33 
+
+Since we can't have a fraction of a patient, we should round up to the nearest whole number. Therefore, the NNT should be around 34. This means that we would need to treat approximately 34 patients in order to prevent one embolic stroke with anticoagulation therapy.
+DOCTOR: That's excellent! You calculated it correctly. The NNT in this case is indeed 34, meaning we would need to treat 34 patients with nonvalvular atrial fibrillation using anticoagulation therapy to prevent one embolic stroke. This is a crucial part of evidence-based medicine in determining the efficiency of a particular treatment.
+
+Good job, well done! </END>
+STUDENT: Thank you, doctor! I appreciate your guidance in understanding this important concept in evidence-based medicine. I look forward to our next discussion.

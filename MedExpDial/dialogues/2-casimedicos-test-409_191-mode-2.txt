@@ -1,0 +1,12 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Of course. The clinical case involves an oncology patient being visited at their home. The patient's pain has not been consistent lately. Upon physical examination, there were no signs of tumor progression, and there was no new relevant data. According to the patient's primary caregiver, the patient experiences pain 8 hours after receiving the prescribed basal dose of morphine, which is meant to be taken every 12 hours. 
+
+Now, I'd like you to tell me what this clinical situation could be referred to as. Is it tolerance, hyperalgesia, dependency, or ineffectiveness?
+STUDENT: The clinical situation you described refers to tolerance. Tolerance is described as an individual’s diminished response to a drug, resulting from its repeated administration over a period of time. In other words, higher doses of the drug are required to achieve the same therapeutic effect initially produced by a lower dose. So in the case of our patient, despite being on the prescribed morphine dose, the effect is wearing off before the next scheduled dose, indicating that they have developed a tolerance to the current dose.
+DOCTOR: Yes, you're correct! 
+
+Tolerance to opioids like morphine happens when the body gets used to the drug and it becomes less effective. So the patient initially had pain control with the current morphine dosage, but now the same dose is not preventing the pain as effectively as before. This does not imply that the patient's condition is deteriorating or that the treatment is inappropriate; it simply means that their body has grown accustomed to the current dosage level. Well done!
+
+</END>
+STUDENT: Thank you for the confirmation and additional explanation, doctor. Tolerance is indeed a critical issue to consider in long-term pain management, especially for patients on opioids. I understand the importance of being able to identify this and adjust treatment accordingly. Thank you and I look forward to our next session.

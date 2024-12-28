@@ -1,0 +1,36 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Of course! Let's dive right in.
+
+We have an 86-year-old female patient, diagnosed with nonvalvular atrial fibrillation. She has a CHADS2 score of 3 points. Studies in the literature show that similar patients on warfarin therapy have a stroke risk of 2.2% while patients without warfarin have a rate of 5.2%. 
+
+Considering these data, can you tell me what would be the number needed to treat (NNT) to prevent an embolic stroke with anticoagulation therapy?
+STUDENT: The Number Needed to Treat (NNT) is essentially the number of patients that need to be treated in order to prevent one negative event or outcome. It is calculated by dividing 1 by the absolute risk reduction (ARR).
+
+ARR in this case would be the reduction in risk thanks to treatment, which can be found by subtracting the stroke risk with treatment (warfarin risk) from the stroke risk without treatment (no warfarin).
+
+So, ARR = no warfarin risk - warfarin risk = 5.2% - 2.2%
+
+We then need to convert these percentages to decimals to use them in our calculation.
+
+So, ARR = 0.052 - 0.022 = 0.03
+
+Now we can calculate the NNT. The NNT formula is 1/ARR.
+
+So, NNT = 1/0.03 
+
+Before I proceed with this calculation, doctor, are there any clarifications or adjustments needed so far?
+DOCTOR: Your understanding and calculations are correct so far. Indeed, to get the absolute risk reduction (ARR), we need to subtract the incidence of stroke in patients exposed to warfarin (2.2%) from the incidence in those not exposed (5.2%). When you convert these percentages to decimals you'll get 0.03 (or 3%).
+
+Now please proceed with your calculation of the number needed to treat (NNT).
+STUDENT: Thank you, doctor. Let's proceed with the calculation:
+
+The NNT is calculated by dividing 1 by the absolute risk reduction.
+
+So, NNT = 1 / 0.03
+
+Which gives us a NNT of approximately 33.33, or rounded to the nearest whole number, 34.
+
+So, if I understand correctly, we would need to treat roughly 34 patients with warfarin to prevent one embolic stroke. Is my interpretation accurate, doctor?
+DOCTOR: Yes, your interpretation and calculation are absolutely correct! The number needed to treat (NNT) in this scenario is indeed around 34 when rounded to the nearest whole number. However, it's common to use decimals in presenting NNTs, and so you can also say that the NNT is approximately 33.3. This implies that, on average, one embolic stroke would be prevented for every 33 patients with similar characteristics to our patient that are treated with warfarin. Great work! </END>
+STUDENT: Thank you for the clarification and affirmation, doctor. I appreciate your guidance. The use of NNT provides a clear and practical way to understand the impact of therapy at a population level. This is vital when considering treatment options and shared decision making with patients. I look forward to more learning opportunities. </END>

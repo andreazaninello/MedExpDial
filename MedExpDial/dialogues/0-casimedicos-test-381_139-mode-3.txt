@@ -1,0 +1,20 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Certainly! Let's jump right in.
+
+We have a 70-year-old woman who has a history of anorexia, weight loss, discomfort in the muscles and proximal joints, and pain in the temporomandibular region. Recently, she came to the emergency department for unilateral loss of vision, noting that she could only perceive hand movement. This vision loss was sudden and painless and she showed an afferent pupillary defect.
+
+In terms of your first step towards diagnosis, what test would you request first?
+STUDENT: Considering this patient's clinical symptoms, one possible diagnosis is Temporal (Giant Cell) Arteritis. This condition is an inflammatory disease that can cause headache, jaw pain, vision changes, and other symptoms like general malaise which could explain the weight loss. Crucially, it can also cause sudden, painless, unilateral vision loss and an afferent pupillary defect as in this patient. 
+
+The first tests I would request would be inflammatory markers, including Erythrocyte Sedimentation Rate (ESR) and C-reactive Protein (CRP). Both of these are typically elevated in patients with Temporal Arteritis. 
+
+But it's important to note that treatment (usually with corticosteroids) should be initiated as soon as the condition is suspected, without waiting for the test results, to prevent permanent vision loss. And if our clinical suspicion remains high after these tests, a temporal artery biopsy could confirm the diagnosis.
+DOCTOR: Absolutely correct! 
+
+The ideal step is a laboratory determination of inflammatory markers such as the C-reactive protein (CRP) which is option 2. The clinical picture along with the symptoms points towards a suspicion of giant cell arteritis as the potential cause of the condition.
+
+It is a vasculitis affecting the large and medium sized vessels. The clinical suspicion ordinarily leads to immediate initiation of treatment with high-dose glucocorticoids to prevent irreversible damage to the optic nerve.
+
+Giant cell arteritis diagnosis can be definitively confirmed with a biopsy of the temporal artery, but in many cases, the diagnosis is made clinically and treatment is initiated based on the clinical presentation and laboratory findings. </END>
+STUDENT: Thank you, doctor, for your explanation and validation. This really helps me in developing a greater understanding of the clinical presentation of this condition and the assessment process. I'll take this knowledge forward as I continue to prepare for the USMLE exam.

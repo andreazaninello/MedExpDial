@@ -1,0 +1,22 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Of course, let's proceed. 
+
+We have a 40-year-old female who presents with approximately 20 episodes per day of severe left periocular pain. Each episode lasts about 15 minutes. She also complains of excessive tearing and runny nose during these episodes. Her physical examination and Magnetic Resonance Imaging (MRI) results are both normal. Considering these facts, what would be her treatment of choice?
+STUDENT: The symptoms suggest Trigeminal Autonomic Cephalalgias (TACs), especially considering the severity of the pain around the eye, and the autonomic symptoms occurring concurrently (tearing and runny nose). Among TACs, the most likely diagnosis according to the frequency and duration of the attacks would be Cluster Headache (CH), since its characteristic bouts of daily headaches usually persist for weeks or months.
+
+Regarding the treatment, for the acute episodes, high-flow oxygen or triptans are usually used. For prophylaxis, Verapamil (a calcium channel blocker) can be used.
+
+However, it might also be Short-lasting Unilateral Neuralgiform headache attacks with Conjunctival injection and Tearing (SUNCT) or Short-lasting Unilateral Neuralgiform headache attacks with cranial autonomic symptoms (SUNA), less frequent types of TACs with higher amount of attacks per day.
+
+For SUNCT/SUNA preventive treatment with lamotrigine and topiramate is preferred.
+
+Could you please specify which type of TACs is the most likely, so I could provide a more accurate treatment?
+DOCTOR: You're right with your differential diagnosis of Trigeminal Autonomic Cephalalgias (TACs). This patient has unilateral, very painful headache attacks that last from few minutes up to a couple of hours, and other symptoms like tearing and rhinorrhea.
+
+Considering the frequency and the very short duration of the attacks, this clinical scenario is most suggestive of another, less frequent type of TACs, called Paroxysmal Hemicrania (PH). This condition is characterized by 5 to 40 (!) daily attacks of severe, strictly unilateral pain which last 2 to 30 minutes. 
+
+Given this information, what would be your treatment of choice for the patient?
+STUDENT: Thank you for providing additional information about the most likely diagnosis, Paroxysmal Hemicrania (PH). In the case of PH, the first line treatment is indomethacin, a non-steroidal anti-inflammatory drug (NSAID). Patients usually experience dramatic relief with this medication. Would you agree with indomethacin as the best treatment option, doctor?
+DOCTOR: Excellent! Yes, you're correct. Indomethacin is indeed the treatment of choice for Paroxysmal Hemicrania. Its therapeutic effect is so specific that the response to indomethacin is currently part of the diagnostic criteria for PH. If the patient doesn't respond to it, the diagnosis of PH should be reconsidered. Great job working through this case! </END>
+STUDENT: Thank you, doctor! I appreciate your guidance on this case. The specificity of the therapeutic effect of indomethacin on Paroxysmal Hemicrania is indeed fascinating. This case has been illustrative and informative. Looking forward to our next case discussion! </END>

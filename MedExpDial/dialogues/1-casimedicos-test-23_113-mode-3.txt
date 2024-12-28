@@ -1,0 +1,15 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Absolutely, let's dive right in. 
+
+We have a 71-year-old woman with a history of rheumatoid arthritis. She's been taking sulfasalazine, prednisone, and etanercept for her condition. She presented to the emergency room after experiencing symptoms that suggest facial herpes zoster. The symptoms have been prevailing for 72 hours and they appear to affect her right hemiface and auricular pavilion. Note that her forehead is unaffected. She's also showing signs of conjunctival chemosis. 
+
+Now, the question I have for you is: What would be the appropriate treatment for this patient?
+STUDENT: Given the patient's immunocompromised status due to her rheumatoid arthritis and the medications she's on, and the fact that she's been experiencing symptoms of herpes zoster for around 72 hours, a standard treatment approach would typically involve antiviral therapy. However, her situation is somewhat complicated by the fact that she has involvement of her eye, as indicated by the conjunctival chemosis. 
+
+So in this case, I believe an appropriate treatment approach would involve initiating intravenous antiviral therapy with a drug like acyclovir, which can be more effective than oral medication under these circumstances. An ophthalmologist should also be consulted due to the potential for ocular complications of herpes zoster. 
+
+Would this be the correct approach, doctor?
+DOCTOR: Yes, that's the correct approach! In an immunocompromised patient with signs of ocular involvement, more aggressive treatment is essential. Hospital admission and intravenous treatment with antiviral agents such as acyclovir or famciclovir is indicated due to the high risk of possible complications. This patient also requires immediate ophthalmology consult to identify and manage any potential ocular complications. Your ability to diagnose and propose a treatment plan under these circumstances is essential to ensure optimal patient management. Good work.
+</END>
+STUDENT: Thank you for your confirmation, doctor. This really emphasizes the importance of considering the patient's overall health status, underlying conditions, and potential for severe complications when deciding on a treatment plan. I appreciate your guidance and will remember these critical points as I continue to prepare for my examination. Ready for the next case. </END>

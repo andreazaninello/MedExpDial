@@ -1,0 +1,19 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Certainly. Here is the case: 
+
+We have a 70-year-old woman who has a history of having anorexia, she has been experiencing weight loss, discomfort in her muscles and proximal joints, and pain in her temporomandibular region. She recently comes to the emergency department for sudden, painless unilateral loss of vision, limited to hand movement with an afferent pupillary defect. So, based on this, what test would you request first for diagnostic purposes?
+STUDENT: Given the patient's symptoms of unilateral loss of vision with an afferent pupillary defect, and general symptoms including age, muscle discomfort, anorexia and weight loss, one possibility is Giant Cell Arteritis (GCA), also known as Temporal Arteritis. 
+
+This is a serious condition and there is a major risk of vision loss in both eyes. As this is a medical emergency, the first diagnostic test to request would be an Erythrocyte Sedimentation Rate (ESR) and C-Reactive Protein (CRP) testing as both are frequently elevated in inflammatory conditions such as GCA. The ESR is the more traditional test, but the CRP may be more sensitive.
+
+However, the most definitive diagnostic test is a temporal artery biopsy, but given the urgency of the situation, it's common to begin treatment with corticosteroids immediately if GCA is suspected, even before the biopsy results have been obtained, to prevent further vision loss.
+
+DOCTOR: You are absolutely correct. Giant Cell Arteritis could indeed be a possibility given her symptoms and history. Being an inflammatory disorder, C-Reactive Protein (CRP) would be a good first test. It is a blood test marker for inflammation in the body, hence why it's ideal in this context. 
+
+The speed you would need to get these results also plays to the advantage of using CRP and ESR as they can be obtained very quickly, as compared to a temporal artery biopsy which has more logistical requirements and takes more time. Great work in identifying this! 
+
+Now, keep in mind CRP might not always be definitively diagnostic. Temporal artery biopsy, as you correctly stated, is indeed the gold standard for diagnosing GCA. But given the symptoms and the need for urgent treatment to prevent further vision loss, CRP is a reasonable first step.
+STUDENT: Thank you for confirming my thoughts and expanding on the reasoning, doctor. I understand that time is crucial in such cases to prevent permanent vision loss. I also see the importance of using quick tests like ESR and CRP as initial steps for timely intervention, while still understanding the necessity of temporal artery biopsy for more conclusive diagnoses. I am looking forward to more learning opportunities like this.
+DOCTOR: You're welcome! You're doing great in your progress, and I'm confident you're well on your way to becoming a capable doctor. Your understanding of this case and urgency in initial examination denotes a great sense of emergency clinical judgment. Keep up the good work! </END>
+STUDENT: Thank you, doctor! I appreciate your feedback and encouragement. I look forward to our next session and the continued learning process. </END>

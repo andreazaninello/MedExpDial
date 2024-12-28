@@ -1,0 +1,16 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Of course!
+
+This is a 6-month-old infant who has been brought in to the emergency department. The chief complaint is respiratory distress. Upon measurement, his axillary temperature is 37.2°C, respiratory rate 40 rpm, heart rate 160 bpm, blood pressure 90/45 mmHg, and his SatO2 is at 95% on room air. 
+
+Upon physical exam, you note the infant is showing moderate respiratory distress with intercostal and subcostal retraction. When listening to the lungs, you hear scattered expiratory rhonchi, prolonged expiration and a slight decrease in air entry in both lung fields. There were no murmurs noted on cardiac auscultation.
+
+It has been decided that the patient should be kept under observation in the hospital for a while. Now, what do you believe is the most appropriate course of action regarding further diagnostic tests?
+STUDENT: Considering the findings of moderate respiratory distress, rhonchi, prolonged expiration, and slightly decreased air entry in both lung fields in a 6-month-old infant, the first and foremost hypothesis would be bronchiolitis. This is especially relevant given the age of the infant, as bronchiolitis commonly occurs in infants under 2 years of age and generally presents during the winter months.
+
+In usual clinical practice, the diagnosis of bronchiolitis is clinical and further diagnostic tests are generally not required. The management is primarily supportive, with a focus on ensuring adequate hydration and oxygenation. 
+
+Therefore, the most appropriate next step would be careful observation and supportive care rather than performing further diagnostic tests like a chest radiograph. Additional tests expose the infant to unnecessary risks and costs and are unlikely to impact management unless the infant's condition deteriorates or fails to improve after the appropriate time period for this illness (approximately 7 days).
+DOCTOR: Well done! Indeed, the most appropriate attitude at this time is: Do not request complementary tests. Bronchiolitis, commonly caused by Respiratory Syncytial Virus (RSV), is essentially a clinical diagnosis. Further diagnostic testing including chest X-ray, complete blood count (CBC), blood cultures, and RSV testing is generally not required since it is unlikely to change the management of bronchiolitis, and young children are better off not being exposed to unnecessary tests. Further management includes close monitoring of hydration status and oxygen saturation, and supportive care. </END>
+STUDENT: Thank you for your confirmation, doctor. I've understood that in a case like this, presenting symptoms of bronchiolitis, the diagnosis is primarily clinical. No further testing such as chest X-ray, CBC, blood cultures, or RSV testing is generally needed as these are unlikely to change the patient's management. The focus should be on supportive care, including close monitoring of hydration status and oxygen saturation. This approach not only avoids unnecessary exposure to tests but also helps in providing the required care based on the patient's clinical condition.

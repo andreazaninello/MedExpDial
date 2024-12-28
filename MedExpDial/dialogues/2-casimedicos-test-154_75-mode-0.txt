@@ -1,0 +1,18 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Sure, let's discuss the case:
+
+This involves a 42-year-old female patient with a four-month history of bilateral wrist pain, swelling in her wrists, 2nd and 3rd metacarpophalangeal and proximal interphalangeal joints, along with the pain and swelling in her left ankle. She has an extended morning stiffness that lasts over an hour. A radiograph of her hand revealed an erosive change in the right ulnar styloid process. Her laboratory findings include elevated ESR and CRP, low hemoglobin level and a high titre of rheumatoid factor. Even after six months on indomethacin and methotrexate, she still experiences bilateral carpal pain and swelling, along with the stiffness in the morning, albeit it's reduced to 30 minutes. Her present lab findings show a reduced ESR and a high CRP level. Given these circumstances, what do you think would be the appropriate next steps in the management of this patient?
+STUDENT: Firstly, this patient seems to have a confirmed diagnosis of Rheumatoid Arthritis. This diagnosis is based on her signs and symptoms of joint pain and swelling, particularly in the hands and feet, morning stiffness that lasts over an hour, radiographic findings of erosive changes, and lab findings of an elevated ESR, CRP, high rheumatoid factor, and anemia which could be a chronic disease sign.
+
+Currently, she's on treatment with nonsteroidal anti-inflammatory drugs (indomethacin) and a disease-modifying antirheumatic drug (DMARD, in this case, Methotrexate), yet her inflammation markers are still elevated, and she continues to experience symptoms.
+
+According to the American College of Rheumatology guidelines, adding a TNF inhibitor to the treatment regimen should be considered for a patient with an inadequate response to initial DMARDs therapy. Alternatively, using another non-TNF biologic DMARDs or tofacitinib, a Janus kinase inhibitor, can be considered.
+
+The decrease in ESR and morning stiffness duration seems to suggest that Methotrexate is having some effect, but the high CRP and ongoing symptoms suggest that the disease activity is still significant. Hence, it could be beneficial to introduce an agent with a different mechanism of action, such as a biologic agent (for example, a TNF inhibitor).
+
+Does that answer your question, doctor? Or would you like to discuss this further?
+DOCTOR: Impressive! You are correct. It's evident this patient is having active disease despite being on methotrexate. She has high inflammation markers and continues experiencing symptoms, which indicates the active disease. Your recommendation to introduce a TNF inhibitor or other non-TNF biologic DMARDs or a JAK inhibitor such as tofacitinib is supported by the American College of Rheumatology guidelines, which recommends these as treatment options for patients like ours who doesn't respond well enough to the initial DMARDs therapy. Well analyzed!
+
+</END>
+STUDENT: Thank you for your feedback, Doctor. I'm glad my analysis was helpful.

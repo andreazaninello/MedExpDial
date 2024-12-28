@@ -1,0 +1,40 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Absolutely. This is a case about a 42-year-old female patient who has been experiencing pain with inflammatory features, swelling in various parts of her body, including both wrists, 2nd and 3rd metacarpophalangeal and proximal interphalangeal joints bilaterally, and a left ankle for four months. This discomfort is accompanied by morning stiffness lasting for over an hour. Her hand X-ray shows erosion in the styloid process of the ulna in her right carpus. Laboratory tests reveal an Hb of 10 g/dL, an ESR of 45 mm in the first hour, a CRP of 16 mg/L, and a rheumatoid factor of 160 IU/ML.
+
+After six months of treatment with indomethacin and methotrexate, she remained uncomfortable, with swelling in her carpus, morning stiffness of 30 minutes, and her CBC indicated an ESR 30 mm in the first hour and a CRP 9 mg/dL.
+
+Based on these details, what would be the best course of action for this patient?
+STUDENT: The patient presents with symptoms and findings typical of rheumatoid arthritis (RA), including bilateral symmetrical arthritis affecting small joints of the hands and wrists, prolonged morning stiffness, radiological finding of bony erosion, and elevated rheumatoid factor.
+
+Based on the information given, the treatment regimen of indomethacin, a non-steroidal anti-inflammatory drug (NSAID), and methotrexate, a disease-modifying antirheumatic drug (DMARD), has slightly improved her morning stiffness but she still suffers from wrist pain and swelling. Furthermore, while her ESR lightened a bit it's still high, as is her CRP, suggesting ongoing active disease despite six months of treatment with Methotrexate.
+
+Considering the patient's limited response to the current treatment regimen after six months, escalation of therapy is warranted. According to the guidelines set by professional groups such as the American College of Rheumatology, if a patient has an inadequate response to traditional DMARD therapy, treatment should be escalated to either a non-TNF biologic DMARD or a biologic TNF inhibitor. Another possibility is to consider adding Tofacitinib, a Janus kinase (JAK) inhibitor.
+
+So adding a TNF Inhibitor such as infliximab, etanercept or adalimumab, or possibly another type of non-TNF biologic DMARD such as abatacept or rituximab, could be beneficial for the patient at this point. Which therapy to use would depend on multiple factors such as the patient's comorbid conditions, risk factors, and personal preferences. 
+
+However, I would like more information on this patient's other medical conditions, any contraindications she might have, and related medications she might be taking. Continual monitoring of her inflammatory markers will also be important after adjusting her therapy. Could you provide this information?
+DOCTOR: I agree that the next step in the treatment plan would likely involve escalating treatment given the ongoing active disease. However, it's important to note that, in practice, beneficial effects of the DMARDs, especially methotrexate, might not be seen until after several months. A recent systematic review suggested that most patients on Methotrexate experienced maximum improvement around six months. However, some patients may continue to improve until nine months or even one year after the start of the therapy.
+
+I can provide you the possible options and you can tell me which you think is the most appropriate? Here are the possible attitudes to take:
+
+1- Suspend the prescribed treatment due to lack of response and initiate prednisone at high doses for symptom control only.
+2- Maintain the therapeutic attitude taken since we have only been on it for 6 months and it would be necessary to wait a minimum of 9 months to evaluate therapeutic response.
+3- If there is no medical contraindication, consider adding an anti-TNF alpha to the treatment.
+4- Start a second disease-modifying drug as soon as possible, since it would not be possible to start treatment with biologic therapy alone after methotrexate.
+5- Consider starting treatment with anti-CD20 therapy associated with methotrexate. 
+
+What do you think?
+STUDENT: Given the timeline, the reduction in the duration of morning stiffness, and the decrease in ESR, it suggests the patient might be responding to methotrexate, just not to a satisfactory level yet. As noted, the full effectiveness of methotrexate might not be seen until up to nine months or even up to one year of therapy in some patients. Thus, suddenly interrupting treatment or rushing to add a second line of medication or biologic therapy might not be necessary at this point, despite the presence of some active disease.
+
+Considering this, the second option of maintaining the therapeutic attitude taken since we have only been on it for 6 months and it would be necessary to wait a minimum of 9 months to evaluate therapeutic response seems to be the most appropriate, for the time being.
+
+However, this decision also involves patient communication, discussing the pros and cons of waiting versus adding on, taking into account her discomfort, tolerance of the medication, and any potential side effects. Monitoring during this waiting period would also be crucial, with readjustment of the plan if no further improvements are seen or if the condition worsens.
+
+Is my reasoning correct in this scenario?
+DOCTOR: You're absolutely right. Given the circumstances, it might be best to wait a bit longer before considering adding any new medications. Despite the persistent active disease, the slow improvement suggests that the methotrexate may be starting to take effect.
+
+As you've rightly pointed out, maintaining regular communication with the patient, discussing the potential pros and cons, and closely monitoring her condition during this waiting period is of utmost importance. If no further progress is seen, or if the condition gets worse, escalating the treatment will then be considered. Good job with interpreting these dense clinical details and coming up with a clear action plan, I believe you are prepared for the questions in the USMLE exam. Keep up the good work!
+
+</END>
+STUDENT: Thank you very much for your feedback and guidance, Doctor. I appreciate your support throughout this case study, and I look forward to learning from more cases in the future!

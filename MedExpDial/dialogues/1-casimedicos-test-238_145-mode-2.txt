@@ -1,0 +1,30 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Absolutely. We have a 40-year-old woman who has been experiencing about 20 episodes per day of intense left periocular pain that lasts about 15 minutes each. In addition, each episode is accompanied by intense tearing and a runny nose. Her examination and MRI, however, are both normal. Your task is to figure out what treatment would be most beneficial for her.
+STUDENT: Based on the symptoms you've described, this patient appears to be suffering from cluster headaches. These are very painful headaches that occur in cyclical patterns or clusters, described as severe burning and piercing pain. They are typically associated with autonomic symptoms such as tearing, nasal congestion, sweatiness, miosis or ptosis, all occurring on the same side as the headache.
+
+Now, regarding treatment options. Cluster headaches tend to have a sudden onset and short duration but are very painful, which warrants an acute treatment approach to quickly resolve the pain. High-flow oxygen through a mask, or a 'triptan' medication - for example, sumatriptan - could be useful.
+
+However, given the number of daily episodes, I believe it would be important to consider a preventative approach too. A medication such as verapamil, a calcium channel blocker, is commonly used as a prophylactic treatment in cluster headaches to reduce the frequency and severity of the attacks. Other prophylactic options can include corticosteroids or lithium. 
+
+If first and second-line treatments are ineffective, further options include greater occipital nerve blockade or even more invasive treatments such as deep brain stimulation.
+
+In this case, I would recommend starting with high-flow oxygen and sumatriptan for acute attacks, and considering verapamil as a prophylactic treatment. With this, the patient should see a reduction in the severity and frequency of her symptoms. But of course, treatment must be tailored to the patient's response and potential side effects.
+DOCTOR: You've provided a thorough and thoughtful analysis of this patient's symptoms and possible treatment options. However, this case does not describe typical cluster headaches. The short duration of the intense left periocular pain (lasting only 15 minutes), and the high number of episodes per day are more suggestive of another type of headache known as "trigeminal autonomic cephalalgia" (TACs).
+
+There are actually three types of TACs:
+
+1. Cluster headache, which you correctly described as a severe unilateral headache with accompanying autonomic symptoms.
+
+2. Paroxysmal hemicrania, which is similar but exhibits a more frequent and shorter duration of attacks.
+
+3. Short-lasting unilateral neuralgiform headache with conjunctival injection and tearing (SUNCT), where the pain is also short-lasting but is of very high frequency.
+
+In this case, what sets it apart from a typical cluster headache is the excessive frequency of attacks and the short duration. Here, we are dealing with what seems to be a type of TAC known as Trigeminal Neuralgia or TN. This condition is typically treated first with an anticonvulsive medication such as carbamazepine but can also respond to a particular type of non-steroidal anti-inflammatory drug (NSAID) . Can you guess the NSAID from options given?
+STUDENT: Certainly. Trigeminal neuralgia is typically managed with medications like carbamazepine, as you mentioned. However, when it comes to non-steroidal anti-inflammatory drugs, the one often used for its unique efficacy in certain headache disorders is indomethacin. So my guess would be indomethacin.
+DOCTOR: Yes, that's correct! Indomethacin is the treatment of choice in this case. This drug has a unique efficacy in a relatively small number of headache disorders, such as paroxysmal hemicranias and hemicrania continua, and is also used in trigeminal neuralgia like this case. Despite these being distinct syndromes, indomethacin responsiveness can sometimes blur these lines. 
+
+Keep in mind that indomethacin can have potentially severe gastrointestinal side effects and should be used with caution or even avoided in patients with a history of peptic ulcer disease or other significant gastrointestinal disorders.
+
+Keep up the good work! You are definitely prepared for this type of question on your exam. </END>
+STUDENT: Thank you, doctor. This case presented a challenging diagnosis and I appreciate your guidance in getting to the correct answer. This will surely help me in both my upcoming exam and future clinical practice, especially when it comes to treating patients with similar symptoms. Thanks again for the case and I look forward to learning more from you.

@@ -1,0 +1,31 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Of course. Today we're dealing with a case from preventive medicine.
+
+We have an 86-year-old woman who was recently found to have nonvalvular atrial fibrillation. She has a CHADS2 score of 3 points. The CHADS2 score, as you may already know, is used to estimate the risk of stroke in patients with atrial fibrillation.
+
+The literature reveals that, in patients similar to ours, those who are on warfarin therapy have a stroke risk of 2.2%. However, for those not on warfarin, that risk increases to 5.2%.
+
+Your task is to calculate the number needed to treat (NNT) to prevent embolic stroke with anticoagulation therapy. Do you remember how to calculate the NNT?
+STUDENT: Yes, I recall that the Number Needed to Treat (NNT) is calculated as the inverse of the Absolute Risk Reduction (ARR). The ARR can be calculated by subtracting the risk in the treatment group from the risk in the group without treatment.
+
+In this case, the risk for those not on warfarin is 5.2% and for those on warfarin is 2.2%. 
+
+So, ARR = 5.2% - 2.2% which equals 3%.
+
+As percentages, these would be 0.052 and 0.022 respectively, making the ARR = 0.052 - 0.022 = 0.03.
+
+Then to find the NNT, we calculate 1/ARR, which would be 1/0.03. 
+
+Let me do the math... and the NNT comes out to be approximately 33.3, which rounds up to about 34. 
+
+So, in this case, we would need to treat approximately 34 patients with atrial fibrillation with anticoagulation therapy to prevent one additional stroke. 
+
+Am I on the right track with my calculations?
+DOCTOR: Yes, that's exactly right! You've done well to remember how to calculate the NNT. 
+
+The NNT, in this case, is indeed approximately 33.3, which indicates that 33 patients would need to be treated with anticoagulation therapy to prevent one embolic stroke. Since real-world application does not allow for treating fractions of a patient, we typically round up and say 34 patients need to be treated.
+
+Great job on working through this exercise. It appears you have understood the concept and calculation of NNT well. Keep practicing and you'll do great on your USMLE exam!
+</END>
+STUDENT: Thank you, doctor, for your guidance. I find the concept of NNT very useful in understanding the impact and effectiveness of a treatment. I will definitely keep up the practice! Looking forward to our next discussion.

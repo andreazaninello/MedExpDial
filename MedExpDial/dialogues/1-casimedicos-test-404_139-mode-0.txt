@@ -1,0 +1,30 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Absolutely. Here's the clinical case:
+
+We have a 70-year-old woman who has been experiencing anorexia, weight loss, and discomfort in her musculature and proximal joints. She also has pain in the temporomandibular region. Now, she's at the emergency department due to suddenly losing vision in one eye (to the point of only being able to distinguish hand movement); this came on suddenly and painlessly. Additionally, she has an afferent pupillary defect. Considering her symptoms, what test would you request first for diagnostic purposes?
+STUDENT: Dating from her advanced age, anorexia, weight loss and pain in her proximal joints and muscles, the patient is likely suffering from polymyalgia rheumatica (PMR). The accompanying pain in the temporomandibular region and sudden, painless loss of vision in one eye, suggests she may also be developing Giant Cell Arteritis (GCA) or temporal arteritis, which is often associated with PMR. 
+
+I'd say an emergency temporal artery biopsy should be done first to rule out Giant Cell Arteritis. However, could you remind me what exactly is meant by an afferent pupillary defect to make sure I'm considering every symptom adequately?
+DOCTOR: Sure, an afferent pupillary defect, also known as a Marcus Gunn pupil, is a medical sign observed during the swinging-flashlight test where the patient's pupils constrict less (thus appearing to dilate) when a bright light is swung from the unaffected eye to the affected eye. The most common cause of a unilateral afferent pupillary defect is a unilateral lesion of the optic nerve or severe retinal disease.
+
+Now you're right about the diagnosis. This patient's symptoms indeed suggest Giant Cell Arteritis (GCA), a vasculitis that often presents with polymyalgia rheumatica. The sudden, painless loss of vision is particularly concerning as this may indicate arteritic anterior ischemic optic neuropathy, a common cause of vision loss in GCA.
+
+However, an important point to note is the temporal artery biopsy is invasive and not without risks, and it can sometimes give false-negative results. In an acute setting, with a high suspicion of GCA and a risk of irreversible vision loss, the first diagnostic step is usually to start high-dose corticosteroid treatment as it can prevent further vision loss. 
+
+Then, the Erythrocyte Sedimentation Rate (ESR) and C-Reactive Protein (CRP) levels are generally checked as they are elevated in most cases of GCA and can support the diagnosis, but they are not specific. Can we discuss more about the first diagnostic step?
+STUDENT: You're right, I should have considered the acuteness of the situation. It's crucial to prevent any further loss of vision, and that wouldn't be done in time with a biopsy, which not only takes time to perform and analyse but can indeed yield false negatives thereby causing further delays. 
+
+In this case, initiating high-dose corticosteroids to reduce inflammation, hence preventing further optic nerve damage, would be the best immediate step to manage the presumed Giant Cell Arteritis. This makes sense given the high potential for irreversible vision loss in such situation. 
+
+After starting the treatment, testing for Erythrocyte Sedimentation Rate (ESR) and C-Reactive Protein (CRP) levels would then be useful as these are inflammatory markers often elevated in conditions like GCA. Although they are not specific they can strengthen the diagnosis by providing indicative evidence of systemic inflammation. If the markers come back high, this would further support our suspicion of GCA. 
+
+Eventually, a temporal artery biopsy could be done for definitive diagnosis of Giant Cell Arteritis as it would confirm the presence or absence of inflamed cells in the blood vessel walls. 
+
+But as I understand from your explanation, in this acute clinical setting, the patient's immediate safety and well-being takes precedence, hence starting with high-dose corticosteroids would be the best first diagnostic step, correct?
+DOCTOR: Exactly, you've got it right! When dealing with a condition as acute and potentially damaging as Giant Cell Arteritis, we have to balance the need for a definitive diagnosis with the urgency of preventing further harm. Though a temporal artery biopsy is the gold standard test for diagnosing GCA, in this scenario initiating high-dose corticosteroids immediately to prevent further vision loss takes precedence. Concurrently, testing for ESR and CRP would provide further support for the suspected diagnosis. 
+
+You've done a fantastic job arriving at the correct answer through considering the patient's symptoms and signs. Remember, being a good doctor is not only about knowing what to do, but also when and how to do it. Well done!
+
+That concludes this case. </END>
+STUDENT: Thank you doctor for your clear explanations and guidance. I have certainly learned a lot from this case. The balance between taking definitive diagnostic actions vs urgent potentially life-saving ones based on strong clinical suspicions is indeed a crucial aspect in medicine. I'm looking forward to our next learning session!

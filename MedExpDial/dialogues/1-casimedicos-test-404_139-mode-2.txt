@@ -1,0 +1,32 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Of course! We have a 70-year-old female patient who has presented to the emergency department due to unilateral loss of vision that had a sudden, painless onset. Her vision loss is at a level that she can only perceive hand movements. She also has an afferent pupillary defect in the same eye. Furthermore, she has a history of anorexia, weight loss, general discomfort in her musculature, proximal joint pains, and pain in the temporomandibular region.
+
+Based on this presentation, what would be the first diagnostic test you would like to request?
+STUDENT: Based on the age, anorexia, weight loss, musculoskeletal symptoms, and especially the sudden, painless unilateral vision loss, this presentation is concerning for Giant Cell Arteritis (GCA) or temporal arteritis. This condition is a medical emergency because the vision loss it can cause may become permanent if not treated promptly.
+
+The first diagnostic test I would request, considering the emergent nature of this case, would be to measure the levels of inflammatory markers in the blood, including Erythrocyte Sedimentation Rate (ESR) and C-Reactive Protein (CRP). These tend to be markedly elevated in GCA, and can in turn indicate the presence of the disease. 
+
+However, can I be provided with optional answers to this question to help me better determine the most effective diagnostic test to request first in this case?
+DOCTOR: Definitely. Here are your options to choose from:
+
+1- Lumbar puncture.
+
+2- C-reactive protein.
+
+3- Magnetic Resonance Angiography.
+
+4- Carotid ultrasound. 
+
+Now, based on your understanding and these options, which test would you request first?
+STUDENT: Given the options and considering the patient's symptoms, I would request the C-reactive protein test first. This test will check for elevated levels of CRP, which is a marker of inflammation in the body and is typically elevated in conditions like Giant Cell Arteritis. This, along with a clinical picture consistent with GCA, should prompt immediate treatment with corticosteroids to prevent further potential vision loss.
+DOCTOR: Absolutely correct! Your understanding of the case and your choice are spot-on. In this situation, ordering a C-reactive protein would be the ideal first diagnostic step given the high suspicion of Giant Cell Arteritis. 
+
+This test, in conjunction with clinical examination findings, can help rapidly discern if the patient's symptoms are due to this condition, which is a type of vasculitis that can lead to ischemic optic neuropathy, manifesting as sudden, painless, monocular vision loss. 
+
+Prompt recognition of GCA and immediate initiation of steroid therapy are essential to prevent irreversible vision loss. Also remember, a temporal artery biopsy can help confirm the diagnosis, but treatment shouldn't be delayed to wait for its results when there is high suspicion of GCA.
+
+Great job on connecting the clinical symptoms with the appropriate diagnostic approach!
+
+Let's call it a day then. </END>
+STUDENT: Thank you doctor for your explanations and for confirming my understanding. It's good to know that the initial treatment of suspected Giant Cell Arteritis should not be delayed for confirmatory testing when vision loss is at risk. I appreciate the reinforcement on the importance of immediate action based on clinical judgement in acute and critical situations. I'm looking forward to our next session!

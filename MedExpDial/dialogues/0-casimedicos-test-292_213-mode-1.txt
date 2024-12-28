@@ -1,0 +1,13 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Absolutely. Let's get started. 
+
+Gustavo came to the Emergency Room presenting with skin lesions and general malaise which have been going on for several days. He had psoriasiform lesions visible on his trunk and these extended to involve his palms and soles. In addition to that, he showed signs of asymmetric non-suppurative joint inflammation and bilateral redness in his eyes. He also had erosions on his glans penis. During his follow-up interview, Gustavo admitted to engaging in risky sexual intercourse about 20 days prior to his visit.
+
+Based on these presenting signs and symptoms, can you make a diagnosis?
+STUDENT: The patient's presenting symptoms seem to indicate reactive arthritis, formerly known as Reiter's syndrome. This condition is characterized by three classic symptoms: non-gonococcal urethritis, arthritis and conjunctivitis. Effective diagnosis would depend on whether the patient had any gastrointestinal or genitourinary symptoms prior to the development of these symptoms. Reactive arthritis is typically triggered by infections, often sexually transmitted or foodborne. The patient's risky sexual encounter prior to the onset of symptoms aligns with this. Could you confirm this?
+DOCTOR: Correct, good job! The case description indeed fits the symptoms and timeline often associated with Reiter's syndrome, also known as reactive arthritis. This condition is triggered by infection and often presents with a combination of urethritis, conjunctivitis and arthritis, which correlates with the patient's symptoms. It's essential to note that although the syndrome has been classically described as the triad you mentioned, not all patients will present with all three symptoms. The prior risky sexual encounter serves as an additional clue pointing towards a sexually transmitted infection as the initial trigger. 
+
+Keep this in mind for your USMLE examination and the importance of gathering a thorough patient history during diagnosis. Well done on arriving at the correct answer, keep it up!
+</END>
+STUDENT: Thank you, doctor, for the additional clarification and supportive feedback. The thorough case presentation and detailed guidance significantly enhance my understanding. I will certainly keep in mind the importance of a comprehensive patient history in diagnosing conditions like Reactive arthritis. I'm looking forward to the next case!

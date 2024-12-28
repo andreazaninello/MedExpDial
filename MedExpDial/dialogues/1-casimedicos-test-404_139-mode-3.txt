@@ -1,0 +1,24 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Sure, let's dive right in. 
+
+We have a 70-year-old woman who has a history of anorexia, weight loss, and discomfort in the musculature and proximal joints. She also complains of pain in the temporomandibular region. Her concerning symptom that made her visit the emergency department is a sudden and painless onset of unilateral loss of vision where she can only perceive hand movement. There is also a note of an afferent pupillary defect present. 
+
+Based on these facts, what test would you request first for diagnostic purposes?
+STUDENT: Considering the patient's symptoms and her age, my primary suspicion would be Giant Cell Arteritis (GCA), also known as Temporal Arteritis. GCA is a vasculitis which is often associated with polymyalgia rheumatica (PMR), which could explain the patient's muscle discomfort, joint pain and weight loss. GCA can involve the ocular arteries and a sudden, painless loss of vision could be a serious complication.
+
+Normally, the definitive diagnostic test for GCA is a temporal artery biopsy. However, due to the urgent nature of potential permanent vision loss and the invasive nature of the biopsy, typical first line steps usually involve starting the patient on high-dose corticosteroid therapy to prevent further vision loss and ordering an Erythrocyte Sedimentation Rate (ESR) and a C-reactive protein (CRP) blood test. These tests are typically elevated in GCA and can provide some evidence for this diagnosis.
+
+A question for you though, what exactly is an afferent pupillary defect and how does this bear on my judgement?
+DOCTOR: An afferent pupillary defect, also known as Marcus Gunn pupil, typically indicates a serious disease of the retina or optic nerve (the afferent pathways). Because the signals received by the eye don't properly reach the brain, this would lead to an abnormal pupil response or the detected 'defect'. 
+
+Most often, you'd find that the affected eye would show a weaker constriction when a light shone into it compared to when the light is shone in the unaffected eye. How this contributes to your suspicion of GCA? Well, GCA can interrupt the blood supply to the optic nerve which results in Anterior Ischemic Optic Neuropathy (AION), a common cause of an afferent pupillary defect. The sudden, painless vision loss our patient is experiencing fits well with AION due to GCA.
+
+And you're absolutely correct. Considering the symptoms in this patient, this likely is temporal arteritis or GCA. Since we are aiming for a less invasive, quick diagnostic marker, C-reactive protein seems suitable here. High levels would be expected in this case. Are you okay with moving forward with option 2?
+STUDENT: Thank you for your clarifications on the afferent pupillary defect and its relation to GCA and AION. Indeed, given the nature and urgency of this situation, I agree that the C-reactive protein would be the appropriate first diagnostic test. This will help to accelerate the treatment process while further effective investigation can be done. Yes, let's move forward with option 2.
+DOCTOR: Excellent, it sounds like you have a good handle on this case. Your choice to request a C-reactive protein fits well with the patient's symptoms and the suspected diagnosis. Practically speaking, getting an initial quick marker of inflammation can guide you to initiate timely treatment, which in this case, can prevent further and potentially irreversible vision loss. 
+
+Always remember, in real life situations, early recognition of serious conditions like GCA is important to start treatments on time and in parallel proceed with further investigations as necessary. I am glad you've understood and applied this principle in this case. Keep up the good work!
+
+</END>
+STUDENT: Thank you, doctor, for your guidance and feedback. This case has indeed taught me to prioritize immediate necessary treatment in parallel with further diagnostic measures to avoid critical complications such as permanent vision loss. I appreciate your reassurance and look forward to more learning in our next sessions.

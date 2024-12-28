@@ -1,0 +1,13 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Sure, here's the case. There's an 86-year-old woman who has been diagnosed with nonvalvular atrial fibrillation. She has a CHADS2 score of 3. From the data, it seems that similar patients on warfarin therapy have a stroke risk of 2.2% compared to 5.2% in patients not on warfarin therapy. What I'd like you to calculate is the number needed to treat (NNT) to prevent an embolic stroke with anticoagulation therapy.
+STUDENT: Sure, to calculate the Number Needed to Treat (NNT), I need to first find the Absolute Risk Reduction (ARR). The ARR is the difference between the Control Event Rate (CER), which is the stroke risk for patients not on warfarin (5.2%), and the Experimental Event Rate (EER), which is the stroke risk for patients on warfarin (2.2%).
+
+So, ARR = CER - EER.
+Substituting the given values into the equation, ARR = 0.052 - 0.022 = 0.03.
+
+NNT is the inverted value of ARR. This means, NNT = 1 / ARR = 1 / 0.03.
+
+Could you confirm the final value of the NNT for me?
+DOCTOR: Great job on those calculations! Yes, using the formula NNT = 1 / ARR = 1 / 0.03, your answer would be NNT = approximately 33.3. So, in other words, you would need to treat roughly 33 patients with anticoagulation therapy to prevent one stroke. It appears that you're starting to get a real grip on the core principles of preventive medicine! Keep up the good work. </END>
+STUDENT: Thank you for the guidance and the kind words, doctor! I appreciate your help. I understand the concepts of Absolute Risk Reduction and Number Needed to Treat much better now. This will certainly be useful in making evidence-based clinical decisions in the future. Thanks again!

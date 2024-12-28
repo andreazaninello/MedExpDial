@@ -1,0 +1,12 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Of course! So, we have a 70-year-old woman with a history of anorexia, weight loss, and discomfort in the musculature and proximal joints. She also has pain in the temporomandibular region. She presents due to a sudden, painless, unilateral loss of vision, unable to see anything beyond hand movement. Additionally, she has an afferent pupillary defect. She comes to the emergency department for this vision problem.
+
+Now, can you tell me what test you would request first for diagnostic purposes based on these symptoms?
+STUDENT: Given the patient's presentation and her symptoms of anorexia, weight loss, muscle and joint discomfort, temporomandibular region pain, sudden unilateral vision loss, and an afferent pupillary defect, the suspected diagnosis to consider would be Giant Cell Arteritis (Temporal Arteritis). 
+
+Although the gold standard for diagnosing Giant Cell Arteritis is a Temporal Artery Biopsy, it's imperative to prevent potential further vision loss in the patient, which could be permanent. Given the urgency associated with this disease, I would first order an Erythrocyte Sedimentation Rate (ESR) and C-Reactive Protein (CRP) test. These are acute phase reactants and typically elevated in Giant Cell Arteritis. They can be performed quickly, aiding in the initial diagnosis and guiding the decision to start high-dose corticosteroids immediately for potential Giant Cell Arteritis. The Temporal Artery Biopsy can then be conducted to definitively confirm the diagnosis.
+DOCTOR: Excellent! You've got the concept quite well here. Confirming Giant Cell Arteritis is indeed urgent to prevent irreversible vision loss, and initial testing of ESR and C-reactive protein can help prompt necessary swift management while we arrange for the definitive temporal biopsy. Good job!
+
+</END>
+STUDENT: Thank you, doctor. It's important to balance the need for a swift diagnosis and treatment in urgent situations like this with the need for a confirmatory diagnosis. In this case, starting the patient on corticosteroids even before the confirmatory Temporal Artery Biopsy results, based on her symptoms and the first set of inflammatory markers, would help prevent any potential further vision loss. I appreciate your guidance. I am ready for the next case now.

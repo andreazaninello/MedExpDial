@@ -1,0 +1,20 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Absolutely. Here is the patient's information:
+
+A 32-year-old diabetic patient on insulin therapy has come to the office with a two-week history of tingling in both hands. Interestingly, she describes this as a sensation of "corking" and also reveals an inability to sense thermal changes. She does not have any visual disturbances, strength deficit, motor clumsiness or any other symptoms. Upon examination, we see that she has an absence of pain and temperature sensation in both hands and her distal forearms. However, her positional and vibratory sensitivity seem to be just fine. There's no muscle atrophy or strength deficit. On testing her reflexes, we find that they're normal and symmetrical. Further, she does not display any signs of dysmetria, dysdiadochokinesia or intention tremor. The rest of the neurological examination did not reveal any unusual findings.
+
+Considering all this, what do you think would be the most likely diagnosis for this patient?
+STUDENT: The clinical picture suggests a disorder affecting the patient's sensory system. She appears to have lost sensations of pain, temperature and light touch but has retained sensations of vibration and joint position. This give us a hint about a possible lesion in the spinothalamic tract but preserving the dorsal columns.
+
+My diagnosis would be Syringomyelia. Can you confirm?
+DOCTOR: Absolutely correct! The clinical picture is indeed evocative of Syringomyelia. This condition is characterized by the formation of a cyst or cavity, known as a syrinx, within the spinal cord. This syrinx can expand and elongate over time, damaging the spinal cord and leading to symptoms.
+
+The patient's preserved proprioception and vibratory sensation while pain and temperature sensation being lost can be explained by the fact that, in the spinal cord, the dorsal columns (which carry proprioception and vibration sensation) are located far from the central canal as compared to the spinothalamic tracts (which carry pain and temperature sensation). This central cord syndrome results in a "cape-like" distribution of sensory loss, exactly like in your patient.
+
+Moreover, the absence of cortical or other long tract signs such as vision impairment, motor deficit, dysmetria, dysdiadochokinesia or tremor rules out other pathologies.
+
+Just a side note here: Syringomyelia can be associated with Chiari I malformation and it sometimes can be the first manifestation of this malformation, so this is always something to consider. 
+
+</END>
+STUDENT: Thank you for the insight and additional information about Syringomyelia, especially the potential association with Chiari I malformation. This will no doubt be useful in a real clinical setting when considering a differential diagnosis. I will definitely make a note of this.

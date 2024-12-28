@@ -1,0 +1,18 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Of course! Here's a case for you:
+
+A 70-year-old woman with a history of anorexia, weight loss, discomfort in the muscles and proximal joints and pain in the temporomandibular region comes to the emergency department. She is reporting a sudden, painless, unilateral loss of vision, allowing only hand movement. She also has an afferent pupillary defect. 
+
+What test would you request first for diagnostic purposes?
+STUDENT: The patient's symptoms are concerning for Giant Cell Arteritis (GCA), which is also known as Temporal Arteritis. This condition is an inflammation of the lining of the arteries, primarily seen in the temporal arteries located around the temples. If left untreated, it may lead to irreversible blindness, hence it's an emergency condition. 
+
+The initial diagnostic test we would request is an Erythrocyte Sedimentation Rate (ESR) and a C-Reactive Protein (CRP), both of which are inflammatory markers and are typically elevated in this condition. If these tests are suggestive of GCA, we would need to confirm with a temporal artery biopsy. However, because of the high risk of irreversible vision loss, we should start treatment with corticosteroids even before the biopsy result comes out if GCA is highly suspected.
+DOCTOR: Brilliant analysis! You're absolutely correct. Based on the patient's signs and symptoms, Giant Cell Arteritis is indeed a major concern. This condition can result in serious complications if not treated promptly, making it a medical emergency.
+
+Two tests that tend to be elevated in GCA - Erythrocyte Sedimentation Rate (ESR) and C-Reactive Protein (CRP) - are typically the first tests ordered. In this scenario, our first test would be a C-Reactive Protein given the options.
+
+And yes, while temporal artery biopsy remains the gold standard in confirming the diagnosis, because irreversible vision loss is a major concern, treatment often starts before biopsy results if the clinical suspicion is high.
+
+Very well assessed! </END>
+STUDENT: Thank you, doctor, for your guidance and feedback. The importance of urgency and high clinical suspicion in these cases is made very clear. I'm looking forward to further discussions and learning. </END>

@@ -1,0 +1,35 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Absolutely. We have an 86-year-old woman in whom nonvalvular atrial fibrillation has been detected. She has a CHADS2 score of 3 points. In the literature, similar patients on warfarin therapy have a stroke risk of 2.2% versus 5.2% in patients without warfarin. Now, the question is: What would be the number needed to treat (NNT) to prevent embolic stroke with anticoagulation therapy?
+STUDENT: Yes, I remember studying about the Number Needed to Treat (NNT). It represents the number of patients that need to be treated to prevent one additional bad outcome. It is calculated by taking the inverse of the Absolute Risk Reduction (ARR). 
+
+The ARR is calculated as:
+
+ARR = Control Event Rate - Experimental Event Rate
+
+In this case, the control group would be the patients not on warfarin and the experimental group would be the patients on warfarin. 
+
+So, 
+
+ARR = 5.2% - 2.2% = 3%
+
+To convert this percentage to a proportion, we divide by 100:
+
+ARR = 3/100 = 0.03
+
+We can now calculate the NNT as:
+
+NNT = 1 / ARR
+NNT = 1 / 0.03 = Approximately 33.33
+
+Due to the impossibility of treating a fraction of a person, we typically round up to the next whole number when referring to patients, so it would be considered approximately 34 patients.
+
+So, to prevent one embolic stroke with anticoagulation therapy, we need to treat approximately 34 patients. Is my calculation correct?
+DOCTOR: You've got the concept correct, but you've made a small error in the rounding off part. For the NNT, you would actually round down, because treating 33 patients would not be sufficient to prevent the additional bad outcome, you will actually have to treat the 34th patient for that. Therefore, the NNT is often rounded up, which in this case would result in an NNT of approximately 33, not 34. 
+
+But don't worry, you're doing great. This is a common error students often make and you've got the right idea. Keep going!
+STUDENT: Thank you for the clarification and encouragement, doctor! I understand now - the NNT should be rounded up. So in this case, we need to treat approximately 33 patients with atrial fibrillation with anticoagulation therapy to prevent one additional stroke. I will remember this important point about rounding up the NNT for future cases.
+DOCTOR: That's a good understanding and I'm glad you corrected yourself. The Number Needed to Treat is a powerful tool that helps healthcare professionals make decisions about treatments. It's a way of quantifying the benefit of a drug or procedure. Now, shall we move to the next question or is there anything else about this topic you'd like to know?
+STUDENT: Thank you, Doctor. At the moment, I don't have any additional questions regarding this topic. I feel confident about the concept of Number Needed to Treat (NNT) and how it's calculated. Please, let's move on to the next question.
+DOCTOR: Excellent! I'm glad you've got a grip on the concept of Number Needed to Treat. We will sure move onto the next question. Keep up the great work! </END>
+STUDENT: Thank you, Doctor. I appreciate your guidance and support. I'm ready for the next question!

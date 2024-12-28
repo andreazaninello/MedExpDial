@@ -1,0 +1,13 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Of course! We are discussing a 2-year-old boy. He had multiple episodes of acute otitis media, one incident of meningococcal meningitis and two cases of pneumonia. He was admitted to the hospital three times because of thrombocytopenic purpura, but his antiplatelet antibodies were negative and his bone marrow showed normal megakaryocytes. It's also important to note that several males in his mother's family have died in childhood due to various infectious diseases. He has also been observed to have lesions that are typical of atopic dermatitis. In terms of his immunological status, he has slightly decreased T-lymphocyte populations, higher than normal levels of IgA and IgE, reduced IgM and IgG that is hovering at the lower limit of normal.
+
+What diagnosis do you think makes the most sense given this history and symptom set?
+STUDENT: The case seems to be suggestive of an inherited immunodeficiency, considering the repeated infections and history of disease in males in the maternal line which suggests X-linked inheritance. The set of symptoms seem to be consistent with Wiskott-Aldrich Syndrome (WAS). WAS is an inherited disorder characterized by an increased susceptibility to infections, thrombocytopenia, and eczema (atopic dermatitis). The immunological findings support this, i.e., decreased T cells, increased IgA and IgE, and decreased IgM and normal to decrease IgG. Can we confirm this with genetic testing?
+DOCTOR: Yes, your inference is accurate. Wiskott-Aldrich Syndrome is indeed the most probable diagnosis. This condition, as you rightly mentioned, is characterized by a triad of eczema, recurrent infections and thrombocytopenia. 
+
+Your point about genetic testing is also valid. Genetic testing can confirm the diagnosis as WAS is caused by mutations in the WAS gene on the X chromosome, thereby explaining the X-linked inheritance pattern we observe in this case. The increased susceptibility to infections is due to both B and T cell abnormalities, which fits with our findings of abnormalities in immunoglobulin levels and T-cell count.
+
+Excellent deduction, you have been very thorough in your analysis. Be sure to remember the symptoms, common findings, and inheritance pattern for the USMLE. Good luck! </END>
+STUDENT: Thank you doctor, your guidance is really helpful. I will definitely study more about Wiskott-Aldrich Syndrome, its clinical presentations, and its inheritance pattern. I will also remember to consider it in differential diagnosis when I see a child with recurrent infections, thrombocytopenia, and atopic dermatitis. This discussion provided me a good insight into this condition.
+

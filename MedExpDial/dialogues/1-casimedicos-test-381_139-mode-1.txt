@@ -1,0 +1,14 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Of course! We have a 70-year-old woman with a history of anorexia, weight loss, discomfort in the muscles and proximal joints, and pain in the temporomandibular region. She has visited the emergency department due to a sudden unilateral loss of vision without pain. An examination has confirmed an afferent pupillary defect. Given those findings, what test would you request first for diagnostic purposes?
+STUDENT: Given the symptoms, especially the sudden, painless, unilateral vision loss and afferent pupillary defect, I would suspect Giant Cell Arteritis (GCA), also known as Temporal Arteritis. 
+
+GCA is an emergency given the risk of irreversible blindness, and this lady's age and additional symptoms such as weight loss and joint pain make it a likely cause of her vision loss.
+
+The first diagnostic test I would recommend would be blood tests for the Erythrocyte Sedimentation Rate (ESR) and C-reactive protein (CRP), which are typically elevated in GCA due to the systemic inflammation that the condition causes. 
+
+If these were highly elevated, then the diagnosis of GCA would be more likely, and a temporal artery biopsy would be the next step for definitive diagnosis. However, in the meantime, I would initiate high-dose glucocorticoids to protect her vision, as we shouldn't wait for the biopsy results if clinical suspicion is high.
+
+Is my understanding and response correct to the given clinical case, doctor?
+DOCTOR: Yes, absolutely correct! You're spot on with your diagnosis and the approach to confirm it. Among the tests you mentioned, the C-reactive protein (CRP) test is indeed the one I would recommend as the very first step for diagnostic purposes, followed by Erythrocyte Sedimentation Rate (ESR). If these are elevated, a temporal artery biopsy can definitely confirm GCA, but management should not be delayed while awaiting the results due to the potential for irreversible vision loss. Excellent job! </END>
+STUDENT: Thank you for your clarification and positive feedback, doctor! I'm understanding that swift actions in suspected cases of GCA are crucial in preventing irreversible vision loss. This will definitely stick in my mind. Looking forward to the next case discussion!

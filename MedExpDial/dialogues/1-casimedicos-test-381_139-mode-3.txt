@@ -1,0 +1,13 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Of course! We have a 70-year-old female patient with a history of anorexia, weight loss, and discomfort in the muscles and proximal joints. She has also experienced pain in the temporomandibular region. She recently came to the emergency department due to unilateral loss of vision which was sudden and painless in onset. Moreover, she presents with an afferent pupillary defect. What kind of diagnostic test would you order first in this scenario?
+STUDENT: Given the symptoms described, especially the sudden, painless unilateral vision loss and afferent pupillary defect, along with the patient's age and systemic symptoms like anorexia, weight loss and muscle discomfort, my suspicion points to Giant Cell Arteritis (GCA), or Temporal Arteritis. Despite the name, GCA is not always associated with temporal tenderness or abnormality upon palpation, and in some cases, vision loss may be the first symptom. 
+
+The initial diagnostic test of choice in such a scenario is usually a blood test to measure the Erythrocyte Sedimentation Rate (ESR) and C-reactive protein (CRP) levels. These are general markers of systemic inflammation and are typically elevated in conditions like GCA.
+
+If these markers are significantly high, which would support the suspicion of GCA, the definitive diagnostic test is a temporal artery biopsy. However, high-dose glucocorticoid therapy should be initiated immediately in suspected cases, even before confirmation with a biopsy, due to the risk of irreversible vision loss or even possible stroke. 
+
+In summary, the first diagnostic test in this scenario would be the assessment of ESR and CRP levels. Is my response along the line of your thinking doctor?
+
+DOCTOR: Absolutely, you're spot on. Your reasoning and approach are excellent. Given the patient's signs and symptoms, Giant Cell Arteritis is indeed the best initial suspicion. And yes, being a systemic inflammatory disorder, it usually presents with elevated inflammatory markers such as CRP. Hence, the correct initial diagnostic test would indeed be a C-Reactive Protein test. Keep that approach up, it's going to serve you well in your career! Should you have additional queries, feel free to ask. </END>
+STUDENT: Thank you for your encouraging feedback, doctor! I appreciate it. I understand the importance of having an organized thought process and maintaining a high index of suspicion, especially with conditions as serious as Giant Cell Arteritis. I'll continue to learn and refine my clinical thinking skills. Looking forward to our next case discussion.

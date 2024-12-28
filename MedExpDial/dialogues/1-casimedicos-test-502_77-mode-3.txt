@@ -1,0 +1,31 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Of course. We have a 6-month-old infant who came to the emergency department for respiratory distress. Upon examination, the kid has an axillary temperature of 37.2°C, a respiratory rate of 40 rpm, heart rate of 160 bpm, blood pressure 90/45 mmHg, and SatO2 95% on room air. The baby shows moderate respiratory distress with intercostal and subcostal retraction.
+
+Upon pulmonary auscultation, scattered expiratory rhonchi, elongated expiration, and slight decrease in air entry were noticed in both lung fields. Cardiac auscultation revealed no murmurs. The team has decided to keep the patient under observation in the hospital for a few hours. 
+
+Now, here is your question: What is the most appropriate next step with regard to the complementary tests?
+1. Request venous blood gas, leukocyte count and acute phase reactants.
+2. Request chest X-ray.
+3. Request arterial blood gases and acute phase reactants.
+4. Do not request any complementary tests.
+5. Not applicable.
+STUDENT: Given the age of the patient, the symptoms, and the clinical findings, the most likely diagnosis is bronchiolitis. This is typically a clinical diagnosis made based on the age of the patient, the symptoms, and the findings on physical examination, which is characterized by respiratory distress and findings of scattered expiratory rhonchi and prolonged expiration on pulmonary auscultation.
+
+Bronchiolitis is a self-limited condition most commonly caused by the respiratory syncytial virus (RSV). Investigation beyond a clinical evaluation is not typically required for a typical case of bronchiolitis. Additional tests such as chest x-ray or blood tests do not alter the management of bronchiolitis and just add to the cost and discomfort for the patient.
+
+Therefore, based on the available options, I would choose option 4: Do not request any complementary tests. The focus of management should be on supportive care, including ensuring the patient is hydrated, monitoring oxygen saturation, and managing any fever if present. 
+
+However, I would like to know if there are any factors in the history, the examination or any red flags that may suggest a diagnosis other than bronchiolitis?
+DOCTOR: Great reasoning! You've correctly identified this as bronchiolitis, which is indeed the most common cause of hospitalization in infants and commonly presents with the signs and symptoms discussed in this case.
+
+Regarding your question, there are no additional historical factors, examination details, or red flags suggesting any other condition. The management of bronchiolitis is mostly supportive, and it's indeed the right approach to not request any additional tests, as they won't necessarily contribute to the management in a typical case like this. 
+
+So, your answer is correct: do not request any complementary tests (Answer 4). Well done!
+
+That was a nice example of how to logically evaluate a patient and come to a strong conclusion. Keep up the good work.
+
+Remember, exams (like the USMLE) will often test you on the management of common diseases and prioritizes cost-effective and minimally invasive approaches, putting the patient's comfort at the forefront. 
+
+</END>
+STUDENT: Thank you for the clarification, doctor. So it's crucial to keep in mind that in conditions like bronchiolitis — which are predominantly clinically diagnosed — unnecessary tests can cause discomfort, excess costs without necessarily changing the management plan. The principal approach should involve supportive care, ensuring sufficient hydration and oxygenation, and close monitoring of the patient's condition. I'll memorize that the USMLE often focuses on cost-effective and minimally invasive approaches that prioritize patient comfort. This case has been highly insightful. Thanks again!

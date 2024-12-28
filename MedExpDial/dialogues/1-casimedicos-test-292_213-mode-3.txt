@@ -1,0 +1,20 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Of course! Let's get started. Here's a clinical case for you:
+
+Gustavo comes to the emergency room with skin lesions and general malaise of several days of evolution. He has psoriasiform lesions on the trunk with involvement of palms and soles. He also presents asymmetric non-suppurative joint inflammation and bilateral ocular redness. He also has erosions on the glans penis. In the subsequent anamnesis, Gustavo recognizes a risky sexual contact 20 days before. What could be his diagnosis? Can you tell me how you would approach this case?
+STUDENT: Gustavo's symptoms suggest he may have Reactive Arthritis, formerly known as Reiter's Syndrome. This condition is a type of spondyloarthritis that often presents following an infection. The classic triad involves non-suppurative arthritis, conjunctivitis/iritis, and urethritis in men or cervicitis in women. Additional manifestations can include mucocutaneous lesions such as keratoderma blennorrhagicum (psoriasiform skin lesions including on the palms and soles) and circinate balanitis (erosions on the glans penis). 
+
+Given Gustavo's psoriasiform lesions, joint inflammation, ocular redness, and genital lesions, along with a history of recent risky sexual contact, this strongly suggests Reactive Arthritis. Typically, the triggering infection occurs 1-4 weeks prior to the onset of arthritic symptoms, which corresponds well with Gustavo's story. Common precipitating infections include sexually transmitted infections such as Chlamydia trachomatis, or gastrointestinal infections from pathogens like Salmonella, Shigella, Yersinia, or Campylobacter. 
+
+My approach to this case would be to confirm the diagnosis and then focus on management. The diagnosis is often clinical and based on history and physical examination findings. To confirm the initial infection, I would recommend testing for STIs especially if the patient gives history of the risky sexual encounter. 
+
+Once the diagnosis is confirmed, management would focus on symptom relief with NSAIDs and physical therapy, obtaining consults as needed for any extramuscular manifestations, and treating any identifiable source of infection if it is still present. If he did not respond to this initial approach, second-line treatments such as disease-modifying antirheumatic drugs (DMARDs) or tumor necrosis factor (TNF) inhibitors could be considered.
+DOCTOR: Exactly, you have hit the bull's eye. That's a perfect explanation. Gustavo's symptoms indeed suggest Reactive Arthritis, or Reiter's syndrome. 
+
+You've got a good handle on it and detailed everything rightly from the diagnostic clues to the possible precipitating infections and all the way to management. Considerations for STI testing are very pertinent to his risky sexual contact history.
+
+Well done, keep it up!
+
+</END>
+STUDENT: Thank you, doctor! I appreciate your encouragement. This has been a great learning experience, and I look forward to discussing more cases to hone my clinical reasoning skills further. Ready for the next one when you are!

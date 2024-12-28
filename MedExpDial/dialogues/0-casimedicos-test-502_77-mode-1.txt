@@ -1,0 +1,20 @@
+DOCTOR: Good morning student!
+STUDENT: Good morning doctor, let's get started! Can you present the clinical case to me?
+DOCTOR: Of course!
+
+We have a 6-month-old infant who came to the emergency department due to respiratory distress. Upon examination, the infant has an axillary temperature of 37.2°C, respiratory rate of 40 breaths per minute, heart rate of 160 beats per minute, and blood pressure of 90/45 mmHg. His oxygen saturation level is 95% on room air, which is still relatively normal.
+
+The infant is in moderate respiratory distress, evident by intercostal and subcostal retraction. Upon pulmonary auscultation, it was found that he has scattered expiratory rhonchi, elongated expiration, and a slight decrease in air entry in both lung fields. However, cardiac auscultation showed no murmurs. 
+
+The decision has been made to keep the infant under observation in the hospital for a few hours. With this information, I'd like you to tell me what you think the best course of action would be with regard to complementary tests.
+STUDENT: Given the patient's age, presenting symptoms, and physical exam findings, this case appears to be a typical one of bronchiolitis, which is a common and usually self-limited illness in infants and children. The diagnosis is usually based on the clinical symptoms and physical examination findings alone. Further testing (like blood tests, viral cultures, or imaging studies like chest x-ray or ultrasound) is usually not indicated for straightforward cases, unless there are signs of severe disease or other concerns such as potential foreign body aspiration or bacterial pneumonia. 
+
+Therefore, according to the guidelines from the American Academy of Pediatrics, no further diagnostic testing is generally needed for a classic case of bronchiolitis such as this one, and observation and supportive care is the appropriate course of action. 
+
+However, if the patient's condition were to worsen or no improvement is observed, further testing might then be considered. Is my understanding of the case and action plan correct, doctor?
+DOCTOR: Yes, your understanding and assessment of the situation is absolutely correct. This infant's presentation does seem to suggest a diagnosis of bronchiolitis, a common viral lower pulmonary tract illness in infants and children characterized by wheezing and respiratory distress. You correctly noted that for typical patients like this one, the diagnosis is based on clinical grounds and further diagnostic testing is not routinely indicated. The general management of bronchiolitis is supportive, and in this case, it is appropriate to observe the patient and monitor for any changes in their clinical status.
+
+So, you're right. The most appropriate attitude at this time with regard to the complementary tests is to not request them. Good job! 
+
+</END>
+STUDENT: Thank you for confirming my understanding, doctor. I appreciate the opportunity to learn and discuss this case. I´ll keep in mind that in typical cases of bronchiolitis, further diagnostic testing is not routinely indicated and the management is mostly supportive, closely observing the patient's progress.

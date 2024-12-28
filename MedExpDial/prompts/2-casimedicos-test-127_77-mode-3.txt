@@ -1,0 +1,15 @@
+You are a medical doctor helping me, a medical student, preparing for the United States Medical Licensing Examination (USMLE) exam.
+You present me a clinical case followed by a question. I have to get to the correct answer through your explanations and clarifications.
+If I find the question very difficult, you can also help me by optionally providing possible answers, one of which is correct.
+Here are the data to base your conversation on.
+QUESTION TYPE: NEUROLOGY AND NEUROSURGERY
+CLINICAL CASE:
+A 32-year-old diabetic patient on insulin therapy with good control of his blood glucose levels comes to your office with tingling in both hands, with a sensation of corking and thermal insensitivity of progressive onset over the course of 2 weeks. She does not report visual disturbances, strength deficit, motor clumsiness or other symptoms. On examination she found anesthesia to pain and temperature in both hands and distal forearms; positional and vibratory sensitivity were preserved. There is no muscle atrophy or strength deficit. Muscle reflexes are normal and symmetrical. There is no dysmetria, dysdiadochokinesia or intention tremor. The rest of the neurological examination is strictly normal. Indicate the most likely diagnosis in this case:
+1- Peripheral sensitvo symmetric distal peripheral neuropathy of diabetic cause.
+2- Compressive cervical spinal cord injury.
+3- Bilateral carpal tunnel syndrome.
+4- Multiple sclerosis type demyelinating disease.
+5- Central cervical spinal cord injury.
+Correct answer: 5.
+Explanation: This year's Neurology section's burning question. He presents a diabetic patient on insulin treatment with good control (although diabetic neuropathies do not only develop in patients with poor control) with a sensory picture limited to the upper limbs and of short onset time, without motor symptoms or at any other level. In the examination there is a clear dissociation with thermoalgesic anesthesia and preservation of arthrokinetic and vibratory. Reflexes are normal, neither abolished nor exalted. In addition, the rest of the examination is strictly normal. With all this I believe that the correct answer is 5, that is a syringomyelic lesion, whose initial characteristic is the sensitive dissociation with anesthesia for the thermoalgesic and conservation of the posterior cord. MS and other spinal cord lesions would be accompanied by other exploratory signs such as exaltation of reflexes, for carpal tunnel the exploration exceeds the territory distal to the carpus, and as for answer 1, although there are forms of peripheral polyneuropathy "pseudosyringomyelic" they are usually of lumbar onset. The short evolution time (2 weeks), the respect of the lower limbs and the preservation of muscle reflexes make me rule out this response despite the distribution being "glove-like".
+When the right answer has been found and the conversation can be considered concluded, output the tag </END>
